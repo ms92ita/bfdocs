@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a0b8e2fa7ff91e556c338e7530d6f19c2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a57156a9896046ef7f51156d279124ba1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" kindref="compound">VariationPlan</ref></type>
-        <definition>VariationPlan Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationCalculatedResult.VariationPlan</definition>
+        <definition>VariationPlan VariationPlan</definition>
         <argsstring></argsstring>
         <name>VariationPlan</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationCalculatedResult.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationCalculatedResult.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1aeca4fb7c04a0f51e44c8517e3196e1b6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1ab0c72142f0dc946e0261e3c1320d0716" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Decimal</type>
-        <definition>Decimal Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationCalculatedResult.TotalAmount</definition>
+        <definition>Decimal TotalAmount</definition>
         <argsstring></argsstring>
         <name>TotalAmount</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationCalculatedResult.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationCalculatedResult.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a81f1a583297005fd0756601e9d396a4e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a59a2b276f62a6baf7eef162d1f38832b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>IDictionary&lt; DateTime, Decimal &gt;</type>
-        <definition>IDictionary&lt;DateTime, Decimal&gt; Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationCalculatedResult.Days</definition>
+        <definition>IDictionary&lt;DateTime, Decimal&gt; Days</definition>
         <argsstring></argsstring>
         <name>Days</name>
         <briefdescription>
@@ -44,9 +44,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a5d07c284d1b7d0aa153c4ce61c3b219f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1acfa3653c87415e4afd1ed4fd3d235b8c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationCalculatedResult.VariationCalculatedResult</definition>
+        <definition>VariationCalculatedResult</definition>
         <argsstring>(VariationPlan variationPlan)</argsstring>
         <name>VariationCalculatedResult</name>
         <param>
@@ -68,10 +68,10 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationCalculatedResult.cs" line="8" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationCalculatedResult.cs" bodystart="7" bodyend="19"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a81f1a583297005fd0756601e9d396a4e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>Days</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1aeca4fb7c04a0f51e44c8517e3196e1b6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>TotalAmount</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a5d07c284d1b7d0aa153c4ce61c3b219f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>VariationCalculatedResult</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a0b8e2fa7ff91e556c338e7530d6f19c2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>VariationPlan</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a59a2b276f62a6baf7eef162d1f38832b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>Days</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1ab0c72142f0dc946e0261e3c1320d0716" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>TotalAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1acfa3653c87415e4afd1ed4fd3d235b8c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>VariationCalculatedResult</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result_1a57156a9896046ef7f51156d279124ba1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</scope><name>VariationPlan</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

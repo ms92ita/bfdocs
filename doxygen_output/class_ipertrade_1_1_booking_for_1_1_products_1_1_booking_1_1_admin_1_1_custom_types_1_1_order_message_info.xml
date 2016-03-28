@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a4281a93411c152ef026e02da5eba01fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1aca7472005e3e9330e8cbff0104c2f522" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.OrderMessageInfo.CustomerId</definition>
+        <definition>int CustomerId</definition>
         <argsstring></argsstring>
         <name>CustomerId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="90" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="90" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1add467eb148cc7e8afea8574ab4a21584" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a40e8debace0cc6f4f7baa0fdd309c103" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.OrderMessageInfo.Message</definition>
+        <definition>string Message</definition>
         <argsstring></argsstring>
         <name>Message</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="91" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="91" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1ab1dd59e7aae5d764532aa9528beec843" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a27871d5510b17fb57d55970494c687f3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.OrderMessageInfo.CustomerName</definition>
+        <definition>string CustomerName</definition>
         <argsstring></argsstring>
         <name>CustomerName</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="92" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="92" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a0575b814df778bac68e47513e840258d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a38a99ad8166984689be5c206c7f5cd79" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.OrderMessageInfo.BackendUserName</definition>
+        <definition>string BackendUserName</definition>
         <argsstring></argsstring>
         <name>BackendUserName</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="93" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="93" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a39b3e56be237bed72cf5841f3edf3c7a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a5006da4368292163489d29ad1f399c4e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.OrderMessageInfo.CreationDate</definition>
+        <definition>DateTime CreationDate</definition>
         <argsstring></argsstring>
         <name>CreationDate</name>
         <briefdescription>
@@ -75,11 +75,11 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="89" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="88" bodyend="95"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a0575b814df778bac68e47513e840258d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>BackendUserName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a39b3e56be237bed72cf5841f3edf3c7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>CreationDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a4281a93411c152ef026e02da5eba01fb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>CustomerId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1ab1dd59e7aae5d764532aa9528beec843" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>CustomerName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1add467eb148cc7e8afea8574ab4a21584" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>Message</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a38a99ad8166984689be5c206c7f5cd79" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>BackendUserName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a5006da4368292163489d29ad1f399c4e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>CreationDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1aca7472005e3e9330e8cbff0104c2f522" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>CustomerId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a27871d5510b17fb57d55970494c687f3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>CustomerName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info_1a40e8debace0cc6f4f7baa0fdd309c103" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</scope><name>Message</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

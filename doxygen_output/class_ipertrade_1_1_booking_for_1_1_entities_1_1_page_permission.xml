@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::PagePermission</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a93777359aa9fd89c2dd44019437a7767" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1ae963f04a37f3c48af683e4bda57f3c7b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.PagePermission.PagePermissionId</definition>
+        <definition>int PagePermissionId</definition>
         <argsstring></argsstring>
         <name>PagePermissionId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" bodystart="13" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a95e28417ba20b142d5c5cbc3b7e7179f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a733f988254251f17c59ef8f811a82c81" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.PagePermission.PageId</definition>
+        <definition>int PageId</definition>
         <argsstring></argsstring>
         <name>PageId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" bodystart="14" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a0523865f175cd6071769d8b1714428e3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.PagePermission.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a4a357229572fd1b9cf41b8cd7789c560" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1adf5d10876ef615d7dee2fb89d84ab60f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.PagePermission.AspNetRoleId</definition>
+        <definition>string AspNetRoleId</definition>
         <argsstring></argsstring>
         <name>AspNetRoleId</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a7ff0d52673341269a77b69f56dcb9019" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1afaf837939a993a88828a519d9cee6866" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page" kindref="compound">Page</ref></type>
-        <definition>virtual Page Ipertrade.BookingFor.Entities.PagePermission.Page</definition>
+        <definition>virtual Page Page</definition>
         <argsstring></argsstring>
         <name>Page</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a7ff2062f1e9d16b7aff1801dce832e23" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a36d7fed213b7e115f773966296ef1332" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal" kindref="compound">Portal</ref></type>
-        <definition>virtual Portal Ipertrade.BookingFor.Entities.PagePermission.Portal</definition>
+        <definition>virtual Portal Portal</definition>
         <argsstring></argsstring>
         <name>Portal</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1adc42e6e20dca5bb90e811cd778a2de4d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a507aa6a87b63783e7ba6825b2b32cfc1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role" kindref="compound">AspNetRole</ref></type>
-        <definition>virtual AspNetRole Ipertrade.BookingFor.Entities.PagePermission.AspNetRole</definition>
+        <definition>virtual AspNetRole AspNetRole</definition>
         <argsstring></argsstring>
         <name>AspNetRole</name>
         <briefdescription>
@@ -101,49 +101,49 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="996">
-        <label>Ipertrade.BookingFor.Entities.PagePermission</label>
+      <node id="995">
+        <label>PagePermission</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission"/>
-        <childnode refid="997" relation="public-inheritance">
+        <childnode refid="996" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="997">
+      <node id="996">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="998">
-        <label>Ipertrade.BookingFor.Entities.PagePermission</label>
+      <node id="997">
+        <label>PagePermission</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission"/>
-        <childnode refid="999" relation="public-inheritance">
+        <childnode refid="998" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="999">
+      <node id="998">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PagePermission.cs" bodystart="11" bodyend="23"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1adc42e6e20dca5bb90e811cd778a2de4d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AspNetRole</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a4a357229572fd1b9cf41b8cd7789c560" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AspNetRoleId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a7ff0d52673341269a77b69f56dcb9019" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>Page</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a95e28417ba20b142d5c5cbc3b7e7179f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>PageId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a93777359aa9fd89c2dd44019437a7767" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>PagePermissionId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a7ff2062f1e9d16b7aff1801dce832e23" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>Portal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a0523865f175cd6071769d8b1714428e3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a507aa6a87b63783e7ba6825b2b32cfc1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AspNetRole</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1adf5d10876ef615d7dee2fb89d84ab60f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>AspNetRoleId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1afaf837939a993a88828a519d9cee6866" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>Page</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a733f988254251f17c59ef8f811a82c81" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>PageId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1ae963f04a37f3c48af683e4bda57f3c7b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>PagePermissionId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a36d7fed213b7e115f773966296ef1332" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PagePermission</scope><name>UpdatedOn</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

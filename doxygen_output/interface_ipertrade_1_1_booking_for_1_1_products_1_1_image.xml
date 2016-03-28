@@ -2,12 +2,12 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image" kind="interface" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Image</compoundname>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___image" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.AttributeValue_Image</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantImage</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___image" prot="public" virt="non-virtual">AttributeValue_Image</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image" prot="public" virt="non-virtual">MerchantImage</derivedcompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a8745ccbf184986a1421aa945e39d08df" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Image.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -18,9 +18,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Image.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Image.cs" bodystart="11" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a847d401a06ee8e467d1c96fe5c8f255a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a50c390aab6a4df930a876c163e793ce1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Image.Order</definition>
+        <definition>int Order</definition>
         <argsstring></argsstring>
         <name>Order</name>
         <briefdescription>
@@ -31,9 +31,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Image.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Image.cs" bodystart="12" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1afb19238097987e3e78c186318d64b6ba" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1abf32527fe5282e38fa53bcd1c53b3eb3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.Image.IsDefault</definition>
+        <definition>bool IsDefault</definition>
         <argsstring></argsstring>
         <name>IsDefault</name>
         <briefdescription>
@@ -51,27 +51,27 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="546">
-        <label>Ipertrade.BookingFor.Products.MerchantImage</label>
+        <label>MerchantImage</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image"/>
         <childnode refid="544" relation="public-inheritance">
         </childnode>
       </node>
+      <node id="544">
+        <label>Image</label>
+        <link refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image"/>
+      </node>
       <node id="545">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_Image</label>
+        <label>AttributeValue_Image</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___image"/>
         <childnode refid="544" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="544">
-        <label>Ipertrade.BookingFor.Products.Image</label>
-        <link refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image"/>
-      </node>
     </inheritancegraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Image.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Image.cs" bodystart="9" bodyend="14"/>
     <listofallmembers>
-      <member refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1afb19238097987e3e78c186318d64b6ba" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Image</scope><name>IsDefault</name></member>
-      <member refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a8745ccbf184986a1421aa945e39d08df" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Image</scope><name>Name</name></member>
-      <member refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a847d401a06ee8e467d1c96fe5c8f255a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Image</scope><name>Order</name></member>
+      <member refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1abf32527fe5282e38fa53bcd1c53b3eb3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Image</scope><name>IsDefault</name></member>
+      <member refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Image</scope><name>Name</name></member>
+      <member refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image_1a50c390aab6a4df930a876c163e793ce1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Image</scope><name>Order</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

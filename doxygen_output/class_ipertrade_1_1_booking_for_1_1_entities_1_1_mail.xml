@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::Mail</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a259ebe565817f41b948710216068293c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a9f289b1c930676738d41e59c0d0c63b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Mail.MailId</definition>
+        <definition>int MailId</definition>
         <argsstring></argsstring>
         <name>MailId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a5358def9ccd7d39c9e387bc8673e9560" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a00852cc2833f706558f1c4b7eb953eab" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Mail.MailTemplateId</definition>
+        <definition>int MailTemplateId</definition>
         <argsstring></argsstring>
         <name>MailTemplateId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a49cc3f47198c958138c8c98f5fa5d400" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Mail.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="30" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ae82cc068505d4d1500f8c654c6a651f8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aca248169f102d3d0fc0daae047c43f45" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Mail.MerchantId</definition>
+        <definition>int MerchantId</definition>
         <argsstring></argsstring>
         <name>MerchantId</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa2cdbf5164941425b910fe1eda82ed53" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.RefName</definition>
+        <definition>string RefName</definition>
         <argsstring></argsstring>
         <name>RefName</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a10da0db6bce36b81beeef73af2e172ac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa7b591ef912a1096146accedc620c2a0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.Scope</definition>
+        <definition>string Scope</definition>
         <argsstring></argsstring>
         <name>Scope</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aee550e7a9378e07ed8b558b7fae78f8f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aec6669a3403672f080ea4664e84fabfb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.FromEmails</definition>
+        <definition>string FromEmails</definition>
         <argsstring></argsstring>
         <name>FromEmails</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="38" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ac69857716fd2bc7856ac333dbf15ccdd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a01afa4c8cf38d0c9104fe62902ad54ba" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.ToEmails</definition>
+        <definition>string ToEmails</definition>
         <argsstring></argsstring>
         <name>ToEmails</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a03e0dd4179c72adb08125dccfe7bf599" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ac4525914f62a831b35cbf4ada7c0abf2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.ReplyTo</definition>
+        <definition>string ReplyTo</definition>
         <argsstring></argsstring>
         <name>ReplyTo</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="40" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="40" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a72a9814d73c7daf941f8596e7039e10d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a00533685efc8eefd6feeae97dd0cc491" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.Subject</definition>
+        <definition>string Subject</definition>
         <argsstring></argsstring>
         <name>Subject</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a8c0aa0f0bdaa438a14afbde7facb78db" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa22a174fd7f5d080c4e4714fd0dde308" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.Body</definition>
+        <definition>string Body</definition>
         <argsstring></argsstring>
         <name>Body</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="42" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="42" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa464132d5c247dc1ff8aa1e11c0a0002" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.Mail.Enabled</definition>
+        <definition>bool Enabled</definition>
         <argsstring></argsstring>
         <name>Enabled</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af8dbc5335b97594374a092f136c73085" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a47242ef399946b369cee573448b60a57" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Mail.PlaceHolders</definition>
+        <definition>string PlaceHolders</definition>
         <argsstring></argsstring>
         <name>PlaceHolders</name>
         <briefdescription>
@@ -173,9 +173,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="46" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="46" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af278f4f9866102a5396f1b1c16a44960" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa3709e041e544713dd93e029a978eefd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_template" kindref="compound">MailTemplate</ref></type>
-        <definition>virtual MailTemplate Ipertrade.BookingFor.Entities.Mail.MailTemplate</definition>
+        <definition>virtual MailTemplate MailTemplate</definition>
         <argsstring></argsstring>
         <name>MailTemplate</name>
         <briefdescription>
@@ -186,9 +186,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="48" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ad5bc06fa9a9a30def561acdb6a26a60d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af80f243af98502eaa52cb40e7efa2a36" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant" kindref="compound">Merchant</ref></type>
-        <definition>virtual Merchant Ipertrade.BookingFor.Entities.Mail.Merchant</definition>
+        <definition>virtual Merchant Merchant</definition>
         <argsstring></argsstring>
         <name>Merchant</name>
         <briefdescription>
@@ -199,9 +199,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="49" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ab53d3e7639a24d54b652646684a35e03" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a36d7fed213b7e115f773966296ef1332" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal" kindref="compound">Portal</ref></type>
-        <definition>virtual Portal Ipertrade.BookingFor.Entities.Mail.Portal</definition>
+        <definition>virtual Portal Portal</definition>
         <argsstring></argsstring>
         <name>Portal</name>
         <briefdescription>
@@ -212,9 +212,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="50" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="50" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aae463ccf1c58bfff6dac17f55d056e3f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aee693175a46696aa78f6a346b95dc028" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_transaltion" kindref="compound">MailTransaltion</ref> &gt;</type>
-        <definition>virtual ICollection&lt;MailTransaltion&gt; Ipertrade.BookingFor.Entities.Mail.AllTranslations</definition>
+        <definition>virtual ICollection&lt;MailTransaltion&gt; AllTranslations</definition>
         <argsstring></argsstring>
         <name>AllTranslations</name>
         <briefdescription>
@@ -225,9 +225,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="51" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="51" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a03ba098c32d49e95f3b108cf1b574582" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a3e7b37d03bee2a36f47a1e0824b1d664" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail___subject" kindref="compound">Mail_Subject</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;Mail_Subject&gt; Ipertrade.BookingFor.Entities.Mail.Subjects</definition>
+        <definition>virtual IEnumerable&lt;Mail_Subject&gt; Subjects</definition>
         <argsstring></argsstring>
         <name>Subjects</name>
         <briefdescription>
@@ -238,9 +238,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="53" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af4082ae4fd4798ebc583fc263fd84e39" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a92e21a853929de5fa8139a940dbaa568" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail___body" kindref="compound">Mail_Body</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;Mail_Body&gt; Ipertrade.BookingFor.Entities.Mail.Bodies</definition>
+        <definition>virtual IEnumerable&lt;Mail_Body&gt; Bodies</definition>
         <argsstring></argsstring>
         <name>Bodies</name>
         <briefdescription>
@@ -253,9 +253,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a7355596949a518ef74bd7b14c41dd941" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a1f05d686b4585c5fa4f04a968dae4604" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Entities.Mail.Mail</definition>
+        <definition>Mail</definition>
         <argsstring>()</argsstring>
         <name>Mail</name>
         <briefdescription>
@@ -273,7 +273,7 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="571">
-        <label>Ipertrade.BookingFor.Entities.Mail</label>
+        <label>Mail</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail"/>
         <childnode refid="572" relation="public-inheritance">
         </childnode>
@@ -285,7 +285,7 @@
     </inheritancegraph>
     <collaborationgraph>
       <node id="573">
-        <label>Ipertrade.BookingFor.Entities.Mail</label>
+        <label>Mail</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail"/>
         <childnode refid="574" relation="public-inheritance">
         </childnode>
@@ -297,37 +297,37 @@
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Mail.cs" bodystart="16" bodyend="57"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aae463ccf1c58bfff6dac17f55d056e3f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>AllTranslations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af4082ae4fd4798ebc583fc263fd84e39" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Bodies</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a8c0aa0f0bdaa438a14afbde7facb78db" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Body</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa464132d5c247dc1ff8aa1e11c0a0002" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aee550e7a9378e07ed8b558b7fae78f8f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>FromEmails</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a7355596949a518ef74bd7b14c41dd941" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Mail</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a259ebe565817f41b948710216068293c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MailId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af278f4f9866102a5396f1b1c16a44960" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MailTemplate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a5358def9ccd7d39c9e387bc8673e9560" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MailTemplateId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ad5bc06fa9a9a30def561acdb6a26a60d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Merchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ae82cc068505d4d1500f8c654c6a651f8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MerchantId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af8dbc5335b97594374a092f136c73085" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>PlaceHolders</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ab53d3e7639a24d54b652646684a35e03" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Portal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a49cc3f47198c958138c8c98f5fa5d400" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa2cdbf5164941425b910fe1eda82ed53" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>RefName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a03e0dd4179c72adb08125dccfe7bf599" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>ReplyTo</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a10da0db6bce36b81beeef73af2e172ac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Scope</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a72a9814d73c7daf941f8596e7039e10d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Subject</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a03ba098c32d49e95f3b108cf1b574582" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Subjects</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ac69857716fd2bc7856ac333dbf15ccdd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>ToEmails</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aee693175a46696aa78f6a346b95dc028" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a92e21a853929de5fa8139a940dbaa568" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Bodies</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa22a174fd7f5d080c4e4714fd0dde308" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Body</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aec6669a3403672f080ea4664e84fabfb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>FromEmails</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a1f05d686b4585c5fa4f04a968dae4604" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Mail</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a9f289b1c930676738d41e59c0d0c63b8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MailId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa3709e041e544713dd93e029a978eefd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MailTemplate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a00852cc2833f706558f1c4b7eb953eab" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MailTemplateId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1af80f243af98502eaa52cb40e7efa2a36" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aca248169f102d3d0fc0daae047c43f45" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a47242ef399946b369cee573448b60a57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>PlaceHolders</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a36d7fed213b7e115f773966296ef1332" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1ac4525914f62a831b35cbf4ada7c0abf2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>ReplyTo</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1aa7b591ef912a1096146accedc620c2a0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Scope</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a00533685efc8eefd6feeae97dd0cc491" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Subject</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a3e7b37d03bee2a36f47a1e0824b1d664" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>Subjects</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_mail_1a01afa4c8cf38d0c9104fe62902ad54ba" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>ToEmails</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Mail</scope><name>UpdatedOn</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

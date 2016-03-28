@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::RatePlanStay</compoundname>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_simple_result" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.RatePlanSimpleResult</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_simple_result" prot="public" virt="non-virtual">RatePlanSimpleResult</derivedcompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a307cd02743d7348c284a6a61ebc8f2aa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a4c24aaae9d391593d52e3dd7c95fbc9c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.RatePlanStay.RatePlanId</definition>
+        <definition>int RatePlanId</definition>
         <argsstring></argsstring>
         <name>RatePlanId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" bodystart="28" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a35abcff8d275c0284e34520e8d6eaad2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.RatePlanStay.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" bodystart="32" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a858400453fd32ff985061be9e660140c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1affb2f691948560bdb2aef191124f899a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>System.Guid</type>
-        <definition>System.Guid Ipertrade.BookingFor.Products.Booking.RatePlanStay.RatePlanStayId</definition>
+        <definition>System.Guid RatePlanStayId</definition>
         <argsstring></argsstring>
         <name>RatePlanStayId</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a5ceabb4d677775cf8c8517c9f567c1c6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1ad1f22bcd2061ce47af671222afacaaf2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; System.DateTime &gt;</type>
-        <definition>Nullable&lt;System.DateTime&gt; Ipertrade.BookingFor.Products.Booking.RatePlanStay.Expiration</definition>
+        <definition>Nullable&lt;System.DateTime&gt; Expiration</definition>
         <argsstring></argsstring>
         <name>Expiration</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" line="40" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" bodystart="40" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a52acce0795fc990b650594161c5397a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.RatePlanStay.Description</definition>
+        <definition>string Description</definition>
         <argsstring></argsstring>
         <name>Description</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" bodystart="44" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1acaf314a15273de7fff1451496a14d46d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a4e256b79a4e7a8093537be9f177c93e1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.RatePlanStay.Tags</definition>
+        <definition>string Tags</definition>
         <argsstring></argsstring>
         <name>Tags</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" bodystart="48" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1ad162cbb7b02877c828c22e310baec979" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a7de8f679611e5b640205887606d4bb00" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay" kindref="compound">SuggestedStay</ref></type>
-        <definition>SuggestedStay Ipertrade.BookingFor.Products.Booking.RatePlanStay.SuggestedStay</definition>
+        <definition>SuggestedStay SuggestedStay</definition>
         <argsstring></argsstring>
         <name>SuggestedStay</name>
         <briefdescription>
@@ -101,26 +101,26 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="1760">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanSimpleResult</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_simple_result"/>
-        <childnode refid="1759" relation="public-inheritance">
-        </childnode>
+      <node id="1758">
+        <label>RatePlanStay</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay"/>
       </node>
       <node id="1759">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanStay</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay"/>
+        <label>RatePlanSimpleResult</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_simple_result"/>
+        <childnode refid="1758" relation="public-inheritance">
+        </childnode>
       </node>
     </inheritancegraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanStay.cs" bodystart="24" bodyend="61"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a52acce0795fc990b650594161c5397a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Description</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a5ceabb4d677775cf8c8517c9f567c1c6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Expiration</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a35abcff8d275c0284e34520e8d6eaad2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a307cd02743d7348c284a6a61ebc8f2aa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>RatePlanId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a858400453fd32ff985061be9e660140c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>RatePlanStayId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1ad162cbb7b02877c828c22e310baec979" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>SuggestedStay</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1acaf314a15273de7fff1451496a14d46d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Tags</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1ad1f22bcd2061ce47af671222afacaaf2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Expiration</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a4c24aaae9d391593d52e3dd7c95fbc9c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>RatePlanId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1affb2f691948560bdb2aef191124f899a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>RatePlanStayId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a7de8f679611e5b640205887606d4bb00" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>SuggestedStay</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay_1a4e256b79a4e7a8093537be9f177c93e1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::RatePlanStay</scope><name>Tags</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

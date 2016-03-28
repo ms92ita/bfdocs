@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1afe771ff1be552139e66fe08086efe4e4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1ab5e34bb5ae79e58e13f73fdf9a2d5197" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.PriceId</definition>
+        <definition>int PriceId</definition>
         <argsstring></argsstring>
         <name>PriceId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="87" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="87" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a1b94324eb20775ae8a3c1460f4f264fa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a121d9cb485fa9e23380cb8c883e46c9c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.Tag</definition>
+        <definition>string Tag</definition>
         <argsstring></argsstring>
         <name>Tag</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="88" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="88" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a6e441d9a71599ba10f6d9fdddd9c1801" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="89" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="89" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a4a29a61ec3e4016238aeff3c33e76ce8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a2a3c30fc78942cee500cdf66fb79db35" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.MinAge</definition>
+        <definition>int MinAge</definition>
         <argsstring></argsstring>
         <name>MinAge</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="90" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="90" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a42455dcdc954625312b976d714ae0c9e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a13a3fe7c291fcb686fa0c1fd01230b8a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.MaxAge</definition>
+        <definition>int MaxAge</definition>
         <argsstring></argsstring>
         <name>MaxAge</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="91" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="91" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a7b74ad2727cf86c9ecfac5a2564c5bf7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a01db9190525a01012867b6caae55252e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.MinQt</definition>
+        <definition>int MinQt</definition>
         <argsstring></argsstring>
         <name>MinQt</name>
         <briefdescription>
@@ -81,9 +81,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="92" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="92" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a480a1e94f63e05a5aa6e85d2a8497194" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1aa989bc5f6a816e345e61455d9a0193d3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.MaxQt</definition>
+        <definition>int MaxQt</definition>
         <argsstring></argsstring>
         <name>MaxQt</name>
         <briefdescription>
@@ -94,9 +94,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="93" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="93" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a63a8a09829fee4b11a48f4310121c190" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1ab0c72142f0dc946e0261e3c1320d0716" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Decimal</type>
-        <definition>Decimal Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.TotalAmount</definition>
+        <definition>Decimal TotalAmount</definition>
         <argsstring></argsstring>
         <name>TotalAmount</name>
         <briefdescription>
@@ -107,9 +107,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="94" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="94" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a056d8d71df99faf0ae8ec57db58b3d13" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a49497922f4cae5a61891464e00af03a4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.CalculatedQt</definition>
+        <definition>int CalculatedQt</definition>
         <argsstring></argsstring>
         <name>CalculatedQt</name>
         <briefdescription>
@@ -120,9 +120,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="95" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="95" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a634e98ffe248da85df2b448e50a2464c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a908b2fd418500edc6bff4a3e708511ae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.DefaultQt</definition>
+        <definition>int DefaultQt</definition>
         <argsstring></argsstring>
         <name>DefaultQt</name>
         <briefdescription>
@@ -133,9 +133,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="96" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="96" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1acca99b4d4f24e3c76a710ee5ebb34e4c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a8fd499275fbcdf5c18571ae333d1c203" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.CheckIn</definition>
+        <definition>DateTime CheckIn</definition>
         <argsstring></argsstring>
         <name>CheckIn</name>
         <briefdescription>
@@ -146,9 +146,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="97" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="97" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a6870933a536653828b1ca02e8220b269" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a9eae433f9eac32cec75d8793a54feced" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.CheckOut</definition>
+        <definition>DateTime CheckOut</definition>
         <argsstring></argsstring>
         <name>CheckOut</name>
         <briefdescription>
@@ -159,9 +159,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="98" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="98" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a17f6bd06e4bd0a7aaf48a3e0753550e5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a59a2b276f62a6baf7eef162d1f38832b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>IDictionary&lt; DateTime, Decimal &gt;</type>
-        <definition>IDictionary&lt;DateTime, Decimal&gt; Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.Days</definition>
+        <definition>IDictionary&lt;DateTime, Decimal&gt; Days</definition>
         <argsstring></argsstring>
         <name>Days</name>
         <briefdescription>
@@ -172,9 +172,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="99" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="99" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1acff1083df0ffeb2cac5fe643fe464a2a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a4ca1ef8a6c1d2e7ed0c9f799c1de189a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_simple_result" kindref="compound">VariationPlanSimpleResult</ref> &gt;</type>
-        <definition>ICollection&lt;VariationPlanSimpleResult&gt; Ipertrade.BookingFor.Products.Booking.PriceSimpleResult.Variations</definition>
+        <definition>ICollection&lt;VariationPlanSimpleResult&gt; Variations</definition>
         <argsstring></argsstring>
         <name>Variations</name>
         <briefdescription>
@@ -192,20 +192,20 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" line="86" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/RatePlanSimpleResult.cs" bodystart="85" bodyend="101"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a056d8d71df99faf0ae8ec57db58b3d13" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>CalculatedQt</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1acca99b4d4f24e3c76a710ee5ebb34e4c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>CheckIn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a6870933a536653828b1ca02e8220b269" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>CheckOut</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a17f6bd06e4bd0a7aaf48a3e0753550e5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Days</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a634e98ffe248da85df2b448e50a2464c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>DefaultQt</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a42455dcdc954625312b976d714ae0c9e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MaxAge</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a480a1e94f63e05a5aa6e85d2a8497194" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MaxQt</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a4a29a61ec3e4016238aeff3c33e76ce8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MinAge</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a7b74ad2727cf86c9ecfac5a2564c5bf7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MinQt</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a6e441d9a71599ba10f6d9fdddd9c1801" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1afe771ff1be552139e66fe08086efe4e4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>PriceId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a1b94324eb20775ae8a3c1460f4f264fa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Tag</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a63a8a09829fee4b11a48f4310121c190" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>TotalAmount</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1acff1083df0ffeb2cac5fe643fe464a2a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Variations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a49497922f4cae5a61891464e00af03a4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>CalculatedQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a8fd499275fbcdf5c18571ae333d1c203" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>CheckIn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a9eae433f9eac32cec75d8793a54feced" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>CheckOut</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a59a2b276f62a6baf7eef162d1f38832b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Days</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a908b2fd418500edc6bff4a3e708511ae" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>DefaultQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a13a3fe7c291fcb686fa0c1fd01230b8a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MaxAge</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1aa989bc5f6a816e345e61455d9a0193d3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MaxQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a2a3c30fc78942cee500cdf66fb79db35" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MinAge</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a01db9190525a01012867b6caae55252e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>MinQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1ab5e34bb5ae79e58e13f73fdf9a2d5197" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>PriceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a121d9cb485fa9e23380cb8c883e46c9c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Tag</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1ab0c72142f0dc946e0261e3c1320d0716" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>TotalAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result_1a4ca1ef8a6c1d2e7ed0c9f799c1de189a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</scope><name>Variations</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

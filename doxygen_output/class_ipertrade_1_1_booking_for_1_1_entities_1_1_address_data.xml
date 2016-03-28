@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::AddressData</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a4bcc42219ee88fd5b371b686759b798b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1aec57182df53b04aceca477433c48ecfc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AddressData.Address</definition>
+        <definition>string Address</definition>
         <argsstring></argsstring>
         <name>Address</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="15" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1acab84ec8ff75ca2ec7c61330969c9009" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a2ea7bcbfa86000a1b0cc5d5113c03ab8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AddressData.ZipCode</definition>
+        <definition>string ZipCode</definition>
         <argsstring></argsstring>
         <name>ZipCode</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1af2c89483f9212ff800ce702a538e9978" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AddressData.CityId</definition>
+        <definition>int CityId</definition>
         <argsstring></argsstring>
         <name>CityId</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a1e1361824433e6f1a3ec21edb8a82338" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a1216d1139d48d7b3d60fcf8691bd033e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AddressData.CityName</definition>
+        <definition>string CityName</definition>
         <argsstring></argsstring>
         <name>CityName</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a2c115c67eebb623d3fb0dbeef81ac22d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a6a5ddf7ac28cb8b3a3359723a0bea6bc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AddressData.RegionId</definition>
+        <definition>int RegionId</definition>
         <argsstring></argsstring>
         <name>RegionId</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="19" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1af4e4efd5cbf42d1832a42066b71f8563" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1aac990fc1364045571e07936c11b39a95" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AddressData.RegionName</definition>
+        <definition>string RegionName</definition>
         <argsstring></argsstring>
         <name>RegionName</name>
         <briefdescription>
@@ -81,9 +81,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1aeea2fb519f46732cfff63b3f6ab7663b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a7cecadd80bae8baa60d22a80ac11b511" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AddressData.Phone</definition>
+        <definition>string Phone</definition>
         <argsstring></argsstring>
         <name>Phone</name>
         <briefdescription>
@@ -94,9 +94,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a084490d99cdf50a0d341157d70c67075" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a56d8375d633069a5d115760027f70e8e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AddressData.Fax</definition>
+        <definition>string Fax</definition>
         <argsstring></argsstring>
         <name>Fax</name>
         <briefdescription>
@@ -107,9 +107,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1ab4f874c829cde8ce1e72a14233e82f1d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a3358f0a85a864b6c1cf7da32cbfd267f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AddressData.SiteUrl</definition>
+        <definition>string SiteUrl</definition>
         <argsstring></argsstring>
         <name>SiteUrl</name>
         <briefdescription>
@@ -127,15 +127,15 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AddressData.cs" bodystart="11" bodyend="27"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a4bcc42219ee88fd5b371b686759b798b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>Address</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1af2c89483f9212ff800ce702a538e9978" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>CityId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a1e1361824433e6f1a3ec21edb8a82338" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>CityName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a084490d99cdf50a0d341157d70c67075" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>Fax</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1aeea2fb519f46732cfff63b3f6ab7663b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>Phone</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a2c115c67eebb623d3fb0dbeef81ac22d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>RegionId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1af4e4efd5cbf42d1832a42066b71f8563" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>RegionName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1ab4f874c829cde8ce1e72a14233e82f1d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>SiteUrl</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1acab84ec8ff75ca2ec7c61330969c9009" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>ZipCode</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1aec57182df53b04aceca477433c48ecfc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>Address</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>CityId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a1216d1139d48d7b3d60fcf8691bd033e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>CityName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a56d8375d633069a5d115760027f70e8e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>Fax</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a7cecadd80bae8baa60d22a80ac11b511" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>Phone</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a6a5ddf7ac28cb8b3a3359723a0bea6bc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>RegionId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1aac990fc1364045571e07936c11b39a95" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>RegionName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a3358f0a85a864b6c1cf7da32cbfd267f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>SiteUrl</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_address_data_1a2ea7bcbfa86000a1b0cc5d5113c03ab8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AddressData</scope><name>ZipCode</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

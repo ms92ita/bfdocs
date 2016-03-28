@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::City</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a67b4dd6f2f13d6cee604714a1f467be7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.City.CityId</definition>
+        <definition>int CityId</definition>
         <argsstring></argsstring>
         <name>CityId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ac05f6053694f087aec4ce5db197578cc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a0befb03c55fb8472619ed4322b8be7b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a9d2fce1c00e1dd7a38a5c892b67afa68" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.XPos</definition>
+        <definition>string XPos</definition>
         <argsstring></argsstring>
         <name>XPos</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ab65c4071dde2970bb928ec8827b6dfe1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1add07f7bf0301df062d90fe5e7c4ee1e2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.YPos</definition>
+        <definition>string YPos</definition>
         <argsstring></argsstring>
         <name>YPos</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aafa21c373903ecb003c48288b3c23946" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a274f50f097b3fe91b023df2e0787f675" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.CountryCode</definition>
+        <definition>string CountryCode</definition>
         <argsstring></argsstring>
         <name>CountryCode</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a9d5da3ce341066f0973e1da0cb4c3a29" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aeb5d0ffafc6e9962f670e7e4239c74db" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.Level1Code</definition>
+        <definition>string Level1Code</definition>
         <argsstring></argsstring>
         <name>Level1Code</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aabebc170ad87077199926132aa2c6dca" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a85eabbc81df55f31eee989c773aae1a8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.Level2Code</definition>
+        <definition>string Level2Code</definition>
         <argsstring></argsstring>
         <name>Level2Code</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="49" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a49999fe8c82a0b1229b944f4179d2b02" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ad64c34cea58231e4b6eaf9c77e8a2781" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.Level3Code</definition>
+        <definition>string Level3Code</definition>
         <argsstring></argsstring>
         <name>Level3Code</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="53" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ac8e37ffe92ab94167a03f53d14a4c776" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ab87f4839339d6035714c37161f7d1d4a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.Level4Code</definition>
+        <definition>string Level4Code</definition>
         <argsstring></argsstring>
         <name>Level4Code</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="57" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aa2c541d24b57d4b5cd4588ffaf050b14" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a8b5259bbc03c2d37b971b3bfdb48bdb3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; Int64 &gt;</type>
-        <definition>Nullable&lt;Int64&gt; Ipertrade.BookingFor.Entities.City.Population</definition>
+        <definition>Nullable&lt;Int64&gt; Population</definition>
         <argsstring></argsstring>
         <name>Population</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="61" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="61" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a34224a9594f88b098cf2be0ecf3e683e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a4ae50d856ea40f4f4167d0dfee84d5d4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.City.TimeZone</definition>
+        <definition>string TimeZone</definition>
         <argsstring></argsstring>
         <name>TimeZone</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="65" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="65" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a6eb2f22f87dbd18fdfbf2058b164cb84" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a18bb23938f93cf9a7b349a59c2568f2b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal" kindref="compound">Portal</ref> &gt;</type>
-        <definition>virtual ICollection&lt;Portal&gt; Ipertrade.BookingFor.Entities.City.Portals</definition>
+        <definition>virtual ICollection&lt;Portal&gt; Portals</definition>
         <argsstring></argsstring>
         <name>Portals</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="66" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="66" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a764ea80c76cb1010a3f8d4441496fe48" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a3cefca623c39d1b07315745efade26fa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_geographic_zone" kindref="compound">GeographicZone</ref> &gt;</type>
-        <definition>virtual ICollection&lt;GeographicZone&gt; Ipertrade.BookingFor.Entities.City.Zones</definition>
+        <definition>virtual ICollection&lt;GeographicZone&gt; Zones</definition>
         <argsstring></argsstring>
         <name>Zones</name>
         <briefdescription>
@@ -175,9 +175,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a702f5e11bdab7f11d1978108482dabc4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a55b115f75d1c8f5c10cd915c70e38f89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Entities.City.City</definition>
+        <definition>City</definition>
         <argsstring>()</argsstring>
         <name>City</name>
         <briefdescription>
@@ -195,7 +195,7 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="444">
-        <label>Ipertrade.BookingFor.Entities.City</label>
+        <label>City</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city"/>
         <childnode refid="445" relation="public-inheritance">
         </childnode>
@@ -207,7 +207,7 @@
     </inheritancegraph>
     <collaborationgraph>
       <node id="446">
-        <label>Ipertrade.BookingFor.Entities.City</label>
+        <label>City</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city"/>
         <childnode refid="447" relation="public-inheritance">
         </childnode>
@@ -219,31 +219,31 @@
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/City.cs" bodystart="13" bodyend="68"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a702f5e11bdab7f11d1978108482dabc4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>City</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a67b4dd6f2f13d6cee604714a1f467be7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>CityId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aafa21c373903ecb003c48288b3c23946" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>CountryCode</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a9d5da3ce341066f0973e1da0cb4c3a29" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level1Code</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aabebc170ad87077199926132aa2c6dca" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level2Code</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a49999fe8c82a0b1229b944f4179d2b02" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level3Code</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ac8e37ffe92ab94167a03f53d14a4c776" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level4Code</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ac05f6053694f087aec4ce5db197578cc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aa2c541d24b57d4b5cd4588ffaf050b14" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Population</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a6eb2f22f87dbd18fdfbf2058b164cb84" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Portals</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a34224a9594f88b098cf2be0ecf3e683e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>TimeZone</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a0befb03c55fb8472619ed4322b8be7b8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>XPos</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ab65c4071dde2970bb928ec8827b6dfe1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>YPos</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a764ea80c76cb1010a3f8d4441496fe48" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Zones</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a55b115f75d1c8f5c10cd915c70e38f89" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>City</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>CityId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a274f50f097b3fe91b023df2e0787f675" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>CountryCode</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1aeb5d0ffafc6e9962f670e7e4239c74db" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level1Code</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a85eabbc81df55f31eee989c773aae1a8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level2Code</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ad64c34cea58231e4b6eaf9c77e8a2781" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level3Code</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1ab87f4839339d6035714c37161f7d1d4a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Level4Code</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a8b5259bbc03c2d37b971b3bfdb48bdb3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Population</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a18bb23938f93cf9a7b349a59c2568f2b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Portals</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a4ae50d856ea40f4f4167d0dfee84d5d4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>TimeZone</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a9d2fce1c00e1dd7a38a5c892b67afa68" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>XPos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1add07f7bf0301df062d90fe5e7c4ee1e2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>YPos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_city_1a3cefca623c39d1b07315745efade26fa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::City</scope><name>Zones</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

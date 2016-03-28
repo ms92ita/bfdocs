@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_bindings" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::ProductBindings</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_bindings_1aa78f1f004ebd3d319582c8369988e432" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_bindings_1a61e2d488c27e0b13adb03a51b9c67477" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.ProductBindings.AttributeId</definition>
+        <definition>int AttributeId</definition>
         <argsstring></argsstring>
         <name>AttributeId</name>
         <briefdescription>
@@ -23,7 +23,7 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchType.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchType.cs" bodystart="29" bodyend="32"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_bindings_1aa78f1f004ebd3d319582c8369988e432" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductBindings</scope><name>AttributeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_bindings_1a61e2d488c27e0b13adb03a51b9c67477" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductBindings</scope><name>AttributeId</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

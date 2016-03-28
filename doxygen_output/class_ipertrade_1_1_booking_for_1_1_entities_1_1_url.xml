@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::Url</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a677f3f4620588d4ba1b74f7b6b71080e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a03ff260493cf105554e759c96e6186b0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Url.UrlId</definition>
+        <definition>int UrlId</definition>
         <argsstring></argsstring>
         <name>UrlId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" bodystart="12" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a7c6540eed4f4ccacbee8d0f13fce723f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a10482f8450f9f5bdf5e9d3de9057b257" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Url.UrlLink</definition>
+        <definition>string UrlLink</definition>
         <argsstring></argsstring>
         <name>UrlLink</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" bodystart="13" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a40c33f29f06be514bed249f83d2189e7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a22f4a0942a66bb2b70cd633fd566711a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Url.UrlName</definition>
+        <definition>string UrlName</definition>
         <argsstring></argsstring>
         <name>UrlName</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" bodystart="14" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a35e49d65035f3dbe82718c627c1d4b85" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a733f988254251f17c59ef8f811a82c81" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Url.PageId</definition>
+        <definition>int PageId</definition>
         <argsstring></argsstring>
         <name>PageId</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" bodystart="15" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a67c029bca1e16ac961d5cecce4ef4b2a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a61f2a4a026ab44ef9ee21acd152536f2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.Url.PreSelectDefault</definition>
+        <definition>bool PreSelectDefault</definition>
         <argsstring></argsstring>
         <name>PreSelectDefault</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a2d194bb0cea741aecb5e93e66422a213" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a8a9b5299de1a94e8eeee17d9ebf8835f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_access_url" kindref="compound">UserAccessUrl</ref> &gt;</type>
-        <definition>virtual ICollection&lt;UserAccessUrl&gt; Ipertrade.BookingFor.Entities.Url.UserUrls</definition>
+        <definition>virtual ICollection&lt;UserAccessUrl&gt; UserUrls</definition>
         <argsstring></argsstring>
         <name>UserUrls</name>
         <briefdescription>
@@ -88,48 +88,48 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="1992">
-        <label>Ipertrade.BookingFor.Entities.Url</label>
+      <node id="1991">
+        <label>Url</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url"/>
-        <childnode refid="1993" relation="public-inheritance">
+        <childnode refid="1992" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1993">
+      <node id="1992">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="1994">
-        <label>Ipertrade.BookingFor.Entities.Url</label>
+      <node id="1993">
+        <label>Url</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url"/>
-        <childnode refid="1995" relation="public-inheritance">
+        <childnode refid="1994" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1995">
+      <node id="1994">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Url.cs" bodystart="9" bodyend="19"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a35e49d65035f3dbe82718c627c1d4b85" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>PageId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a67c029bca1e16ac961d5cecce4ef4b2a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>PreSelectDefault</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a677f3f4620588d4ba1b74f7b6b71080e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UrlId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a7c6540eed4f4ccacbee8d0f13fce723f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UrlLink</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a40c33f29f06be514bed249f83d2189e7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UrlName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a2d194bb0cea741aecb5e93e66422a213" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UserUrls</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a733f988254251f17c59ef8f811a82c81" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>PageId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a61f2a4a026ab44ef9ee21acd152536f2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>PreSelectDefault</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a03ff260493cf105554e759c96e6186b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UrlId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a10482f8450f9f5bdf5e9d3de9057b257" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UrlLink</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a22f4a0942a66bb2b70cd633fd566711a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UrlName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_url_1a8a9b5299de1a94e8eeee17d9ebf8835f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Url</scope><name>UserUrls</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

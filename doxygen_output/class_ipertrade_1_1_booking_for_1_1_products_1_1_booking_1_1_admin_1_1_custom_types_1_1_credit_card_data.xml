@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a80c790cde9e7192e92acb4b4474e18ae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a651a3c9de2e16ff0deca8d09dedbda58" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.CreditCardData.Type</definition>
+        <definition>string Type</definition>
         <argsstring></argsstring>
         <name>Type</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="8" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" bodystart="8" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a96b9b5c76da413944edfdc4b7ac8aebf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a23e76a4313bb44b32afe5e1f187a57a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.CreditCardData.TypeId</definition>
+        <definition>string TypeId</definition>
         <argsstring></argsstring>
         <name>TypeId</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="9" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" bodystart="9" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a820d32cf28c4c23d9174a09930d3e41b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a29f04371d5e310e809fba78d01455c95" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.CreditCardData.Number</definition>
+        <definition>string Number</definition>
         <argsstring></argsstring>
         <name>Number</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" bodystart="10" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1ab9d8317c5de000be0858b26732d32978" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a33d84f57a3a909d8a3d86903e95bf5dc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.CreditCardData.Cvc</definition>
+        <definition>string Cvc</definition>
         <argsstring></argsstring>
         <name>Cvc</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" bodystart="11" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a431e6f1541a1052968d09f2a1063f99e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.CreditCardData.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" bodystart="12" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a870a77aba0bfe3fa16e27c34897f7900" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a6bd3b05476a4eebb67a07fa2e7fa6e14" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.CreditCardData.ExpiryMonth</definition>
+        <definition>int ExpiryMonth</definition>
         <argsstring></argsstring>
         <name>ExpiryMonth</name>
         <briefdescription>
@@ -81,9 +81,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" bodystart="13" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a2aaae843ea150ab3d835f08d0730c9e3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a9798b3c15b9457ce3b52aa83e0b5cc06" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.CreditCardData.ExpiryYear</definition>
+        <definition>int ExpiryYear</definition>
         <argsstring></argsstring>
         <name>ExpiryYear</name>
         <briefdescription>
@@ -101,13 +101,13 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="7" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" bodystart="6" bodyend="15"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1ab9d8317c5de000be0858b26732d32978" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Cvc</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a870a77aba0bfe3fa16e27c34897f7900" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>ExpiryMonth</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a2aaae843ea150ab3d835f08d0730c9e3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>ExpiryYear</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a431e6f1541a1052968d09f2a1063f99e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a820d32cf28c4c23d9174a09930d3e41b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Number</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a80c790cde9e7192e92acb4b4474e18ae" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Type</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a96b9b5c76da413944edfdc4b7ac8aebf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>TypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a33d84f57a3a909d8a3d86903e95bf5dc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Cvc</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a6bd3b05476a4eebb67a07fa2e7fa6e14" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>ExpiryMonth</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a9798b3c15b9457ce3b52aa83e0b5cc06" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>ExpiryYear</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a29f04371d5e310e809fba78d01455c95" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Number</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a651a3c9de2e16ff0deca8d09dedbda58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>Type</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data_1a23e76a4313bb44b32afe5e1f187a57a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</scope><name>TypeId</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

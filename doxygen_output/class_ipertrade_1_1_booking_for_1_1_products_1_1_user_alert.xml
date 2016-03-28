@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::UserAlert</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a687526a93e3a3da16fcbbd24ee22f271" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a4ccb278ea1e4ddcb784c17bc7a693645" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.UserAlert.UserAlertId</definition>
+        <definition>int UserAlertId</definition>
         <argsstring></argsstring>
         <name>UserAlertId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="12" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1abf2b52d0e74b13d5855129a8a2ba4a36" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a96174d09db90f619c04aad6a07441d53" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.UserAlert.UserAlertSearchId</definition>
+        <definition>int UserAlertSearchId</definition>
         <argsstring></argsstring>
         <name>UserAlertSearchId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="13" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a6521bf27ae753b351e9295097ccd547e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.UserAlert.Enabled</definition>
+        <definition>bool Enabled</definition>
         <argsstring></argsstring>
         <name>Enabled</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="14" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a13c264f37458c8e69eec29f40d9b163c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.UserAlert.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="15" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1aa571ef34f426444e8b00ddf9c22f585b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a46bbdda148e2dc15aaa4ffb8d0015430" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.UserAlert.FirstName</definition>
+        <definition>string FirstName</definition>
         <argsstring></argsstring>
         <name>FirstName</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1aea9734fa23cc41337ad64996cefc5b10" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1afe43a1e86c660582c37e3b84039ca83c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.UserAlert.LastName</definition>
+        <definition>string LastName</definition>
         <argsstring></argsstring>
         <name>LastName</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1aa99c1a4776d7f44f0ee536af64de231a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a969077c0c8472d617ab791c783a01194" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.UserAlert.UserCulture</definition>
+        <definition>string UserCulture</definition>
         <argsstring></argsstring>
         <name>UserCulture</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a3b1a7d1af9c98c3beafd5798995cb376" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a0dc060a7a1edc97e36487e4a89abe7ce" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.UserAlert.RequestAuthorityUrl</definition>
+        <definition>string RequestAuthorityUrl</definition>
         <argsstring></argsstring>
         <name>RequestAuthorityUrl</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="19" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1acf6c043903cefd9cd8732fa6d26dc00f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ad076503e6acd49c6278eda1ccaf721d4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.UserAlert.EmailTo</definition>
+        <definition>string EmailTo</definition>
         <argsstring></argsstring>
         <name>EmailTo</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a4327747545f52fed5d4ec47654c54829" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ae8cd09864c3f642eb3859cdbfaaff7ce" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>byte[]</type>
-        <definition>byte [] Ipertrade.BookingFor.Products.UserAlert.HashedEmail</definition>
+        <definition>byte [] HashedEmail</definition>
         <argsstring></argsstring>
         <name>HashedEmail</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ad9c165bad432b389dae0dd1184d41c8f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a7cecadd80bae8baa60d22a80ac11b511" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.UserAlert.Phone</definition>
+        <definition>string Phone</definition>
         <argsstring></argsstring>
         <name>Phone</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1af6bc0f8d6cf104c5e4b270e030d8632b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1abf789cc9b3a474061d95c2856ea372cf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.UserAlert.StartDate</definition>
+        <definition>DateTime StartDate</definition>
         <argsstring></argsstring>
         <name>StartDate</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="23" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a71626c575792832c7cdbfd746165f71a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a7fc8e1067a82d18c97f8d1b08e89e843" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.UserAlert.EndDate</definition>
+        <definition>DateTime EndDate</definition>
         <argsstring></argsstring>
         <name>EndDate</name>
         <briefdescription>
@@ -173,9 +173,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="24" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a2757b1ba880e1d365f1ce78b9f5ad2da" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1af63b297dd9554e606961d0d05ab5e89b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.UserAlert.LastExecutedDate</definition>
+        <definition>DateTime LastExecutedDate</definition>
         <argsstring></argsstring>
         <name>LastExecutedDate</name>
         <briefdescription>
@@ -186,9 +186,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ac436517a8f9ac74db4d71a8643fa7487" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a40fb3b9bb77c5f4eb8ce6884d86ccda8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_portal" kindref="compound">ProductsPortal</ref></type>
-        <definition>virtual ProductsPortal Ipertrade.BookingFor.Products.UserAlert.Portal</definition>
+        <definition>virtual ProductsPortal Portal</definition>
         <argsstring></argsstring>
         <name>Portal</name>
         <briefdescription>
@@ -199,9 +199,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ac891beee91f60ad954caa23f648ffa0f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1acd9c2a1eef0351303fb3a3b3e14e8fa6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search" kindref="compound">UserAlertSearch</ref></type>
-        <definition>virtual UserAlertSearch Ipertrade.BookingFor.Products.UserAlert.UserAlertSearch</definition>
+        <definition>virtual UserAlertSearch UserAlertSearch</definition>
         <argsstring></argsstring>
         <name>UserAlertSearch</name>
         <briefdescription>
@@ -218,58 +218,58 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="2000">
-        <label>Ipertrade.BookingFor.Products.UserAlert</label>
+      <node id="1999">
+        <label>UserAlert</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert"/>
-        <childnode refid="2001" relation="public-inheritance">
+        <childnode refid="2000" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="2001">
+      <node id="2000">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="2002">
-        <label>Ipertrade.BookingFor.Products.UserAlert</label>
+      <node id="2001">
+        <label>UserAlert</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert"/>
-        <childnode refid="2003" relation="public-inheritance">
+        <childnode refid="2002" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="2003">
+      <node id="2002">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlert.cs" bodystart="10" bodyend="29"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1acf6c043903cefd9cd8732fa6d26dc00f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>EmailTo</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a6521bf27ae753b351e9295097ccd547e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a71626c575792832c7cdbfd746165f71a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>EndDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1aa571ef34f426444e8b00ddf9c22f585b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>FirstName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a4327747545f52fed5d4ec47654c54829" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>HashedEmail</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a2757b1ba880e1d365f1ce78b9f5ad2da" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>LastExecutedDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1aea9734fa23cc41337ad64996cefc5b10" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>LastName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ad9c165bad432b389dae0dd1184d41c8f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>Phone</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ac436517a8f9ac74db4d71a8643fa7487" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>Portal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a13c264f37458c8e69eec29f40d9b163c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a3b1a7d1af9c98c3beafd5798995cb376" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>RequestAuthorityUrl</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1af6bc0f8d6cf104c5e4b270e030d8632b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>StartDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a687526a93e3a3da16fcbbd24ee22f271" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserAlertId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ac891beee91f60ad954caa23f648ffa0f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserAlertSearch</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1abf2b52d0e74b13d5855129a8a2ba4a36" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserAlertSearchId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1aa99c1a4776d7f44f0ee536af64de231a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserCulture</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ad076503e6acd49c6278eda1ccaf721d4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>EmailTo</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a7fc8e1067a82d18c97f8d1b08e89e843" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>EndDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a46bbdda148e2dc15aaa4ffb8d0015430" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>FirstName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1ae8cd09864c3f642eb3859cdbfaaff7ce" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>HashedEmail</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1af63b297dd9554e606961d0d05ab5e89b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>LastExecutedDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1afe43a1e86c660582c37e3b84039ca83c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>LastName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a7cecadd80bae8baa60d22a80ac11b511" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>Phone</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a40fb3b9bb77c5f4eb8ce6884d86ccda8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a0dc060a7a1edc97e36487e4a89abe7ce" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>RequestAuthorityUrl</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1abf789cc9b3a474061d95c2856ea372cf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>StartDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a4ccb278ea1e4ddcb784c17bc7a693645" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserAlertId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1acd9c2a1eef0351303fb3a3b3e14e8fa6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserAlertSearch</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a96174d09db90f619c04aad6a07441d53" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserAlertSearchId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_1a969077c0c8472d617ab791c783a01194" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlert</scope><name>UserCulture</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

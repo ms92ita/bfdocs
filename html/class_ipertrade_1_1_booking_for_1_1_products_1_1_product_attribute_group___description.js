@@ -1,0 +1,4 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___description =
+[
+    [ "ProductAttributeGroup_Description", "class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___description.html#a8d5a6dae82b4e9142d3efebd8f527233", null ]
+];

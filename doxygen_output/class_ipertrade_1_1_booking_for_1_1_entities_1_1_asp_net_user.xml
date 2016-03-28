@@ -5,9 +5,9 @@
     <basecompoundref prot="public" virt="non-virtual">IdentityUser&lt; string, AspNetUserLogin, AspNetUserRole, AspNetUserClaim &gt;</basecompoundref>
     <basecompoundref prot="public" virt="non-virtual">IUser&lt; string &gt;</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afc3b880aa60d2f2998e046d85b3534c4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a46bbdda148e2dc15aaa4ffb8d0015430" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.FirstName</definition>
+        <definition>string FirstName</definition>
         <argsstring></argsstring>
         <name>FirstName</name>
         <briefdescription>
@@ -18,9 +18,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="24" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ab27071ffff97847f0cd394c452f72b51" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afe43a1e86c660582c37e3b84039ca83c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.LastName</definition>
+        <definition>string LastName</definition>
         <argsstring></argsstring>
         <name>LastName</name>
         <briefdescription>
@@ -31,9 +31,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a47a3f7d76997c194b315e6d968b4aaee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.AspNetUser.IsActive</definition>
+        <definition>bool IsActive</definition>
         <argsstring></argsstring>
         <name>IsActive</name>
         <briefdescription>
@@ -44,9 +44,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1abd263fd4c46c3a834bb35976be0e3b9c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa626dcdb197421ed51e909c8ecfd900d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetUser.CurrentManagingPortalId</definition>
+        <definition>int CurrentManagingPortalId</definition>
         <argsstring></argsstring>
         <name>CurrentManagingPortalId</name>
         <briefdescription>
@@ -57,9 +57,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a7b8835eb1552b1d7f8b2ec9206166b31" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a29ed9c4e0b3f0f92b136aa3a8c12a798" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetUser.CurrentManagingMerchantId</definition>
+        <definition>int CurrentManagingMerchantId</definition>
         <argsstring></argsstring>
         <name>CurrentManagingMerchantId</name>
         <briefdescription>
@@ -70,9 +70,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="28" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a62a3a4fe4f91db24e167c75e4304e1fe" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a88cb843da5447f4cd726cbfdc6f9d081" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.NameIdentifier</definition>
+        <definition>string NameIdentifier</definition>
         <argsstring></argsstring>
         <name>NameIdentifier</name>
         <briefdescription>
@@ -83,9 +83,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1adbd9a081888196472728736aff6e2eac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8a12e6e75976836e02e88a19d0c925b0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.Language</definition>
+        <definition>string Language</definition>
         <argsstring></argsstring>
         <name>Language</name>
         <briefdescription>
@@ -96,9 +96,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="30" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa21023d04181bd8dfdf2f1f72a5e8687" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa8aa83dccc77bb0ac4b9fe0ad7e65424" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.PhotoName</definition>
+        <definition>string PhotoName</definition>
         <argsstring></argsstring>
         <name>PhotoName</name>
         <briefdescription>
@@ -109,9 +109,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="31" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6fafa127dea7d66d6ff749063194b1ba" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa4ca935b7264736debe933b3868cd3a1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.AspNetUser.ValidationStart</definition>
+        <definition>DateTime ValidationStart</definition>
         <argsstring></argsstring>
         <name>ValidationStart</name>
         <briefdescription>
@@ -122,9 +122,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="32" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a5f3679a781166ad12cc60f63c87c9ca8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa6f3ebce49f0019721ac0d301627e88a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.AspNetUser.ValidationEnd</definition>
+        <definition>DateTime ValidationEnd</definition>
         <argsstring></argsstring>
         <name>ValidationEnd</name>
         <briefdescription>
@@ -135,9 +135,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a7d64279d919334ab31aeea896176e4aa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a13e8bce0a41f48fd84989e28c5ae8c40" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.Organization</definition>
+        <definition>string Organization</definition>
         <argsstring></argsstring>
         <name>Organization</name>
         <briefdescription>
@@ -148,9 +148,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a284cbe3a6d12728dcddb8f5dd81a4efd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aba5cc73968ee96528ff5272ecc2e8c3a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.Website</definition>
+        <definition>string Website</definition>
         <argsstring></argsstring>
         <name>Website</name>
         <briefdescription>
@@ -161,9 +161,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa86725c5d460ef1cb91d00801491657a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aec57182df53b04aceca477433c48ecfc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.Address</definition>
+        <definition>string Address</definition>
         <argsstring></argsstring>
         <name>Address</name>
         <briefdescription>
@@ -174,9 +174,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6d3ae00eb3769b588b38972a088c9c42" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a2a9b509277c88dadcaaaf71d612882c6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetUser.StateId</definition>
+        <definition>int StateId</definition>
         <argsstring></argsstring>
         <name>StateId</name>
         <briefdescription>
@@ -187,9 +187,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1af7bc6768943b39d9a4b1426c1de9ffee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6a5ddf7ac28cb8b3a3359723a0bea6bc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetUser.RegionId</definition>
+        <definition>int RegionId</definition>
         <argsstring></argsstring>
         <name>RegionId</name>
         <briefdescription>
@@ -200,9 +200,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="38" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afcc4a1fb17c3006d43d5f51cd11c5a70" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetUser.CityId</definition>
+        <definition>int CityId</definition>
         <argsstring></argsstring>
         <name>CityId</name>
         <briefdescription>
@@ -213,9 +213,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa836789b86e6eea4057ed549fbeedc0c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1abd3eafd96f5d1f2f77b98379d5bec346" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.StateName</definition>
+        <definition>string StateName</definition>
         <argsstring></argsstring>
         <name>StateName</name>
         <briefdescription>
@@ -226,9 +226,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="40" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="40" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae12a6c39350af7f37b029d41b6b3f990" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aac990fc1364045571e07936c11b39a95" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.RegionName</definition>
+        <definition>string RegionName</definition>
         <argsstring></argsstring>
         <name>RegionName</name>
         <briefdescription>
@@ -239,9 +239,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8827f8446bee2d493925e8e5fccb5186" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a1216d1139d48d7b3d60fcf8691bd033e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.CityName</definition>
+        <definition>string CityName</definition>
         <argsstring></argsstring>
         <name>CityName</name>
         <briefdescription>
@@ -252,9 +252,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="42" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="42" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a3e29c0223f6ba18890c3374a083ded73" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a2ea7bcbfa86000a1b0cc5d5113c03ab8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetUser.ZipCode</definition>
+        <definition>string ZipCode</definition>
         <argsstring></argsstring>
         <name>ZipCode</name>
         <briefdescription>
@@ -265,9 +265,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="43" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1abb2d68628df40c435c91cf0fb16e6da2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ada2c77bb324ae5230a122795b50cee06" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.AspNetUser.AddedOn</definition>
+        <definition>DateTime AddedOn</definition>
         <argsstring></argsstring>
         <name>AddedOn</name>
         <briefdescription>
@@ -278,9 +278,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="44" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae9ba9bdd37de65e127f24bf292b6d0b4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6e8057915acd551cfb4a4e6f409ae2a7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.AspNetUser.UpdatedOn</definition>
+        <definition>DateTime UpdatedOn</definition>
         <argsstring></argsstring>
         <name>UpdatedOn</name>
         <briefdescription>
@@ -291,9 +291,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a245a9d9b2804daca4fec7d016c2bf7d3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a7c6c64b31e1c54d47659f3ac58c6689e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.AspNetUser.DeletedOn</definition>
+        <definition>DateTime DeletedOn</definition>
         <argsstring></argsstring>
         <name>DeletedOn</name>
         <briefdescription>
@@ -304,9 +304,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="46" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="46" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8884813210620b462cc7af4e989d57d9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1af7acb58c3326881ca4416d140475e216" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>byte[]</type>
-        <definition>byte [] Ipertrade.BookingFor.Entities.AspNetUser.RowVersion</definition>
+        <definition>byte [] RowVersion</definition>
         <argsstring></argsstring>
         <name>RowVersion</name>
         <briefdescription>
@@ -317,9 +317,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="49" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a4a319e237e272e4a2f9fed8cc5e19062" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a4aa39bf5b18f204e856082d1c2280313" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant" kindref="compound">Merchant</ref> &gt;</type>
-        <definition>virtual ICollection&lt;Merchant&gt; Ipertrade.BookingFor.Entities.AspNetUser.Merchants</definition>
+        <definition>virtual ICollection&lt;Merchant&gt; Merchants</definition>
         <argsstring></argsstring>
         <name>Merchants</name>
         <briefdescription>
@@ -330,9 +330,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="53" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae4f648ea4c753c538349e98f071240d1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a18bb23938f93cf9a7b349a59c2568f2b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal" kindref="compound">Portal</ref> &gt;</type>
-        <definition>virtual ICollection&lt;Portal&gt; Ipertrade.BookingFor.Entities.AspNetUser.Portals</definition>
+        <definition>virtual ICollection&lt;Portal&gt; Portals</definition>
         <argsstring></argsstring>
         <name>Portals</name>
         <briefdescription>
@@ -343,9 +343,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="54" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="54" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a0d1cc1fa2421c6d400b6a12b6e2ad6eb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a32a8c1772a0462cbba5035ab96799e99" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.AspNetUser.IsAdmin</definition>
+        <definition>bool IsAdmin</definition>
         <argsstring></argsstring>
         <name>IsAdmin</name>
         <briefdescription>
@@ -356,9 +356,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="58" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1add44430c79ea9529e747a824985af952" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1af986bc86535162071b50f90fec1ddb72" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.AspNetUser.IsMerchant</definition>
+        <definition>bool IsMerchant</definition>
         <argsstring></argsstring>
         <name>IsMerchant</name>
         <briefdescription>
@@ -369,9 +369,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="63" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="64" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aaf8cf53e78fdb5eae9706cda30a9de3a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a371172085cfe39c2d2a607eb358d29c5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.AspNetUser.HasSinglePortal</definition>
+        <definition>bool HasSinglePortal</definition>
         <argsstring></argsstring>
         <name>HasSinglePortal</name>
         <briefdescription>
@@ -382,9 +382,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="69" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="69" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afb7e8410d74156076a042fb03c1b9f83" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8d5771142d1c78b211e48d5dcd2c48aa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.AspNetUser.HasSingleMerchant</definition>
+        <definition>bool HasSingleMerchant</definition>
         <argsstring></argsstring>
         <name>HasSingleMerchant</name>
         <briefdescription>
@@ -397,9 +397,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa6527e2251f3cbbe0ad8d09d18d6c8cc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ad177575aeafdba89593c88132d3f24ec" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Entities.AspNetUser.AspNetUser</definition>
+        <definition>AspNetUser</definition>
         <argsstring>()</argsstring>
         <name>AspNetUser</name>
         <briefdescription>
@@ -416,32 +416,32 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
+      <node id="34">
+        <label>IUser&lt; string &gt;</label>
+      </node>
       <node id="32">
-        <label>Ipertrade.BookingFor.Entities.AspNetUser</label>
+        <label>AspNetUser</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user"/>
         <childnode refid="33" relation="public-inheritance">
         </childnode>
         <childnode refid="34" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="34">
-        <label>IUser&lt; string &gt;</label>
-      </node>
       <node id="33">
         <label>IdentityUser&lt; string, AspNetUserLogin, AspNetUserRole, AspNetUserClaim &gt;</label>
       </node>
     </inheritancegraph>
     <collaborationgraph>
+      <node id="37">
+        <label>IUser&lt; string &gt;</label>
+      </node>
       <node id="35">
-        <label>Ipertrade.BookingFor.Entities.AspNetUser</label>
+        <label>AspNetUser</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user"/>
         <childnode refid="36" relation="public-inheritance">
         </childnode>
         <childnode refid="37" relation="public-inheritance">
         </childnode>
-      </node>
-      <node id="37">
-        <label>IUser&lt; string &gt;</label>
       </node>
       <node id="36">
         <label>IdentityUser&lt; string, AspNetUserLogin, AspNetUserRole, AspNetUserClaim &gt;</label>
@@ -449,37 +449,37 @@
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUser.cs" bodystart="14" bodyend="75"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1abb2d68628df40c435c91cf0fb16e6da2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa86725c5d460ef1cb91d00801491657a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Address</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa6527e2251f3cbbe0ad8d09d18d6c8cc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>AspNetUser</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afcc4a1fb17c3006d43d5f51cd11c5a70" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CityId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8827f8446bee2d493925e8e5fccb5186" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CityName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a7b8835eb1552b1d7f8b2ec9206166b31" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CurrentManagingMerchantId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1abd263fd4c46c3a834bb35976be0e3b9c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CurrentManagingPortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a245a9d9b2804daca4fec7d016c2bf7d3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afc3b880aa60d2f2998e046d85b3534c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>FirstName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afb7e8410d74156076a042fb03c1b9f83" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>HasSingleMerchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aaf8cf53e78fdb5eae9706cda30a9de3a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>HasSinglePortal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a47a3f7d76997c194b315e6d968b4aaee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a0d1cc1fa2421c6d400b6a12b6e2ad6eb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>IsAdmin</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1add44430c79ea9529e747a824985af952" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>IsMerchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1adbd9a081888196472728736aff6e2eac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Language</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ab27071ffff97847f0cd394c452f72b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>LastName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a4a319e237e272e4a2f9fed8cc5e19062" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Merchants</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a62a3a4fe4f91db24e167c75e4304e1fe" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>NameIdentifier</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a7d64279d919334ab31aeea896176e4aa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Organization</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa21023d04181bd8dfdf2f1f72a5e8687" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>PhotoName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae4f648ea4c753c538349e98f071240d1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Portals</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1af7bc6768943b39d9a4b1426c1de9ffee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>RegionId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae12a6c39350af7f37b029d41b6b3f990" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>RegionName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8884813210620b462cc7af4e989d57d9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6d3ae00eb3769b588b38972a088c9c42" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>StateId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa836789b86e6eea4057ed549fbeedc0c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>StateName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae9ba9bdd37de65e127f24bf292b6d0b4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a5f3679a781166ad12cc60f63c87c9ca8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>ValidationEnd</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6fafa127dea7d66d6ff749063194b1ba" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>ValidationStart</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a284cbe3a6d12728dcddb8f5dd81a4efd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Website</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a3e29c0223f6ba18890c3374a083ded73" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>ZipCode</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ada2c77bb324ae5230a122795b50cee06" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aec57182df53b04aceca477433c48ecfc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Address</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ad177575aeafdba89593c88132d3f24ec" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>AspNetUser</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CityId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a1216d1139d48d7b3d60fcf8691bd033e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CityName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a29ed9c4e0b3f0f92b136aa3a8c12a798" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CurrentManagingMerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa626dcdb197421ed51e909c8ecfd900d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>CurrentManagingPortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a7c6c64b31e1c54d47659f3ac58c6689e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a46bbdda148e2dc15aaa4ffb8d0015430" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>FirstName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8d5771142d1c78b211e48d5dcd2c48aa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>HasSingleMerchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a371172085cfe39c2d2a607eb358d29c5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>HasSinglePortal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a32a8c1772a0462cbba5035ab96799e99" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>IsAdmin</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1af986bc86535162071b50f90fec1ddb72" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>IsMerchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a8a12e6e75976836e02e88a19d0c925b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Language</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1afe43a1e86c660582c37e3b84039ca83c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>LastName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a4aa39bf5b18f204e856082d1c2280313" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Merchants</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a88cb843da5447f4cd726cbfdc6f9d081" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>NameIdentifier</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a13e8bce0a41f48fd84989e28c5ae8c40" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Organization</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa8aa83dccc77bb0ac4b9fe0ad7e65424" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>PhotoName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a18bb23938f93cf9a7b349a59c2568f2b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Portals</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6a5ddf7ac28cb8b3a3359723a0bea6bc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>RegionId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aac990fc1364045571e07936c11b39a95" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>RegionName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a2a9b509277c88dadcaaaf71d612882c6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>StateId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1abd3eafd96f5d1f2f77b98379d5bec346" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>StateName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a6e8057915acd551cfb4a4e6f409ae2a7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa6f3ebce49f0019721ac0d301627e88a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>ValidationEnd</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aa4ca935b7264736debe933b3868cd3a1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>ValidationStart</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1aba5cc73968ee96528ff5272ecc2e8c3a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>Website</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a2ea7bcbfa86000a1b0cc5d5113c03ab8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUser</scope><name>ZipCode</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

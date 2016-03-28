@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::SuggestedStay</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ab427fdb13c3fd949466fd41d93f995e4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a09b3b2bc30edde37bcf7de058bfdc69c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; int &gt;</type>
-        <definition>Nullable&lt;int&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.UnitId</definition>
+        <definition>Nullable&lt;int&gt; UnitId</definition>
         <argsstring></argsstring>
         <name>UnitId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="31" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a023113030ba582da06118b09be310325" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a86eb43b370f38b866753f860c31459a4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; System.DateTime &gt;</type>
-        <definition>Nullable&lt;System.DateTime&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.CheckIn</definition>
+        <definition>Nullable&lt;System.DateTime&gt; CheckIn</definition>
         <argsstring></argsstring>
         <name>CheckIn</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1abae5763ca6c9cf08fc15164b6255c6d8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1afeba9d0d5498450bcab78a619e3a2aca" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; System.DateTime &gt;</type>
-        <definition>Nullable&lt;System.DateTime&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.CheckOut</definition>
+        <definition>Nullable&lt;System.DateTime&gt; CheckOut</definition>
         <argsstring></argsstring>
         <name>CheckOut</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ad9ee33fcb56b6be41b58261d9a27580c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a3fda8d12ac48844fe6550f3ed0c078a8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; int &gt;</type>
-        <definition>Nullable&lt;int&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.Days</definition>
+        <definition>Nullable&lt;int&gt; Days</definition>
         <argsstring></argsstring>
         <name>Days</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="43" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac2c81cb928865e8d6f070c2a94f3a67f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a46073b787aeea972fc66cd1931d54828" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.HolidayPrice</definition>
+        <definition>Nullable&lt;decimal&gt; HolidayPrice</definition>
         <argsstring></argsstring>
         <name>HolidayPrice</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="47" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="47" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a5940cfd2b8d81b7704a5e815ddd547e0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1af91f7da4e2a1f3c6b6fb502211fbc0a4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.PaxesPrice</definition>
+        <definition>Nullable&lt;decimal&gt; PaxesPrice</definition>
         <argsstring></argsstring>
         <name>PaxesPrice</name>
         <briefdescription>
@@ -81,9 +81,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="51" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="51" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a819b764b0d746c9c4dc8dda19a111b4d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8d3ae4f6f9a399886de08e89d1b6825c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.ExtrasPrice</definition>
+        <definition>Nullable&lt;decimal&gt; ExtrasPrice</definition>
         <argsstring></argsstring>
         <name>ExtrasPrice</name>
         <briefdescription>
@@ -94,9 +94,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="55" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="55" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a7719195e15909f478d40352f629eda33" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a788b14092947583258d9ddb2b108f7c3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.HolidayDiscount</definition>
+        <definition>Nullable&lt;decimal&gt; HolidayDiscount</definition>
         <argsstring></argsstring>
         <name>HolidayDiscount</name>
         <briefdescription>
@@ -107,9 +107,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="59" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="59" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1afdcc19ea1084369ea14821dce6aec3ac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1abf2f07330094046c0b52f054a8a817d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.PaxesDiscount</definition>
+        <definition>Nullable&lt;decimal&gt; PaxesDiscount</definition>
         <argsstring></argsstring>
         <name>PaxesDiscount</name>
         <briefdescription>
@@ -120,9 +120,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="63" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="63" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a9585b5ab25b8028d952f60b9327cef70" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1af83e8929d95a2d2d5bc66fff7f106873" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.ExtrasDiscount</definition>
+        <definition>Nullable&lt;decimal&gt; ExtrasDiscount</definition>
         <argsstring></argsstring>
         <name>ExtrasDiscount</name>
         <briefdescription>
@@ -133,9 +133,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="67" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="67" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac587906e467f62487851e190d97062c4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ad13bc6ead62f107e92860344dfb878ea" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.TotalPrice</definition>
+        <definition>Nullable&lt;decimal&gt; TotalPrice</definition>
         <argsstring></argsstring>
         <name>TotalPrice</name>
         <briefdescription>
@@ -146,9 +146,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="71" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="71" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1acdb0166ecfdce351bc4fdde932a51ea2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac884ecc10966d58b5e967b4703a76133" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.TotalDiscount</definition>
+        <definition>Nullable&lt;decimal&gt; TotalDiscount</definition>
         <argsstring></argsstring>
         <name>TotalDiscount</name>
         <briefdescription>
@@ -159,9 +159,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="75" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="75" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a0b88b084ea587108905744876d27333c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a4c4e4f76732578a03ea63a35951b9513" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; decimal &gt;</type>
-        <definition>Nullable&lt;decimal&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.DiscountedPrice</definition>
+        <definition>Nullable&lt;decimal&gt; DiscountedPrice</definition>
         <argsstring></argsstring>
         <name>DiscountedPrice</name>
         <briefdescription>
@@ -172,9 +172,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="79" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="79" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a7f69df08c608653f5fc5ed238c510b92" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a66d1cd1331f41d6b3516f7bc5c7a8fbb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.SuggestedStay.DiscountDescription</definition>
+        <definition>string DiscountDescription</definition>
         <argsstring></argsstring>
         <name>DiscountDescription</name>
         <briefdescription>
@@ -185,9 +185,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="83" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="83" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac5c8b16600893d9a03350fe796156902" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a76525907879bc5ad1cc0baa18bbf8f2c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; bool &gt;</type>
-        <definition>Nullable&lt;bool&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.Available</definition>
+        <definition>Nullable&lt;bool&gt; Available</definition>
         <argsstring></argsstring>
         <name>Available</name>
         <briefdescription>
@@ -198,9 +198,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="84" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="84" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a3ddc502bafcc8ce70a18c15876372729" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a0cbb1b6797666132546aaaf640c52274" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; int &gt;</type>
-        <definition>Nullable&lt;int&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.BookingType</definition>
+        <definition>Nullable&lt;int&gt; BookingType</definition>
         <argsstring></argsstring>
         <name>BookingType</name>
         <briefdescription>
@@ -211,9 +211,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="88" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="88" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8d3e4ab113bf57d374a7f0903b9a3855" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a315e3291e898ac293946776022708485" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.SuggestedStay.Availability</definition>
+        <definition>int Availability</definition>
         <argsstring></argsstring>
         <name>Availability</name>
         <briefdescription>
@@ -224,9 +224,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="92" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="92" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a3101c4bf9befc3f85b13f99155db5c17" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8965b58d715f73cdeb3a311c216cbf8b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.SuggestedStay.Paxes</definition>
+        <definition>string Paxes</definition>
         <argsstring></argsstring>
         <name>Paxes</name>
         <briefdescription>
@@ -237,9 +237,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="93" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="93" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1aef0ed8c0ea5487d51b4e5a36eaaec05e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a13c94e72be8af7d8affa39ed0ab4d58f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.SuggestedStay.Extras</definition>
+        <definition>string Extras</definition>
         <argsstring></argsstring>
         <name>Extras</name>
         <briefdescription>
@@ -250,9 +250,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="94" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="94" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8485ed0162c8683134777e1669f3d4dc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a596199f917b443d30dcd5a06310c08f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; int &gt;</type>
-        <definition>Nullable&lt;int&gt; Ipertrade.BookingFor.Products.Booking.SuggestedStay.DiscountId</definition>
+        <definition>Nullable&lt;int&gt; DiscountId</definition>
         <argsstring></argsstring>
         <name>DiscountId</name>
         <briefdescription>
@@ -263,9 +263,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="98" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="98" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a9c6f72ea38551e185aa342903fcfadbb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a7187b58b022f241ca1c2ab5aefda1c5c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.Booking.SuggestedStay.IsOffer</definition>
+        <definition>bool IsOffer</definition>
         <argsstring></argsstring>
         <name>IsOffer</name>
         <briefdescription>
@@ -283,27 +283,27 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SuggestedStay.cs" bodystart="24" bodyend="106"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8d3e4ab113bf57d374a7f0903b9a3855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Availability</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac5c8b16600893d9a03350fe796156902" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Available</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a3ddc502bafcc8ce70a18c15876372729" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>BookingType</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a023113030ba582da06118b09be310325" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>CheckIn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1abae5763ca6c9cf08fc15164b6255c6d8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>CheckOut</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ad9ee33fcb56b6be41b58261d9a27580c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Days</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a7f69df08c608653f5fc5ed238c510b92" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>DiscountDescription</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a0b88b084ea587108905744876d27333c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>DiscountedPrice</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8485ed0162c8683134777e1669f3d4dc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>DiscountId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1aef0ed8c0ea5487d51b4e5a36eaaec05e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Extras</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a9585b5ab25b8028d952f60b9327cef70" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>ExtrasDiscount</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a819b764b0d746c9c4dc8dda19a111b4d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>ExtrasPrice</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a7719195e15909f478d40352f629eda33" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>HolidayDiscount</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac2c81cb928865e8d6f070c2a94f3a67f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>HolidayPrice</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a9c6f72ea38551e185aa342903fcfadbb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>IsOffer</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a3101c4bf9befc3f85b13f99155db5c17" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Paxes</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1afdcc19ea1084369ea14821dce6aec3ac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>PaxesDiscount</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a5940cfd2b8d81b7704a5e815ddd547e0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>PaxesPrice</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1acdb0166ecfdce351bc4fdde932a51ea2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>TotalDiscount</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac587906e467f62487851e190d97062c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>TotalPrice</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ab427fdb13c3fd949466fd41d93f995e4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>UnitId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a315e3291e898ac293946776022708485" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Availability</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a76525907879bc5ad1cc0baa18bbf8f2c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Available</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a0cbb1b6797666132546aaaf640c52274" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>BookingType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a86eb43b370f38b866753f860c31459a4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>CheckIn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1afeba9d0d5498450bcab78a619e3a2aca" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>CheckOut</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a3fda8d12ac48844fe6550f3ed0c078a8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Days</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a66d1cd1331f41d6b3516f7bc5c7a8fbb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>DiscountDescription</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a4c4e4f76732578a03ea63a35951b9513" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>DiscountedPrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a596199f917b443d30dcd5a06310c08f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>DiscountId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a13c94e72be8af7d8affa39ed0ab4d58f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Extras</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1af83e8929d95a2d2d5bc66fff7f106873" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>ExtrasDiscount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8d3ae4f6f9a399886de08e89d1b6825c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>ExtrasPrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a788b14092947583258d9ddb2b108f7c3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>HolidayDiscount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a46073b787aeea972fc66cd1931d54828" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>HolidayPrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a7187b58b022f241ca1c2ab5aefda1c5c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>IsOffer</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a8965b58d715f73cdeb3a311c216cbf8b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>Paxes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1abf2f07330094046c0b52f054a8a817d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>PaxesDiscount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1af91f7da4e2a1f3c6b6fb502211fbc0a4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>PaxesPrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ac884ecc10966d58b5e967b4703a76133" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>TotalDiscount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1ad13bc6ead62f107e92860344dfb878ea" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>TotalPrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay_1a09b3b2bc30edde37bcf7de058bfdc69c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SuggestedStay</scope><name>UnitId</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

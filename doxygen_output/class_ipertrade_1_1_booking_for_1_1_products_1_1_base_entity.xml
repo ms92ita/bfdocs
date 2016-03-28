@@ -2,60 +2,60 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::BaseEntity</compoundname>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Attribute</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_group" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.AttributeGroup</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.AttributeOptionValue</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_type" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.AttributeType</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.AttributeValue</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseRequest</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_availability_calendar" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.AvailabilityCalendar</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.Package</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.Price</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_detail" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.PriceDetail</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.PriceTemplate</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_availability" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.ProductAvailability</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_stay" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.ProductStay</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.RatePlan</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.RatePlanType</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_season" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.Season</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.VariationPlan</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_detail" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.VariationPlanDetail</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.CreditAcquireOption</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Crew</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_favorite" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Favorite</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.GenericPeriodAvailability</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_category_limitation" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantCategoryLimitation</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantGroup</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_home_page" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantHomePage</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantImage</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_limitation" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantLimitation</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantPayment</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_item" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.OrderItem</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_payment" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.OrderPayment</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.PayableService</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_product_type_association" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.PayableServiceProductTypeAssociation</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payment_system" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.PaymentSystem</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Policy</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.PolicyTemplate</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Product</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductCategory</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_product_type_association" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductCategoryProductTypeAssociation</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductTranslation</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductType</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductTypeValidationExpression</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_message" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.RequestMessage</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Review</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Service</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ServiceType</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.UserAlert</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.UserAlertSearch</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_param" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.UserAlertSearchParam</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.UserAlertSearchType</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute" prot="public" virt="non-virtual">Attribute</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_group" prot="public" virt="non-virtual">AttributeGroup</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value" prot="public" virt="non-virtual">AttributeOptionValue</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_type" prot="public" virt="non-virtual">AttributeType</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value" prot="public" virt="non-virtual">AttributeValue</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request" prot="public" virt="non-virtual">BaseRequest</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_availability_calendar" prot="public" virt="non-virtual">AvailabilityCalendar</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package" prot="public" virt="non-virtual">Package</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price" prot="public" virt="non-virtual">Price</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_detail" prot="public" virt="non-virtual">PriceDetail</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template" prot="public" virt="non-virtual">PriceTemplate</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_availability" prot="public" virt="non-virtual">ProductAvailability</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_stay" prot="public" virt="non-virtual">ProductStay</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan" prot="public" virt="non-virtual">RatePlan</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type" prot="public" virt="non-virtual">RatePlanType</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_season" prot="public" virt="non-virtual">Season</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" prot="public" virt="non-virtual">VariationPlan</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_detail" prot="public" virt="non-virtual">VariationPlanDetail</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option" prot="public" virt="non-virtual">CreditAcquireOption</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" prot="public" virt="non-virtual">Crew</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_favorite" prot="public" virt="non-virtual">Favorite</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability" prot="public" virt="non-virtual">GenericPeriodAvailability</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_category_limitation" prot="public" virt="non-virtual">MerchantCategoryLimitation</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group" prot="public" virt="non-virtual">MerchantGroup</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_home_page" prot="public" virt="non-virtual">MerchantHomePage</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image" prot="public" virt="non-virtual">MerchantImage</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_limitation" prot="public" virt="non-virtual">MerchantLimitation</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment" prot="public" virt="non-virtual">MerchantPayment</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_item" prot="public" virt="non-virtual">OrderItem</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_payment" prot="public" virt="non-virtual">OrderPayment</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service" prot="public" virt="non-virtual">PayableService</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association" prot="public" virt="non-virtual">PayableServiceMerchantCategoryAssociation</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_product_type_association" prot="public" virt="non-virtual">PayableServiceProductTypeAssociation</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payment_system" prot="public" virt="non-virtual">PaymentSystem</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy" prot="public" virt="non-virtual">Policy</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template" prot="public" virt="non-virtual">PolicyTemplate</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product" prot="public" virt="non-virtual">Product</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category" prot="public" virt="non-virtual">ProductCategory</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_product_type_association" prot="public" virt="non-virtual">ProductCategoryProductTypeAssociation</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation" prot="public" virt="non-virtual">ProductTranslation</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type" prot="public" virt="non-virtual">ProductType</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression" prot="public" virt="non-virtual">ProductTypeValidationExpression</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_message" prot="public" virt="non-virtual">RequestMessage</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review" prot="public" virt="non-virtual">Review</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service" prot="public" virt="non-virtual">Service</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type" prot="public" virt="non-virtual">ServiceType</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert" prot="public" virt="non-virtual">UserAlert</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search" prot="public" virt="non-virtual">UserAlertSearch</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_param" prot="public" virt="non-virtual">UserAlertSearchParam</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type" prot="public" virt="non-virtual">UserAlertSearchType</derivedcompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.BaseEntity.IsActive</definition>
+        <definition>bool IsActive</definition>
         <argsstring></argsstring>
         <name>IsActive</name>
         <briefdescription>
@@ -66,9 +66,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.BaseEntity.IsDeleted</definition>
+        <definition>bool IsDeleted</definition>
         <argsstring></argsstring>
         <name>IsDeleted</name>
         <briefdescription>
@@ -79,9 +79,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="19" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; bool &gt;</type>
-        <definition>Nullable&lt;bool&gt; Ipertrade.BookingFor.Products.BaseEntity.IsModified</definition>
+        <definition>Nullable&lt;bool&gt; IsModified</definition>
         <argsstring></argsstring>
         <name>IsModified</name>
         <briefdescription>
@@ -92,9 +92,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; System.DateTime &gt;</type>
-        <definition>Nullable&lt;System.DateTime&gt; Ipertrade.BookingFor.Products.BaseEntity.AddedOn</definition>
+        <definition>Nullable&lt;System.DateTime&gt; AddedOn</definition>
         <argsstring></argsstring>
         <name>AddedOn</name>
         <briefdescription>
@@ -105,9 +105,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; System.DateTime &gt;</type>
-        <definition>Nullable&lt;System.DateTime&gt; Ipertrade.BookingFor.Products.BaseEntity.UpdatedOn</definition>
+        <definition>Nullable&lt;System.DateTime&gt; UpdatedOn</definition>
         <argsstring></argsstring>
         <name>UpdatedOn</name>
         <briefdescription>
@@ -118,9 +118,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; System.DateTime &gt;</type>
-        <definition>Nullable&lt;System.DateTime&gt; Ipertrade.BookingFor.Products.BaseEntity.DeletedOn</definition>
+        <definition>Nullable&lt;System.DateTime&gt; DeletedOn</definition>
         <argsstring></argsstring>
         <name>DeletedOn</name>
         <briefdescription>
@@ -131,9 +131,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="23" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.BaseEntity.AddedBy</definition>
+        <definition>string AddedBy</definition>
         <argsstring></argsstring>
         <name>AddedBy</name>
         <briefdescription>
@@ -144,9 +144,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="24" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.BaseEntity.UpdatedBy</definition>
+        <definition>string UpdatedBy</definition>
         <argsstring></argsstring>
         <name>UpdatedBy</name>
         <briefdescription>
@@ -157,9 +157,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.BaseEntity.DeletedBy</definition>
+        <definition>string DeletedBy</definition>
         <argsstring></argsstring>
         <name>DeletedBy</name>
         <briefdescription>
@@ -170,9 +170,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>byte[]</type>
-        <definition>byte [] Ipertrade.BookingFor.Products.BaseEntity.RowVersion</definition>
+        <definition>byte [] RowVersion</definition>
         <argsstring></argsstring>
         <name>RowVersion</name>
         <briefdescription>
@@ -185,9 +185,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.BaseEntity.BaseEntity</definition>
+        <definition>BaseEntity</definition>
         <argsstring>()</argsstring>
         <name>BaseEntity</name>
         <briefdescription>
@@ -204,942 +204,942 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="300">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlanVisibility</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_visibility"/>
-        <childnode refid="295" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="376">
-        <label>Ipertrade.BookingFor.Products.ProductItem_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___description"/>
-        <childnode refid="375" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="255">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_Boolean</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___boolean"/>
-        <childnode refid="254" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="257">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_Decimal</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___decimal"/>
-        <childnode refid="254" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="298">
-        <label>Ipertrade.BookingFor.Products.Booking.PriceAvailability</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_availability"/>
-        <childnode refid="295" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="289">
-        <label>Ipertrade.BookingFor.Products.Booking.Season</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_season"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="251">
-        <label>Ipertrade.BookingFor.Products.AttributeOptionValue</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="330">
-        <label>Ipertrade.BookingFor.Products.Booking.PriceTemplateTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="373">
-        <label>Ipertrade.BookingFor.Products.ProductCategory_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___description"/>
-        <childnode refid="372" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="354">
-        <label>Ipertrade.BookingFor.Products.PayableService_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service___description"/>
-        <childnode refid="353" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="286">
-        <label>Ipertrade.BookingFor.Products.Booking.ProductStay</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_stay"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
       <node id="355">
-        <label>Ipertrade.BookingFor.Products.PayableService_Name</label>
+        <label>PayableService_Name</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service___name"/>
         <childnode refid="353" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="320">
-        <label>Ipertrade.BookingFor.Products.ProductTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation"/>
-        <childnode refid="246" relation="public-inheritance">
+      <node id="328">
+        <label>Package_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___description"/>
+        <childnode refid="327" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="260">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_String</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___string"/>
+      <node id="257">
+        <label>AttributeValue_Decimal</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___decimal"/>
         <childnode refid="254" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="370">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeType_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type___description"/>
-        <childnode refid="369" relation="public-inheritance">
+      <node id="304">
+        <label>MerchantImage</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image"/>
+        <childnode refid="246" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="296">
-        <label>Ipertrade.BookingFor.Products.Booking.PackageAvailability</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_availability"/>
-        <childnode refid="295" relation="public-inheritance">
+      <node id="274">
+        <label>Order</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order"/>
+        <childnode refid="271" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="309">
+        <label>OrderPayment</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_payment"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="330">
+        <label>PriceTemplateTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="261">
+        <label>AttributeValue_Translation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___translation"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="394">
+        <label>Service</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="360">
+        <label>Policy_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy___description"/>
+        <childnode refid="359" relation="public-inheritance">
         </childnode>
       </node>
       <node id="270">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Translation</label>
+        <label>ProductAttributeValue_Translation</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___translation"/>
         <childnode refid="262" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="294">
-        <label>Ipertrade.BookingFor.Products.Favorite</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_favorite"/>
+      <node id="259">
+        <label>AttributeValue_Int</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___int"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="371">
+        <label>ProductAttributeType_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type___name"/>
+        <childnode refid="369" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="268">
+        <label>ProductAttributeValue_Link</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___link"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="263">
+        <label>ProductAttributeValue_Boolean</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="319">
+        <label>ProductCategoryProductTypeAssociation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_product_type_association"/>
         <childnode refid="246" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="367">
-        <label>Ipertrade.BookingFor.Products.ProductAttribute_Expr</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___expr"/>
-        <childnode refid="365" relation="public-inheritance">
+      <node id="397">
+        <label>UserAlertSearch</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="247">
+        <label>Attribute</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="249">
+        <label>AttributeGroup</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_group"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="312">
+        <label>PayableServiceProductTypeAssociation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_product_type_association"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="290">
+        <label>VariationPlan</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="380">
+        <label>ProductType_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type___description"/>
+        <childnode refid="379" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="398">
+        <label>UserAlertSearchParam</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_param"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="323">
+        <label>MerchantBookingTypeTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="315">
+        <label>PolicyTemplate</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="381">
+        <label>ProductType_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type___name"/>
+        <childnode refid="379" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="388">
+        <label>ServiceType_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type___description"/>
+        <childnode refid="387" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="283">
+        <label>PriceDetail</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_detail"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="396">
+        <label>UserAlert</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="343">
+        <label>RatePlanType_Policy</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___policy"/>
+        <childnode refid="340" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="369">
+        <label>ProductAttributeTypeTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="250">
+        <label>ProductAttributeGroup</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group"/>
+        <childnode refid="249" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="314">
+        <label>Policy</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="277">
+        <label>Price</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="339">
+        <label>RatePlan_Policy</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___policy"/>
+        <childnode refid="336" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="340">
+        <label>RatePlanTypeTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="318">
+        <label>ProductCategory</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="305">
+        <label>MerchantLimitation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_limitation"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="357">
+        <label>PolicyTemplate_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template___description"/>
+        <childnode refid="356" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="296">
+        <label>PackageAvailability</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_availability"/>
+        <childnode refid="295" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="376">
+        <label>ProductItem_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___description"/>
+        <childnode refid="375" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="256">
+        <label>AttributeValue_Date</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___date"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="317">
+        <label>BookingProduct</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_product"/>
+        <childnode refid="316" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="375">
+        <label>ProductItemTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="344">
+        <label>VariationPlanTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="292">
+        <label>CreditAcquireOption</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="345">
+        <label>VariationPlan_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___description"/>
+        <childnode refid="344" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="253">
+        <label>ProductAttributeType</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type"/>
+        <childnode refid="252" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="325">
+        <label>MerchantBookingType_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___name"/>
+        <childnode refid="323" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="280">
+        <label>ReducedPaxPrice</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_reduced_pax_price"/>
+        <childnode refid="278" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="255">
+        <label>AttributeValue_Boolean</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___boolean"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="278">
+        <label>PaxPrice</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_pax_price"/>
+        <childnode refid="277" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="273">
+        <label>ScalarRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request"/>
+        <childnode refid="272" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="291">
+        <label>VariationPlanDetail</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_detail"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="399">
+        <label>UserAlertSearchType</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="363">
+        <label>ProductAttributeGroup_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___description"/>
+        <childnode refid="362" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="324">
+        <label>MerchantBookingType_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___description"/>
+        <childnode refid="323" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="248">
+        <label>ProductAttribute</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute"/>
+        <childnode refid="247" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="302">
+        <label>MerchantGroup</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="349">
+        <label>CreditAcquireOption_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___name"/>
+        <childnode refid="347" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="269">
+        <label>ProductAttributeValue_String</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___string"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="308">
+        <label>OrderItem</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_item"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="289">
+        <label>Season</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_season"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="316">
+        <label>Product</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="321">
+        <label>AttributeOptionValueTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="267">
+        <label>ProductAttributeValue_Int</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___int"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="276">
+        <label>Package</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="362">
+        <label>ProductAttributeGroupTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="338">
+        <label>RatePlan_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___name"/>
+        <childnode refid="336" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="282">
+        <label>SelectablePrice</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price"/>
+        <childnode refid="277" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="351">
+        <label>MerchantGroup_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group___description"/>
+        <childnode refid="350" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="383">
+        <label>ProductTypeValidationExpression_ErrorMessage</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression___error_message"/>
+        <childnode refid="382" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="285">
+        <label>ProductAvailability</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_availability"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="275">
+        <label>AvailabilityCalendar</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_availability_calendar"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="379">
+        <label>ProductTypeTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="374">
+        <label>ProductCategory_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___name"/>
+        <childnode refid="372" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="320">
+        <label>ProductTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="272">
+        <label>InfoRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request"/>
+        <childnode refid="271" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="353">
+        <label>PayableServiceTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="390">
+        <label>ProductType</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="307">
+        <label>MerchantBookingType</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type"/>
+        <childnode refid="306" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="258">
+        <label>AttributeValue_Image</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___image"/>
+        <childnode refid="254" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="295">
+        <label>GenericPeriodAvailability</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="334">
+        <label>Price_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___description"/>
+        <childnode refid="333" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="342">
+        <label>RatePlanType_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___name"/>
+        <childnode refid="340" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="326">
+        <label>MerchantBookingType_Policy</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___policy"/>
+        <childnode refid="323" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="260">
+        <label>AttributeValue_String</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___string"/>
+        <childnode refid="254" relation="public-inheritance">
         </childnode>
       </node>
       <node id="378">
-        <label>Ipertrade.BookingFor.Products.ProductItem_Policy</label>
+        <label>ProductItem_Policy</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___policy"/>
         <childnode refid="375" relation="public-inheritance">
         </childnode>
       </node>
       <node id="262">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue</label>
+        <label>ProductAttributeValue</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value"/>
         <childnode refid="254" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="246">
-        <label>Ipertrade.BookingFor.Products.BaseEntity</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
-      </node>
-      <node id="259">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_Int</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___int"/>
-        <childnode refid="254" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="324">
-        <label>Ipertrade.BookingFor.Products.Booking.MerchantBookingType_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___description"/>
-        <childnode refid="323" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="281">
-        <label>Ipertrade.BookingFor.Products.Booking.ProductPrice</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_price"/>
-        <childnode refid="277" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="389">
-        <label>Ipertrade.BookingFor.Products.ServiceType_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type___name"/>
-        <childnode refid="387" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="333">
-        <label>Ipertrade.BookingFor.Products.Booking.PriceTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="344">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlanTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="284">
-        <label>Ipertrade.BookingFor.Products.Booking.PriceTemplate</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="383">
-        <label>Ipertrade.BookingFor.Products.ProductTypeValidationExpression_ErrorMessage</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression___error_message"/>
-        <childnode refid="382" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="375">
-        <label>Ipertrade.BookingFor.Products.ProductItemTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="318">
-        <label>Ipertrade.BookingFor.Products.ProductCategory</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="313">
-        <label>Ipertrade.BookingFor.Products.PaymentSystem</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payment_system"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="279">
-        <label>Ipertrade.BookingFor.Products.Booking.FullPaxPrice</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_full_pax_price"/>
-        <childnode refid="278" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="335">
-        <label>Ipertrade.BookingFor.Products.Booking.Price_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___name"/>
-        <childnode refid="333" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="398">
-        <label>Ipertrade.BookingFor.Products.UserAlertSearchParam</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_param"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="277">
-        <label>Ipertrade.BookingFor.Products.Booking.Price</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="345">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlan_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___description"/>
-        <childnode refid="344" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="334">
-        <label>Ipertrade.BookingFor.Products.Booking.Price_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___description"/>
-        <childnode refid="333" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="362">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeGroupTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="293">
-        <label>Ipertrade.BookingFor.Products.Crew</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="385">
-        <label>Ipertrade.BookingFor.Products.Service_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service___description"/>
-        <childnode refid="384" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="249">
-        <label>Ipertrade.BookingFor.Products.AttributeGroup</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_group"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="349">
-        <label>Ipertrade.BookingFor.Products.CreditAcquireOption_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___name"/>
-        <childnode refid="347" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="282">
-        <label>Ipertrade.BookingFor.Products.Booking.SelectablePrice</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price"/>
-        <childnode refid="277" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="280">
-        <label>Ipertrade.BookingFor.Products.Booking.ReducedPaxPrice</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_reduced_pax_price"/>
-        <childnode refid="278" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="357">
-        <label>Ipertrade.BookingFor.Products.PolicyTemplate_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template___description"/>
-        <childnode refid="356" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="317">
-        <label>Ipertrade.BookingFor.Products.Booking.BookingProduct</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_product"/>
-        <childnode refid="316" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="384">
-        <label>Ipertrade.BookingFor.Products.ServiceTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="272">
-        <label>Ipertrade.BookingFor.Products.InfoRequest</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request"/>
-        <childnode refid="271" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="397">
-        <label>Ipertrade.BookingFor.Products.UserAlertSearch</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="269">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_String</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___string"/>
-        <childnode refid="262" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="303">
-        <label>Ipertrade.BookingFor.Products.MerchantHomePage</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_home_page"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="253">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeType</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type"/>
-        <childnode refid="252" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="390">
-        <label>Ipertrade.BookingFor.Products.ProductType</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="287">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlan</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="315">
-        <label>Ipertrade.BookingFor.Products.PolicyTemplate</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="301">
-        <label>Ipertrade.BookingFor.Products.MerchantCategoryLimitation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_category_limitation"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="321">
-        <label>Ipertrade.BookingFor.Products.AttributeOptionValueTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="358">
-        <label>Ipertrade.BookingFor.Products.PolicyTemplate_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template___name"/>
-        <childnode refid="356" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="276">
-        <label>Ipertrade.BookingFor.Products.Booking.Package</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="377">
-        <label>Ipertrade.BookingFor.Products.ProductItem_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___name"/>
-        <childnode refid="375" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="305">
-        <label>Ipertrade.BookingFor.Products.MerchantLimitation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_limitation"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="395">
-        <label>Ipertrade.BookingFor.Products.ServiceType</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="248">
-        <label>Ipertrade.BookingFor.Products.ProductAttribute</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute"/>
-        <childnode refid="247" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="380">
-        <label>Ipertrade.BookingFor.Products.ProductType_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type___description"/>
-        <childnode refid="379" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="307">
-        <label>Ipertrade.BookingFor.Products.Booking.MerchantBookingType</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type"/>
-        <childnode refid="306" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="348">
-        <label>Ipertrade.BookingFor.Products.CreditAcquireOption_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___description"/>
-        <childnode refid="347" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="308">
-        <label>Ipertrade.BookingFor.Products.OrderItem</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_item"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="274">
-        <label>Ipertrade.BookingFor.Products.Order</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order"/>
-        <childnode refid="271" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="254">
-        <label>Ipertrade.BookingFor.Products.AttributeValue</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="295">
-        <label>Ipertrade.BookingFor.Products.GenericPeriodAvailability</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="265">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Decimal</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___decimal"/>
-        <childnode refid="262" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="283">
-        <label>Ipertrade.BookingFor.Products.Booking.PriceDetail</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_detail"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="273">
-        <label>Ipertrade.BookingFor.Products.ScalarRequest</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request"/>
-        <childnode refid="272" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="290">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlan</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="250">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeGroup</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group"/>
-        <childnode refid="249" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="275">
-        <label>Ipertrade.BookingFor.Products.Booking.AvailabilityCalendar</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_availability_calendar"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="304">
-        <label>Ipertrade.BookingFor.Products.MerchantImage</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="310">
-        <label>Ipertrade.BookingFor.Products.PayableService</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="285">
-        <label>Ipertrade.BookingFor.Products.Booking.ProductAvailability</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_availability"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="309">
-        <label>Ipertrade.BookingFor.Products.OrderPayment</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_payment"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="258">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_Image</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___image"/>
-        <childnode refid="254" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="288">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanType</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="252">
-        <label>Ipertrade.BookingFor.Products.AttributeType</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_type"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="374">
-        <label>Ipertrade.BookingFor.Products.ProductCategory_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___name"/>
-        <childnode refid="372" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="371">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeType_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type___name"/>
-        <childnode refid="369" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="366">
-        <label>Ipertrade.BookingFor.Products.ProductAttribute_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___description"/>
-        <childnode refid="365" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="339">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlan_Policy</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___policy"/>
-        <childnode refid="336" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="351">
-        <label>Ipertrade.BookingFor.Products.MerchantGroup_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group___description"/>
-        <childnode refid="350" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="267">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Int</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___int"/>
-        <childnode refid="262" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="361">
-        <label>Ipertrade.BookingFor.Products.Policy_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy___name"/>
-        <childnode refid="359" relation="public-inheritance">
-        </childnode>
-      </node>
       <node id="337">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlan_Description</label>
+        <label>RatePlan_Description</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___description"/>
         <childnode refid="336" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="306">
-        <label>Ipertrade.BookingFor.Products.MerchantPayment</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="352">
-        <label>Ipertrade.BookingFor.Products.MerchantGroup_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group___name"/>
-        <childnode refid="350" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="311">
-        <label>Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="264">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Date</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___date"/>
-        <childnode refid="262" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="364">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeGroup_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___name"/>
-        <childnode refid="362" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="363">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeGroup_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___description"/>
-        <childnode refid="362" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="312">
-        <label>Ipertrade.BookingFor.Products.PayableServiceProductTypeAssociation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_product_type_association"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="356">
-        <label>Ipertrade.BookingFor.Products.PolicyTemplateTransaltion</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template_transaltion"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="278">
-        <label>Ipertrade.BookingFor.Products.Booking.PaxPrice</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_pax_price"/>
-        <childnode refid="277" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="353">
-        <label>Ipertrade.BookingFor.Products.PayableServiceTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="322">
-        <label>Ipertrade.BookingFor.Products.AttributeOptionValue_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value___name"/>
-        <childnode refid="321" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="350">
-        <label>Ipertrade.BookingFor.Products.MerchantGroupTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="314">
-        <label>Ipertrade.BookingFor.Products.Policy</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="297">
-        <label>Ipertrade.BookingFor.Products.Booking.PackageVisibility</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_visibility"/>
-        <childnode refid="295" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="336">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="319">
-        <label>Ipertrade.BookingFor.Products.ProductCategoryProductTypeAssociation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_product_type_association"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="343">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanType_Policy</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___policy"/>
-        <childnode refid="340" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="379">
-        <label>Ipertrade.BookingFor.Products.ProductTypeTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="328">
-        <label>Ipertrade.BookingFor.Products.Booking.Package_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___description"/>
-        <childnode refid="327" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="386">
-        <label>Ipertrade.BookingFor.Products.Service_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service___name"/>
-        <childnode refid="384" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="391">
-        <label>Ipertrade.BookingFor.Products.ProductTypeValidationExpression</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="271">
-        <label>Ipertrade.BookingFor.Products.BaseRequest</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="261">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_Translation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___translation"/>
-        <childnode refid="254" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="247">
-        <label>Ipertrade.BookingFor.Products.Attribute</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="340">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanTypeTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="393">
-        <label>Ipertrade.BookingFor.Products.Review</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="392">
-        <label>Ipertrade.BookingFor.Products.RequestMessage</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_message"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="346">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlan_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___name"/>
-        <childnode refid="344" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="372">
-        <label>Ipertrade.BookingFor.Products.ProductCategoryTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="316">
-        <label>Ipertrade.BookingFor.Products.Product</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="387">
-        <label>Ipertrade.BookingFor.Products.ServiceTypeTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="332">
-        <label>Ipertrade.BookingFor.Products.Booking.PriceTemplate_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template___name"/>
-        <childnode refid="330" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="399">
-        <label>Ipertrade.BookingFor.Products.UserAlertSearchType</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
       <node id="365">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeTranslation</label>
+        <label>ProductAttributeTranslation</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_translation"/>
         <childnode refid="320" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="396">
-        <label>Ipertrade.BookingFor.Products.UserAlert</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert"/>
+      <node id="293">
+        <label>Crew</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew"/>
         <childnode refid="246" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="256">
-        <label>Ipertrade.BookingFor.Products.AttributeValue_Date</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___date"/>
-        <childnode refid="254" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="360">
-        <label>Ipertrade.BookingFor.Products.Policy_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy___description"/>
-        <childnode refid="359" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="342">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanType_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___name"/>
-        <childnode refid="340" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="347">
-        <label>Ipertrade.BookingFor.Products.CreditAcquireOptionTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="325">
-        <label>Ipertrade.BookingFor.Products.Booking.MerchantBookingType_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___name"/>
-        <childnode refid="323" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="329">
-        <label>Ipertrade.BookingFor.Products.Booking.Package_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___name"/>
-        <childnode refid="327" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="291">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlanDetail</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_detail"/>
+      <node id="306">
+        <label>MerchantPayment</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment"/>
         <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="268">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Link</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___link"/>
-        <childnode refid="262" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="323">
-        <label>Ipertrade.BookingFor.Products.Booking.MerchantBookingTypeTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="331">
-        <label>Ipertrade.BookingFor.Products.Booking.PriceTemplate_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template___description"/>
-        <childnode refid="330" relation="public-inheritance">
         </childnode>
       </node>
       <node id="368">
-        <label>Ipertrade.BookingFor.Products.ProductAttribute_Name</label>
+        <label>ProductAttribute_Name</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___name"/>
         <childnode refid="365" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="338">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlan_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___name"/>
-        <childnode refid="336" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="369">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeTypeTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="266">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Image</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___image"/>
-        <childnode refid="262" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="263">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Boolean</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean"/>
-        <childnode refid="262" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="382">
-        <label>Ipertrade.BookingFor.Products.ProductTypeValidationExpressionTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_translation"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="341">
-        <label>Ipertrade.BookingFor.Products.Booking.RatePlanType_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___description"/>
-        <childnode refid="340" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="359">
-        <label>Ipertrade.BookingFor.Products.PolicyTransaltion</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_transaltion"/>
-        <childnode refid="320" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="381">
-        <label>Ipertrade.BookingFor.Products.ProductType_Name</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type___name"/>
-        <childnode refid="379" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="394">
-        <label>Ipertrade.BookingFor.Products.Service</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service"/>
+      <node id="313">
+        <label>PaymentSystem</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payment_system"/>
         <childnode refid="246" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="326">
-        <label>Ipertrade.BookingFor.Products.Booking.MerchantBookingType_Policy</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___policy"/>
-        <childnode refid="323" relation="public-inheritance">
+      <node id="335">
+        <label>Price_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___name"/>
+        <childnode refid="333" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="302">
-        <label>Ipertrade.BookingFor.Products.MerchantGroup</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group"/>
+      <node id="373">
+        <label>ProductCategory_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___description"/>
+        <childnode refid="372" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="252">
+        <label>AttributeType</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_type"/>
         <childnode refid="246" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="292">
-        <label>Ipertrade.BookingFor.Products.CreditAcquireOption</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option"/>
-        <childnode refid="246" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="327">
-        <label>Ipertrade.BookingFor.Products.Booking.PackageTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_translation"/>
+      <node id="336">
+        <label>RatePlanTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_translation"/>
         <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="300">
+        <label>VariationPlanVisibility</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_visibility"/>
+        <childnode refid="295" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="387">
+        <label>ServiceTypeTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="288">
+        <label>RatePlanType</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="358">
+        <label>PolicyTemplate_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template___name"/>
+        <childnode refid="356" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="348">
+        <label>CreditAcquireOption_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___description"/>
+        <childnode refid="347" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="391">
+        <label>ProductTypeValidationExpression</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="370">
+        <label>ProductAttributeType_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type___description"/>
+        <childnode refid="369" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="385">
+        <label>Service_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service___description"/>
+        <childnode refid="384" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="279">
+        <label>FullPaxPrice</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_full_pax_price"/>
+        <childnode refid="278" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="287">
+        <label>RatePlan</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan"/>
+        <childnode refid="246" relation="public-inheritance">
         </childnode>
       </node>
       <node id="299">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlanAvailability</label>
+        <label>VariationPlanAvailability</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability"/>
         <childnode refid="295" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="388">
-        <label>Ipertrade.BookingFor.Products.ServiceType_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type___description"/>
+      <node id="347">
+        <label>CreditAcquireOptionTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="393">
+        <label>Review</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="372">
+        <label>ProductCategoryTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="303">
+        <label>MerchantHomePage</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_home_page"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="350">
+        <label>MerchantGroupTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="271">
+        <label>BaseRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="281">
+        <label>ProductPrice</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_price"/>
+        <childnode refid="277" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="331">
+        <label>PriceTemplate_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template___description"/>
+        <childnode refid="330" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="265">
+        <label>ProductAttributeValue_Decimal</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___decimal"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="294">
+        <label>Favorite</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_favorite"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="346">
+        <label>VariationPlan_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___name"/>
+        <childnode refid="344" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="266">
+        <label>ProductAttributeValue_Image</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___image"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="356">
+        <label>PolicyTemplateTransaltion</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template_transaltion"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="284">
+        <label>PriceTemplate</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="384">
+        <label>ServiceTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="251">
+        <label>AttributeOptionValue</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="297">
+        <label>PackageVisibility</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_visibility"/>
+        <childnode refid="295" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="352">
+        <label>MerchantGroup_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group___name"/>
+        <childnode refid="350" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="354">
+        <label>PayableService_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service___description"/>
+        <childnode refid="353" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="264">
+        <label>ProductAttributeValue_Date</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___date"/>
+        <childnode refid="262" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="366">
+        <label>ProductAttribute_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___description"/>
+        <childnode refid="365" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="364">
+        <label>ProductAttributeGroup_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___name"/>
+        <childnode refid="362" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="329">
+        <label>Package_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___name"/>
+        <childnode refid="327" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="389">
+        <label>ServiceType_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type___name"/>
         <childnode refid="387" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="367">
+        <label>ProductAttribute_Expr</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___expr"/>
+        <childnode refid="365" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="392">
+        <label>RequestMessage</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_message"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="359">
+        <label>PolicyTransaltion</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_transaltion"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="322">
+        <label>AttributeOptionValue_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value___name"/>
+        <childnode refid="321" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="333">
+        <label>PriceTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="298">
+        <label>PriceAvailability</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_availability"/>
+        <childnode refid="295" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="301">
+        <label>MerchantCategoryLimitation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_category_limitation"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="311">
+        <label>PayableServiceMerchantCategoryAssociation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="254">
+        <label>AttributeValue</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="386">
+        <label>Service_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service___name"/>
+        <childnode refid="384" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="327">
+        <label>PackageTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="361">
+        <label>Policy_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy___name"/>
+        <childnode refid="359" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="286">
+        <label>ProductStay</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_stay"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="377">
+        <label>ProductItem_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___name"/>
+        <childnode refid="375" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="341">
+        <label>RatePlanType_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___description"/>
+        <childnode refid="340" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="310">
+        <label>PayableService</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="395">
+        <label>ServiceType</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type"/>
+        <childnode refid="246" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="382">
+        <label>ProductTypeValidationExpressionTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_translation"/>
+        <childnode refid="320" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="246">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+      <node id="332">
+        <label>PriceTemplate_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template___name"/>
+        <childnode refid="330" relation="public-inheritance">
         </childnode>
       </node>
     </inheritancegraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/BaseEntity.cs" bodystart="10" bodyend="29"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::BaseEntity</scope><name>UpdatedOn</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

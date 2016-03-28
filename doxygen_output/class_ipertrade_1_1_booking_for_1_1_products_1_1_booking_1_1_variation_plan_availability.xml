@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.GenericPeriodAvailability</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability" prot="public" virt="non-virtual">GenericPeriodAvailability</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a480e4b2972c56e70d48a16f21f512e78" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a6e25459300b34c72c9d631f4d3b8556d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.VariationPlanAvailability.VariationPlanId</definition>
+        <definition>int VariationPlanId</definition>
         <argsstring></argsstring>
         <name>VariationPlanId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/VariationPlan.cs" line="190" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/VariationPlan.cs" bodystart="190" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a0ac0f8b318f775806577068e431482b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a3bc5115b6cf6e8e88dd76c2ca5a9d220" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" kindref="compound">VariationPlan</ref></type>
-        <definition>virtual VariationPlan Ipertrade.BookingFor.Products.Booking.VariationPlanAvailability.VariationPlan</definition>
+        <definition>virtual VariationPlan VariationPlan</definition>
         <argsstring></argsstring>
         <name>VariationPlan</name>
         <briefdescription>
@@ -32,9 +32,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1ade229d30528d0b98ef6b103878b12883" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a769dd2ce7aeb8e7b5f83fce82ebc97aa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.Booking.VariationPlanAvailability.VariationPlanAvailability</definition>
+        <definition>VariationPlanAvailability</definition>
         <argsstring>()</argsstring>
         <name>VariationPlanAvailability</name>
         <briefdescription>
@@ -51,61 +51,61 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="2065">
+      <node id="2064">
         <label>GenericPeriodAvailability</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability"/>
-        <childnode refid="2066" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="2066">
-        <label>BaseEntity</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
-      </node>
-      <node id="2064">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlanAvailability</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability"/>
         <childnode refid="2065" relation="public-inheritance">
         </childnode>
       </node>
-    </inheritancegraph>
-    <collaborationgraph>
-      <node id="2068">
-        <label>GenericPeriodAvailability</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability"/>
-        <childnode refid="2069" relation="public-inheritance">
+      <node id="2063">
+        <label>VariationPlanAvailability</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability"/>
+        <childnode refid="2064" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="2069">
+      <node id="2065">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
+    </inheritancegraph>
+    <collaborationgraph>
       <node id="2067">
-        <label>Ipertrade.BookingFor.Products.Booking.VariationPlanAvailability</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability"/>
+        <label>GenericPeriodAvailability</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability"/>
         <childnode refid="2068" relation="public-inheritance">
         </childnode>
+      </node>
+      <node id="2066">
+        <label>VariationPlanAvailability</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability"/>
+        <childnode refid="2067" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2068">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/VariationPlan.cs" line="186" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/VariationPlan.cs" bodystart="185" bodyend="192"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1afe6d99793164be25b3658f100f9c9831" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DateFrom</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1ad1901a76585447468cce4311bcce1d6a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DateTo</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1a4593ab979885cf8a9fe0c617507d36ff" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>GenericPeriodAvailability</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1ac9e06341e0c5330fd56838f16a7ea602" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>GenericPeriodAvailabilityId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a0ac0f8b318f775806577068e431482b8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>VariationPlan</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1ade229d30528d0b98ef6b103878b12883" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>VariationPlanAvailability</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a480e4b2972c56e70d48a16f21f512e78" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>VariationPlanId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1a52c31b296a8cbef178e316856d2e7307" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DateFrom</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1ac97ea2cc84e11693ff3631c975f8f321" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DateTo</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1a8e88435255041405890d597fd827eef1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>GenericPeriodAvailability</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability_1ad70c53e5e7290517ec4eac6539ad29f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>GenericPeriodAvailabilityId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a3bc5115b6cf6e8e88dd76c2ca5a9d220" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>VariationPlan</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a769dd2ce7aeb8e7b5f83fce82ebc97aa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>VariationPlanAvailability</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability_1a6e25459300b34c72c9d631f4d3b8556d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</scope><name>VariationPlanId</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

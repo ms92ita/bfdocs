@@ -4,9 +4,9 @@
     <compoundname>Ipertrade::BookingFor::Products::CustomerCrm</compoundname>
     <basecompoundref prot="public" virt="non-virtual">Customer</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1ac0896c1a4f907859c1914ba07167632f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.CustomerCrm.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1aaacca73bc35bfa93dd9832e4a5fd2f32" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a40fb3b9bb77c5f4eb8ce6884d86ccda8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_portal" kindref="compound">ProductsPortal</ref></type>
-        <definition>virtual ProductsPortal Ipertrade.BookingFor.Products.CustomerCrm.Portal</definition>
+        <definition>virtual ProductsPortal Portal</definition>
         <argsstring></argsstring>
         <name>Portal</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a7db194b6ba86cc86089fe943b66b64d9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1afd3e24243ebc43dd9a28be3cc1e8c1b1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_merchant" kindref="compound">ProductsMerchant</ref> &gt;</type>
-        <definition>virtual ICollection&lt;ProductsMerchant&gt; Ipertrade.BookingFor.Products.CustomerCrm.Merchants</definition>
+        <definition>virtual ICollection&lt;ProductsMerchant&gt; Merchants</definition>
         <argsstring></argsstring>
         <name>Merchants</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" bodystart="30" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a7bce1d59abb91acde17f90e00a28997e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1aac483438a4e43cfabcae3b95e3050377" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_message" kindref="compound">RequestMessage</ref> &gt;</type>
-        <definition>virtual ICollection&lt;RequestMessage&gt; Ipertrade.BookingFor.Products.CustomerCrm.RequestMessages</definition>
+        <definition>virtual ICollection&lt;RequestMessage&gt; RequestMessages</definition>
         <argsstring></argsstring>
         <name>RequestMessages</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" bodystart="31" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1adba67d5ed3bb064fbc3b084d0fb7232e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a1c12af3c6f6d37a8c53cd6e064df354b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request" kindref="compound">BaseRequest</ref> &gt;</type>
-        <definition>virtual ICollection&lt;BaseRequest&gt; Ipertrade.BookingFor.Products.CustomerCrm.Requests</definition>
+        <definition>virtual ICollection&lt;BaseRequest&gt; Requests</definition>
         <argsstring></argsstring>
         <name>Requests</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" bodystart="32" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a3376d124ec3e8076c3a1664fd7d4973b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a9c62a31f790c6548aa12e12b29738d84" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review" kindref="compound">Review</ref> &gt;</type>
-        <definition>virtual ICollection&lt;Review&gt; Ipertrade.BookingFor.Products.CustomerCrm.Reviews</definition>
+        <definition>virtual ICollection&lt;Review&gt; Reviews</definition>
         <argsstring></argsstring>
         <name>Reviews</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a4957f6e8ffe3b85ee056b8b8f69a6749" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1addfdc616c78e05ce6f45dbbcba2c4303" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_favorite" kindref="compound">Favorite</ref> &gt;</type>
-        <definition>virtual ICollection&lt;Favorite&gt; Ipertrade.BookingFor.Products.CustomerCrm.Favorites</definition>
+        <definition>virtual ICollection&lt;Favorite&gt; Favorites</definition>
         <argsstring></argsstring>
         <name>Favorites</name>
         <briefdescription>
@@ -97,9 +97,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1aedfb16d30f12461ff7d94e5b77d82bde" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a7e9112b5df374f3eaf6ee99087f5eeaf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.CustomerCrm.CustomerCrm</definition>
+        <definition>CustomerCrm</definition>
         <argsstring>()</argsstring>
         <name>CustomerCrm</name>
         <briefdescription>
@@ -116,37 +116,37 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="491">
-        <label>Customer</label>
-      </node>
       <node id="490">
-        <label>Ipertrade.BookingFor.Products.CustomerCrm</label>
+        <label>CustomerCrm</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm"/>
         <childnode refid="491" relation="public-inheritance">
         </childnode>
       </node>
-    </inheritancegraph>
-    <collaborationgraph>
-      <node id="493">
+      <node id="491">
         <label>Customer</label>
       </node>
+    </inheritancegraph>
+    <collaborationgraph>
       <node id="492">
-        <label>Ipertrade.BookingFor.Products.CustomerCrm</label>
+        <label>CustomerCrm</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm"/>
         <childnode refid="493" relation="public-inheritance">
         </childnode>
       </node>
+      <node id="493">
+        <label>Customer</label>
+      </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CustomerCrm.cs" bodystart="13" bodyend="36"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1aedfb16d30f12461ff7d94e5b77d82bde" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>CustomerCrm</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a4957f6e8ffe3b85ee056b8b8f69a6749" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Favorites</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a7db194b6ba86cc86089fe943b66b64d9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Merchants</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1aaacca73bc35bfa93dd9832e4a5fd2f32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Portal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1ac0896c1a4f907859c1914ba07167632f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a7bce1d59abb91acde17f90e00a28997e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>RequestMessages</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1adba67d5ed3bb064fbc3b084d0fb7232e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Requests</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a3376d124ec3e8076c3a1664fd7d4973b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Reviews</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a7e9112b5df374f3eaf6ee99087f5eeaf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>CustomerCrm</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1addfdc616c78e05ce6f45dbbcba2c4303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Favorites</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1afd3e24243ebc43dd9a28be3cc1e8c1b1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Merchants</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a40fb3b9bb77c5f4eb8ce6884d86ccda8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1aac483438a4e43cfabcae3b95e3050377" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>RequestMessages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a1c12af3c6f6d37a8c53cd6e064df354b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Requests</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_1a9c62a31f790c6548aa12e12b29738d84" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CustomerCrm</scope><name>Reviews</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

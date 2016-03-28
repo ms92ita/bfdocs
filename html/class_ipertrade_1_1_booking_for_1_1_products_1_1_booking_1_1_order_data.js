@@ -1,0 +1,25 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data =
+[
+    [ "OrderData", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a57e88a1b3b9efb63a1c7df6c91341425", null ],
+    [ "OrderData", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a611ba2eb27973ce5488a14ae51d02b72", null ],
+    [ "crews", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a70f4ead054d04831f21d5833d2008735", null ],
+    [ "discount", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a51051ec80285159f9db3da411d7fc3dc", null ],
+    [ "EndDate", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#ad2dab0613c20fd471240dda5edc85717", null ],
+    [ "extraList", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#ab14c918776a35f54f2a810fef3aa47de", null ],
+    [ "extras", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a2359ce7e0e9c63ea61998799a1ba9cc9", null ],
+    [ "MerchantBookingTypeId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#aab90fde03c31cfbae2c7db88bc9ad21e", null ],
+    [ "otherdata", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#ac8a8a76ecc30b40e30340d350dec69d7", null ],
+    [ "packages", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a294560c742a2331f4bdd0e36884afd4c", null ],
+    [ "paxAgesList", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a0dc0eb7f55cfbe2f284ef73629f98383", null ],
+    [ "paxes", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a64cb68cffea2f0a5da8fa405c6b5d4d6", null ],
+    [ "paxList", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#ae53e75595416004a2eb301087eb2db3a", null ],
+    [ "paymentCard", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#ac283c2c9ab74cc5d34fb10b6eca50688", null ],
+    [ "prices", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a9f8d80703db28e305c6fd8755714d71a", null ],
+    [ "ratePlan", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#af08b152d6cc96a2cd55d60584ce137c5", null ],
+    [ "resourceId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a92fbafab7f79e23e113e85c95bfc4407", null ],
+    [ "StartDate", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#adf400c9f8499fb7d4b67cf8106ae8a4a", null ],
+    [ "supplement", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#a6c4b0a4b885a72120656b4a648762d2b", null ],
+    [ "TotalDiscounted", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#af82e211f5efdba15ca4ac50ba516541a", null ],
+    [ "variation", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#ab9bc97745d0f3c6ab40e3cb527375b9b", null ],
+    [ "Vouchers", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data.html#af2df1715aa2c2176a4c486ce0f2a9c22", null ]
+];

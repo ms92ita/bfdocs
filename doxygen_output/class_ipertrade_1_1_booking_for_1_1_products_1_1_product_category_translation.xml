@@ -2,13 +2,13 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::ProductCategoryTranslation</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductTranslation</basecompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___description" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductCategory_Description</derivedcompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___name" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductCategory_Name</derivedcompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation" prot="public" virt="non-virtual">ProductTranslation</basecompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___description" prot="public" virt="non-virtual">ProductCategory_Description</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___name" prot="public" virt="non-virtual">ProductCategory_Name</derivedcompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a29d53c5f141b4fb3ba76d9df0aa66b85" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1ac4dba43d182d48a0fbf3fe3dc86af2b1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.ProductCategoryTranslation.ProductCategoryId</definition>
+        <definition>int ProductCategoryId</definition>
         <argsstring></argsstring>
         <name>ProductCategoryId</name>
         <briefdescription>
@@ -19,9 +19,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductCategory.cs" line="91" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductCategory.cs" bodystart="91" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a0b7a98aadda937a7b685603aa0a5ae67" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1aed288f40210d1dd9fa78589fd63b7593" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category" kindref="compound">ProductCategory</ref></type>
-        <definition>virtual ProductCategory Ipertrade.BookingFor.Products.ProductCategoryTranslation.ProductCategory</definition>
+        <definition>virtual ProductCategory ProductCategory</definition>
         <argsstring></argsstring>
         <name>ProductCategory</name>
         <briefdescription>
@@ -34,9 +34,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a56c917df4402c73028c9258b55987b33" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a99bce375a039a71568e702691aee6c31" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.ProductCategoryTranslation.ProductCategoryTranslation</definition>
+        <definition>ProductCategoryTranslation</definition>
         <argsstring>()</argsstring>
         <name>ProductCategoryTranslation</name>
         <briefdescription>
@@ -54,75 +54,75 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="1522">
-        <label>Ipertrade.BookingFor.Products.ProductCategory_Description</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___description"/>
-        <childnode refid="1519" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="1520">
-        <label>ProductTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation"/>
-        <childnode refid="1521" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="1523">
-        <label>Ipertrade.BookingFor.Products.ProductCategory_Name</label>
+        <label>ProductCategory_Name</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___name"/>
-        <childnode refid="1519" relation="public-inheritance">
+        <childnode refid="1518" relation="public-inheritance">
         </childnode>
       </node>
       <node id="1519">
-        <label>Ipertrade.BookingFor.Products.ProductCategoryTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation"/>
+        <label>ProductTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation"/>
         <childnode refid="1520" relation="public-inheritance">
         </childnode>
       </node>
       <node id="1521">
+        <label>ProductCategory_Description</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___description"/>
+        <childnode refid="1518" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1518">
+        <label>ProductCategoryTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation"/>
+        <childnode refid="1519" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1520">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="1525">
+      <node id="1524">
         <label>ProductTranslation</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation"/>
-        <childnode refid="1526" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="1524">
-        <label>Ipertrade.BookingFor.Products.ProductCategoryTranslation</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation"/>
         <childnode refid="1525" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1526">
+      <node id="1523">
+        <label>ProductCategoryTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation"/>
+        <childnode refid="1524" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1525">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductCategory.cs" line="87" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductCategory.cs" bodystart="86" bodyend="94"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a8394adcf5665d3f71873e2f79caa43b8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ColumnName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1aed50d0470ae120f629e5c9598350a7c3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>CultureCode</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a0f81ac02e57f72689e753189ddb22cfe" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>NamespaceRef</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a0b7a98aadda937a7b685603aa0a5ae67" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductCategory</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a29d53c5f141b4fb3ba76d9df0aa66b85" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductCategoryId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a56c917df4402c73028c9258b55987b33" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductCategoryTranslation</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a2c71a95417afc5cbb5c9dada1d30a036" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductTranslation</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1acdb9a23676ba15bb58c7b651a8e00ba5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>TableRef</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a58ae89a7573358570a5b5379d63437cd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>TranslationId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1aa7ccb74926104f0bcd554601ca02a1fc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>Value</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a9fb97cbd9275d94c8f99ba9fc3670aca" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ColumnName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a56da3050ef9d5e166bf2fea92606249b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>CultureCode</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a71684d6b1ea11586e82bb893458dadb8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>NamespaceRef</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1aed288f40210d1dd9fa78589fd63b7593" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductCategory</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1ac4dba43d182d48a0fbf3fe3dc86af2b1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductCategoryId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation_1a99bce375a039a71568e702691aee6c31" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductCategoryTranslation</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a268a4a3c09658aebee8f7280c27ac85b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>ProductTranslation</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1aef694233e5048035bd4dd2bb109c356e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>TableRef</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1a974d9d3b6805de2dbc3c19a3586100ec" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>TranslationId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1af7b88db799d8f791f785e437bc6099d2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductCategoryTranslation</scope><name>Value</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

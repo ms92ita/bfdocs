@@ -1,0 +1,4 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___description =
+[
+    [ "VariationPlan_Description", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___description.html#a5773ad99c8a174a75e04da0acb284d53", null ]
+];

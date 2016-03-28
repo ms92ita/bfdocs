@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::MerchantAverage</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a24c693d9c4295456ccb0fb3d9e177bdb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aca248169f102d3d0fc0daae047c43f45" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.MerchantAverage.MerchantId</definition>
+        <definition>int MerchantId</definition>
         <argsstring></argsstring>
         <name>MerchantId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a6e4b04a1b684360bf5892c31ddb87a71" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aad462966ed963f892117056de1eba502" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.MerchantAverage.Count</definition>
+        <definition>int Count</definition>
         <argsstring></argsstring>
         <name>Count</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a11762ba270b1aafab5403966fda70414" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a03bfdf04eaad02e489615097517cf49e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Entities.MerchantAverage.Average</definition>
+        <definition>decimal Average</definition>
         <argsstring></argsstring>
         <name>Average</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aadcac24119ff9bad45ccd49f475533f1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a51c5462df17ef77b828c4ccbd54307c5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.MerchantAverage.MerchantName</definition>
+        <definition>string MerchantName</definition>
         <argsstring></argsstring>
         <name>MerchantName</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aa32c2a58ffd5cdcc8f88762fa296d720" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aa431805269eeb79c572110c389aa30eb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>double</type>
-        <definition>double Ipertrade.BookingFor.Entities.MerchantAverage.AValue1</definition>
+        <definition>double AValue1</definition>
         <argsstring></argsstring>
         <name>AValue1</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a1c2f4d7acdc897905aa2420b1e5ac2a3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aef5b9d364aadc23c7f92ea32fd745408" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>double</type>
-        <definition>double Ipertrade.BookingFor.Entities.MerchantAverage.AValue2</definition>
+        <definition>double AValue2</definition>
         <argsstring></argsstring>
         <name>AValue2</name>
         <briefdescription>
@@ -81,9 +81,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a0c8d9ffccd35515f58887c2db377a624" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a25e877f4ad1eb093fad88b2e322ec4be" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>double</type>
-        <definition>double Ipertrade.BookingFor.Entities.MerchantAverage.AValue3</definition>
+        <definition>double AValue3</definition>
         <argsstring></argsstring>
         <name>AValue3</name>
         <briefdescription>
@@ -94,9 +94,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1abec9ed2061bdbda051ae295869b05cb4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1ab033bc559f735fea424c4e5198427ca4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>double</type>
-        <definition>double Ipertrade.BookingFor.Entities.MerchantAverage.AValue4</definition>
+        <definition>double AValue4</definition>
         <argsstring></argsstring>
         <name>AValue4</name>
         <briefdescription>
@@ -107,9 +107,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="49" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a95aaa816e0a70f35bbb7d2c250bfc9f6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a282455526fd34fd931e1ac5c28ad07ac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>double</type>
-        <definition>double Ipertrade.BookingFor.Entities.MerchantAverage.AValue5</definition>
+        <definition>double AValue5</definition>
         <argsstring></argsstring>
         <name>AValue5</name>
         <briefdescription>
@@ -127,15 +127,15 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantAverage.cs" bodystart="14" bodyend="57"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aa32c2a58ffd5cdcc8f88762fa296d720" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue1</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a1c2f4d7acdc897905aa2420b1e5ac2a3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue2</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a0c8d9ffccd35515f58887c2db377a624" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue3</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1abec9ed2061bdbda051ae295869b05cb4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue4</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a95aaa816e0a70f35bbb7d2c250bfc9f6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue5</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a11762ba270b1aafab5403966fda70414" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>Average</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a6e4b04a1b684360bf5892c31ddb87a71" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>Count</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a24c693d9c4295456ccb0fb3d9e177bdb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>MerchantId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aadcac24119ff9bad45ccd49f475533f1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>MerchantName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aa431805269eeb79c572110c389aa30eb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue1</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aef5b9d364aadc23c7f92ea32fd745408" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue2</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a25e877f4ad1eb093fad88b2e322ec4be" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue3</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1ab033bc559f735fea424c4e5198427ca4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue4</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a282455526fd34fd931e1ac5c28ad07ac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>AValue5</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a03bfdf04eaad02e489615097517cf49e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>Average</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aad462966ed963f892117056de1eba502" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>Count</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1aca248169f102d3d0fc0daae047c43f45" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_average_1a51c5462df17ef77b828c4ccbd54307c5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantAverage</scope><name>MerchantName</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

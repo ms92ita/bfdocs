@@ -1,0 +1,5 @@
+var namespace_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services =
+[
+    [ "BookingForService", "class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_for_service.html", "class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_for_service" ],
+    [ "BookingService", "class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_service.html", "class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_service" ]
+];

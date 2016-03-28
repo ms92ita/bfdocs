@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::UserWidgetAccess</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a48839d7a23f58e06bdd9c7cc84047442" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a7290dade3b94cc93a40bde0aeaad4e62" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.UserWidgetAccess.WidgetAccessId</definition>
+        <definition>int WidgetAccessId</definition>
         <argsstring></argsstring>
         <name>WidgetAccessId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a3538d8d29338129931189831e201f856" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a2f4b2e8b906bd50307c2da14d554b913" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.UserWidgetAccess.RoleId</definition>
+        <definition>string RoleId</definition>
         <argsstring></argsstring>
         <name>RoleId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1ae84552446e4b0e6359522c5e47850950" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a97a43194857541136b940e1fe61f8e0d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.UserWidgetAccess.WidgetId</definition>
+        <definition>int WidgetId</definition>
         <argsstring></argsstring>
         <name>WidgetId</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" bodystart="19" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a52069c6dfbda9fb16bad83f890ab63ad" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a6ded8b028947d944cbf36c7a67d8f9ae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role" kindref="compound">AspNetRole</ref></type>
-        <definition>virtual AspNetRole Ipertrade.BookingFor.Entities.UserWidgetAccess.Role</definition>
+        <definition>virtual AspNetRole Role</definition>
         <argsstring></argsstring>
         <name>Role</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1aeae3ff393026a08cb04aa0f19df72d7d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1af4669405e477e893f81bdd0de60f95f4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_widget" kindref="compound">Widget</ref></type>
-        <definition>virtual Widget Ipertrade.BookingFor.Entities.UserWidgetAccess.Widget</definition>
+        <definition>virtual Widget Widget</definition>
         <argsstring></argsstring>
         <name>Widget</name>
         <briefdescription>
@@ -71,9 +71,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a50dd30feb030b356b83ecf4c9eeb7cde" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a79c7f0bbebff534a9f67b4611ec8fd5d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Entities.UserWidgetAccess.UserWidgetAccess</definition>
+        <definition>UserWidgetAccess</definition>
         <argsstring>()</argsstring>
         <name>UserWidgetAccess</name>
         <briefdescription>
@@ -90,48 +90,48 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="2026">
-        <label>Ipertrade.BookingFor.Entities.UserWidgetAccess</label>
+      <node id="2025">
+        <label>UserWidgetAccess</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access"/>
-        <childnode refid="2027" relation="public-inheritance">
+        <childnode refid="2026" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="2027">
+      <node id="2026">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="2028">
-        <label>Ipertrade.BookingFor.Entities.UserWidgetAccess</label>
+      <node id="2027">
+        <label>UserWidgetAccess</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access"/>
-        <childnode refid="2029" relation="public-inheritance">
+        <childnode refid="2028" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="2029">
+      <node id="2028">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/UserWidgetAccess.cs" bodystart="9" bodyend="22"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a52069c6dfbda9fb16bad83f890ab63ad" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>Role</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a3538d8d29338129931189831e201f856" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>RoleId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a50dd30feb030b356b83ecf4c9eeb7cde" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>UserWidgetAccess</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1aeae3ff393026a08cb04aa0f19df72d7d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>Widget</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a48839d7a23f58e06bdd9c7cc84047442" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>WidgetAccessId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1ae84552446e4b0e6359522c5e47850950" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>WidgetId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a6ded8b028947d944cbf36c7a67d8f9ae" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>Role</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a2f4b2e8b906bd50307c2da14d554b913" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>RoleId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a79c7f0bbebff534a9f67b4611ec8fd5d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>UserWidgetAccess</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1af4669405e477e893f81bdd0de60f95f4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>Widget</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a7290dade3b94cc93a40bde0aeaad4e62" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>WidgetAccessId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access_1a97a43194857541136b940e1fe61f8e0d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::UserWidgetAccess</scope><name>WidgetId</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

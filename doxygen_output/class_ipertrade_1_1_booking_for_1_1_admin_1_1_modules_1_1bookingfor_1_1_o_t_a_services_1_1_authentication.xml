@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1a9f6bc65444da8afebf40f61875061867" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1af90c57f17031f70a035ac4d66b83ffe5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.Authentication.Login</definition>
+        <definition>string Login</definition>
         <argsstring></argsstring>
         <name>Login</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2526" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2526" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1ab902a1f1ef16aa94b5a0c6b947a2d34c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1a9c7aae3a8518d5efd22e991b5944e0d4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.Authentication.Password</definition>
+        <definition>string Password</definition>
         <argsstring></argsstring>
         <name>Password</name>
         <briefdescription>
@@ -36,8 +36,8 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2520" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2519" bodyend="2534"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1a9f6bc65444da8afebf40f61875061867" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</scope><name>Login</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1ab902a1f1ef16aa94b5a0c6b947a2d34c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</scope><name>Password</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1af90c57f17031f70a035ac4d66b83ffe5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</scope><name>Login</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1a9c7aae3a8518d5efd22e991b5944e0d4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</scope><name>Password</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

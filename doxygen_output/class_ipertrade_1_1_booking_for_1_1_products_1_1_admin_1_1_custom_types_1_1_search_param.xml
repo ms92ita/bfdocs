@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a984dda42c4331297fcb6d9db218cf162" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a61e2d488c27e0b13adb03a51b9c67477" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchParam.AttributeId</definition>
+        <definition>int AttributeId</definition>
         <argsstring></argsstring>
         <name>AttributeId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a858ae844924010d549ff22f7c2ae13ec" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a15b48b7117fa598da31cb515592c8086" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchParam.FilterType</definition>
+        <definition>int FilterType</definition>
         <argsstring></argsstring>
         <name>FilterType</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1acd7f01f42de71d4b7c3ab9a414570c52" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a08279d689a5556b1d01a6cbfd0a930bf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchParam.MinValue</definition>
+        <definition>string MinValue</definition>
         <argsstring></argsstring>
         <name>MinValue</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="23" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a9d5258731a00913aa30e8e41a1118322" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a8539552244de960dbca00da2dd082ccc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchParam.MaxValue</definition>
+        <definition>string MaxValue</definition>
         <argsstring></argsstring>
         <name>MaxValue</name>
         <briefdescription>
@@ -62,10 +62,10 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="19" bodyend="25"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a984dda42c4331297fcb6d9db218cf162" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>AttributeId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a858ae844924010d549ff22f7c2ae13ec" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>FilterType</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a9d5258731a00913aa30e8e41a1118322" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>MaxValue</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1acd7f01f42de71d4b7c3ab9a414570c52" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>MinValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a61e2d488c27e0b13adb03a51b9c67477" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>AttributeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a15b48b7117fa598da31cb515592c8086" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>FilterType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a8539552244de960dbca00da2dd082ccc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>MaxValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param_1a08279d689a5556b1d01a6cbfd0a930bf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</scope><name>MinValue</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.MerchantPayment</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment" prot="public" virt="non-virtual">MerchantPayment</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af4774f28d38412ed8299024adc5acadf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.MerchantBookingType.Description</definition>
+        <definition>string Description</definition>
         <argsstring></argsstring>
         <name>Description</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a517578e79961bb8339e1687beedf3cd3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af7b88db799d8f791f785e437bc6099d2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.MerchantBookingType.Value</definition>
+        <definition>string Value</definition>
         <argsstring></argsstring>
         <name>Value</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="31" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1ae4cf4110a69e3fbf3d15eed2b4a0ee56" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a733ee975f9199e8b79b153674e29a4ee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan" kindref="compound">RatePlan</ref> &gt;</type>
-        <definition>virtual ICollection&lt;RatePlan&gt; Ipertrade.BookingFor.Products.Booking.MerchantBookingType.RatePlans</definition>
+        <definition>virtual ICollection&lt;RatePlan&gt; RatePlans</definition>
         <argsstring></argsstring>
         <name>RatePlans</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a5ca1829c7740d4d1643e695a077917bd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af72949a797b6286f6d29978b7ee9c591" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" kindref="compound">VariationPlan</ref> &gt;</type>
-        <definition>virtual ICollection&lt;VariationPlan&gt; Ipertrade.BookingFor.Products.Booking.MerchantBookingType.VariationPlans</definition>
+        <definition>virtual ICollection&lt;VariationPlan&gt; VariationPlans</definition>
         <argsstring></argsstring>
         <name>VariationPlans</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1ad35587a4f5e84ec8be668f1d822c8531" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a79bdeb4a6d5a0553a44d99b0ef66ccb8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package" kindref="compound">Package</ref> &gt;</type>
-        <definition>virtual ICollection&lt;Package&gt; Ipertrade.BookingFor.Products.Booking.MerchantBookingType.Packages</definition>
+        <definition>virtual ICollection&lt;Package&gt; Packages</definition>
         <argsstring></argsstring>
         <name>Packages</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1ab276cea07bf35bce419be70839821b03" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1aec36cba84041d846497621b203c6d0bf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_translation" kindref="compound">MerchantBookingTypeTranslation</ref> &gt;</type>
-        <definition>virtual ICollection&lt;MerchantBookingTypeTranslation&gt; Ipertrade.BookingFor.Products.Booking.MerchantBookingType.AllTranslations</definition>
+        <definition>virtual ICollection&lt;MerchantBookingTypeTranslation&gt; AllTranslations</definition>
         <argsstring></argsstring>
         <name>AllTranslations</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a4e6ef3902be220798b472a911ba9dbd6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a1a7c309e48ee447fee1f354ae01f58a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___name" kindref="compound">MerchantBookingType_Name</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;MerchantBookingType_Name&gt; Ipertrade.BookingFor.Products.Booking.MerchantBookingType.Names</definition>
+        <definition>virtual IEnumerable&lt;MerchantBookingType_Name&gt; Names</definition>
         <argsstring></argsstring>
         <name>Names</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="38" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1adf26ea465d28007d9cba38fbdbe14509" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a89a37247193db0f6e89da08b771070b4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___description" kindref="compound">MerchantBookingType_Description</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;MerchantBookingType_Description&gt; Ipertrade.BookingFor.Products.Booking.MerchantBookingType.Descriptions</definition>
+        <definition>virtual IEnumerable&lt;MerchantBookingType_Description&gt; Descriptions</definition>
         <argsstring></argsstring>
         <name>Descriptions</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="40" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="40" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1aeffdc20c313228e97db63870f467683a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af679be8cf1ae5218eba1c808cd4c05e1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___policy" kindref="compound">MerchantBookingType_Policy</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;MerchantBookingType_Policy&gt; Ipertrade.BookingFor.Products.Booking.MerchantBookingType.Policies</definition>
+        <definition>virtual IEnumerable&lt;MerchantBookingType_Policy&gt; Policies</definition>
         <argsstring></argsstring>
         <name>Policies</name>
         <briefdescription>
@@ -123,9 +123,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a20e87535a47cade336dacb80a9768ca8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af2f77a3ebc46f503612f247b0ad22b86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.Booking.MerchantBookingType.MerchantBookingType</definition>
+        <definition>MerchantBookingType</definition>
         <argsstring>()</argsstring>
         <name>MerchantBookingType</name>
         <briefdescription>
@@ -143,7 +143,7 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="731">
-        <label>Ipertrade.BookingFor.Products.Booking.MerchantBookingType</label>
+        <label>MerchantBookingType</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type"/>
         <childnode refid="732" relation="public-inheritance">
         </childnode>
@@ -161,7 +161,7 @@
     </inheritancegraph>
     <collaborationgraph>
       <node id="734">
-        <label>Ipertrade.BookingFor.Products.Booking.MerchantBookingType</label>
+        <label>MerchantBookingType</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type"/>
         <childnode refid="735" relation="public-inheritance">
         </childnode>
@@ -179,42 +179,42 @@
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/MerchantBookingType.cs" bodystart="15" bodyend="44"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a8c98f40a972bcdcbdc00fd437a34df06" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AcquireCreditCardData</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1ab276cea07bf35bce419be70839821b03" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AllTranslations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a91754a226d54c4abd8efda8a22e5dbff" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Data</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a91bf9b65132e2495c3bc1857a8494410" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>DeferredPayment</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af4774f28d38412ed8299024adc5acadf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Description</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1adf26ea465d28007d9cba38fbdbe14509" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Descriptions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1af609451c1a9ea2fc7b54fdf6ccade9af" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a5304541857a08970509970977b94e804" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsDefault</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1add89ad47455629ed319f12c28104d64d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Merchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a20e87535a47cade336dacb80a9768ca8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantBookingType</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a09901ae242c4362cbd915ef850586888" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a38941ba99b40e989c22fb8dbb967bace" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantPayment</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1ab0a0e10315ce07511adb0eb814ec2999" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantPaymentId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a1a9af6155b58bca681ace19679caf728" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a4e6ef3902be220798b472a911ba9dbd6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Names</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1ad35587a4f5e84ec8be668f1d822c8531" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Packages</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a5478d5c1a78ce2bfac7ee258f86236b1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>PaymentSystem</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a131a8f24b0daa498efb4ac157c7af346" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>PaymentSystemId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1aeffdc20c313228e97db63870f467683a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Policies</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a2816e2106c1311f4f8eaa5f1468921b2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Portal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1aad91fddd495d026a7b97304d9cf809af" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1ae4cf4110a69e3fbf3d15eed2b4a0ee56" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>RatePlans</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a799ad8b385f20929577809b1eada3f54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>RefName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a517578e79961bb8339e1687beedf3cd3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Value</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a5ca1829c7740d4d1643e695a077917bd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>VariationPlans</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a35629ea58d99660b0eb03d9711b064d6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AcquireCreditCardData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1aec36cba84041d846497621b203c6d0bf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a0df039919c9cd4ab27611e3addb611c1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Data</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a717c567c97d43ba6cc2a30a107cd8606" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>DeferredPayment</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a89a37247193db0f6e89da08b771070b4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Descriptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1abf32527fe5282e38fa53bcd1c53b3eb3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsDefault</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1adf3228c1917f71f2adce485736edf24b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af2f77a3ebc46f503612f247b0ad22b86" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantBookingType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1aca248169f102d3d0fc0daae047c43f45" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1ad09d4ae3b5156551edff093b66064c45" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantPayment</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a14f16ea4e1934bd9d11f49640d5ee542" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>MerchantPaymentId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a1a7c309e48ee447fee1f354ae01f58a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Names</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a79bdeb4a6d5a0553a44d99b0ef66ccb8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Packages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1ad06c6e3efc31ee81733bd2060f3e62f6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>PaymentSystem</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1aada8cfddd91ee180632d26dd703af96e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>PaymentSystemId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af679be8cf1ae5218eba1c808cd4c05e1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Policies</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a40fb3b9bb77c5f4eb8ce6884d86ccda8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1a733ee975f9199e8b79b153674e29a4ee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>RatePlans</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af7b88db799d8f791f785e437bc6099d2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>Value</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_1af72949a797b6286f6d29978b7ee9c591" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::MerchantBookingType</scope><name>VariationPlans</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

@@ -1,0 +1,25 @@
+var class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant =
+[
+    [ "AddressData", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a9bea244cedc596cc1ff89c1ec9535987", null ],
+    [ "Avg", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a23ca6482b054593623c838234c950784", null ],
+    [ "ContactData", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#aeb513bb3e05b690338a481acb87bccd5", null ],
+    [ "Description", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a34409fed9d39281ada2d7ec172a52f9b", null ],
+    [ "Guid", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#abb7f90ce4c795befafbe39ca8136b2c2", null ],
+    [ "HasOffers", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a169f6ba1237dc450472bb26c25d2e375", null ],
+    [ "HasOnSellUnits", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a3c335f31ebf0769886326c4511b37dc0", null ],
+    [ "HasResources", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a597921955fe2ca70f870704701a94598", null ],
+    [ "ImageData", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a95f7502857c18dae3ada34375c00e67e", null ],
+    [ "LogoUrl", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#ab16003a488527cdb514f258d8e794667", null ],
+    [ "MerchantGroupIdList", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a57d74742bf79f0d4ab2d5ecb758e37cc", null ],
+    [ "MerchantId", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#aca248169f102d3d0fc0daae047c43f45", null ],
+    [ "MerchantTypeId", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#acc763bd1f7bb89bcb68992e6ba8a9f11", null ],
+    [ "Name", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a7ee9065718e6628dc7791b756fa6c0f9", null ],
+    [ "PaymentType", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a94907676d39ff7ec18f77b214faab798", null ],
+    [ "Rating", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a355f74d0eb325f70f46abe55f184f104", null ],
+    [ "RatingsContext", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a0600906771ece60043a3033e8b3ea67f", null ],
+    [ "ServiceIdList", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#af775cf97bab85dfb69bf76270d7dbbfd", null ],
+    [ "ShowcaseImageUrl1", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a28405ae4fa16acb6a41e432cb9179bd0", null ],
+    [ "XGooglePos", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#ae0b4cadb641605799895624cf5f7f563", null ],
+    [ "YGooglePos", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#ad41941024d5deda56665a3a4933a5d89", null ],
+    [ "ZoneId", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant.html#a510bae47b05ed54a5d87cb2774615acf", null ]
+];

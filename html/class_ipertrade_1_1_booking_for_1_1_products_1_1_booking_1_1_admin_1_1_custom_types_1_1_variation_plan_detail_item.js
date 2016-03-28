@@ -1,0 +1,5 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_plan_detail_item =
+[
+    [ "id", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_plan_detail_item.html#a7441ef0865bcb3db9b8064dd7375c1ea", null ],
+    [ "qt", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_plan_detail_item.html#a5e0788aec02c2841feab8eed1d2aa8bd", null ]
+];

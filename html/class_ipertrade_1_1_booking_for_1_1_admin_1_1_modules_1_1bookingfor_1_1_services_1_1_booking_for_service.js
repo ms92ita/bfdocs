@@ -1,0 +1,4 @@
+var class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_for_service =
+[
+    [ "BookingForService", "class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_for_service.html#a11f7cc29c8d814b58f54a85de72cfe03", null ]
+];

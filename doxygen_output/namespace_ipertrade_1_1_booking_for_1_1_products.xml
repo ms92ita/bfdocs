@@ -134,9 +134,9 @@
     <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_admin">Ipertrade::BookingFor::Products::Admin</innernamespace>
     <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking">Ipertrade::BookingFor::Products::Booking</innernamespace>
       <sectiondef kind="enum">
-      <memberdef kind="enum" id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eb" prot="public" static="no">
+      <memberdef kind="enum" id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8" prot="public" static="no">
         <name>AttributeTypeEnum</name>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba27226c864bac7454a8504f8edb15d95b" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8a27226c864bac7454a8504f8edb15d95b" prot="public">
           <name>Boolean</name>
           <initializer>= 0</initializer>
           <briefdescription>
@@ -144,7 +144,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba44749712dbec183e983dcd78a7736c41" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8a44749712dbec183e983dcd78a7736c41" prot="public">
           <name>Date</name>
           <initializer>= 1</initializer>
           <briefdescription>
@@ -152,7 +152,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba937504f318f04eaf0f1d701df4c4d7f3" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8a937504f318f04eaf0f1d701df4c4d7f3" prot="public">
           <name>Decimal</name>
           <initializer>= 2</initializer>
           <briefdescription>
@@ -160,7 +160,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82ebab7974932612f00ca7213868731764c5d" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8ab7974932612f00ca7213868731764c5d" prot="public">
           <name>ImageGallery</name>
           <initializer>= 3</initializer>
           <briefdescription>
@@ -168,7 +168,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba1686a6c336b71b36d77354cea19a8b52" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8a1686a6c336b71b36d77354cea19a8b52" prot="public">
           <name>Int</name>
           <initializer>= 4</initializer>
           <briefdescription>
@@ -176,7 +176,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba27118326006d3829667a400ad23d5d98" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8a27118326006d3829667a400ad23d5d98" prot="public">
           <name>String</name>
           <initializer>= 5</initializer>
           <briefdescription>
@@ -184,7 +184,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba6142ce46f03336540668913399b8fd0c" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8a6142ce46f03336540668913399b8fd0c" prot="public">
           <name>LocalizationData</name>
           <initializer>= 6</initializer>
           <briefdescription>
@@ -192,7 +192,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba97e7c9a7d06eac006a28bf05467fcc8b" prot="public">
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a298a5c2029c3ca6e6d6b882d02df40d8a97e7c9a7d06eac006a28bf05467fcc8b" prot="public">
           <name>Link</name>
           <initializer>= 7</initializer>
           <briefdescription>

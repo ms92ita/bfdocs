@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::CreditAcquireOption</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aa06986434f1690b715dcc7a7cf503529" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a92a936a458628a96e8f2c69db8bb9e8e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.CreditAcquireOption.CreditAcquireOptionId</definition>
+        <definition>int CreditAcquireOptionId</definition>
         <argsstring></argsstring>
         <name>CreditAcquireOptionId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1abf9df026a30f0aca7dafdbdbda6f23b2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.CreditAcquireOption.RefName</definition>
+        <definition>string RefName</definition>
         <argsstring></argsstring>
         <name>RefName</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="31" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a187eedfae3c36f9210a88f9ccc242630" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a50c390aab6a4df930a876c163e793ce1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.CreditAcquireOption.Order</definition>
+        <definition>int Order</definition>
         <argsstring></argsstring>
         <name>Order</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="32" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a481ceeb86df7ca400865029d5ff7a148" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aca5c8bf6cfb5ea8d150d4b2f394fd552" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.CreditAcquireOption.Value</definition>
+        <definition>int Value</definition>
         <argsstring></argsstring>
         <name>Value</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aa2e8bb0838643626fe50ade131638494" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1acba78fe6dd083371d24adb08c0f77f6c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.CreditAcquireOption.MoneyValue</definition>
+        <definition>decimal MoneyValue</definition>
         <argsstring></argsstring>
         <name>MoneyValue</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a4f379d5ba938ccd8a163eec26f1b26de" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.CreditAcquireOption.Enabled</definition>
+        <definition>bool Enabled</definition>
         <argsstring></argsstring>
         <name>Enabled</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a0a7f7d35ae400b7aa713d5286beebc3d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.CreditAcquireOption.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1af647591de2c5ae40a4cfd94e4fd1fed9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.CreditAcquireOption.Description</definition>
+        <definition>string Description</definition>
         <argsstring></argsstring>
         <name>Description</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1ae8f0135765c9cda90753c695accb349b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a2178fb9583df9eaf8d220dd90bfa057d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_portal" kindref="compound">ProductsPortal</ref> &gt;</type>
-        <definition>ICollection&lt;ProductsPortal&gt; Ipertrade.BookingFor.Products.CreditAcquireOption.Portals</definition>
+        <definition>ICollection&lt;ProductsPortal&gt; Portals</definition>
         <argsstring></argsstring>
         <name>Portals</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1abc5320bf5d7e4d313b91d7c00f794725" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aac401a7df63b65d50c234a6f49718b7f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category" kindref="compound">ProductMerchantCategory</ref> &gt;</type>
-        <definition>ICollection&lt;ProductMerchantCategory&gt; Ipertrade.BookingFor.Products.CreditAcquireOption.MerchantCategories</definition>
+        <definition>ICollection&lt;ProductMerchantCategory&gt; MerchantCategories</definition>
         <argsstring></argsstring>
         <name>MerchantCategories</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="40" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="40" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a8f8991e8b864c199868b690664e911f1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a2101468297186d604e5d4bf196de60a9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_translation" kindref="compound">CreditAcquireOptionTranslation</ref> &gt;</type>
-        <definition>virtual ICollection&lt;CreditAcquireOptionTranslation&gt; Ipertrade.BookingFor.Products.CreditAcquireOption.AllTranslations</definition>
+        <definition>virtual ICollection&lt;CreditAcquireOptionTranslation&gt; AllTranslations</definition>
         <argsstring></argsstring>
         <name>AllTranslations</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a49a63f5699d519b57e45248a092f0ea2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aff261465248cf9dd5665a4423d229407" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___name" kindref="compound">CreditAcquireOption_Name</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;CreditAcquireOption_Name&gt; Ipertrade.BookingFor.Products.CreditAcquireOption.Names</definition>
+        <definition>virtual IEnumerable&lt;CreditAcquireOption_Name&gt; Names</definition>
         <argsstring></argsstring>
         <name>Names</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="43" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a9b30f380b60cb3ae7c3a8642049c43a7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a551f13255e8f12c3d09ebb6f1a3f36f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___description" kindref="compound">CreditAcquireOption_Description</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;CreditAcquireOption_Description&gt; Ipertrade.BookingFor.Products.CreditAcquireOption.Descriptions</definition>
+        <definition>virtual IEnumerable&lt;CreditAcquireOption_Description&gt; Descriptions</definition>
         <argsstring></argsstring>
         <name>Descriptions</name>
         <briefdescription>
@@ -175,9 +175,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a9cdef08c08ecf2a5b38fb3a63c017029" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1ac2652e8039209ee1c2807a2829b460bf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.CreditAcquireOption.CreditAcquireOption</definition>
+        <definition>CreditAcquireOption</definition>
         <argsstring>()</argsstring>
         <name>CreditAcquireOption</name>
         <briefdescription>
@@ -195,7 +195,7 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="452">
-        <label>Ipertrade.BookingFor.Products.CreditAcquireOption</label>
+        <label>CreditAcquireOption</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option"/>
         <childnode refid="453" relation="public-inheritance">
         </childnode>
@@ -207,7 +207,7 @@
     </inheritancegraph>
     <collaborationgraph>
       <node id="454">
-        <label>Ipertrade.BookingFor.Products.CreditAcquireOption</label>
+        <label>CreditAcquireOption</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option"/>
         <childnode refid="455" relation="public-inheritance">
         </childnode>
@@ -219,31 +219,31 @@
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/CreditAcquireOptions.cs" bodystart="14" bodyend="47"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a8f8991e8b864c199868b690664e911f1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>AllTranslations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a9cdef08c08ecf2a5b38fb3a63c017029" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>CreditAcquireOption</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aa06986434f1690b715dcc7a7cf503529" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>CreditAcquireOptionId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1af647591de2c5ae40a4cfd94e4fd1fed9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Description</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a9b30f380b60cb3ae7c3a8642049c43a7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Descriptions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a4f379d5ba938ccd8a163eec26f1b26de" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1abc5320bf5d7e4d313b91d7c00f794725" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>MerchantCategories</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aa2e8bb0838643626fe50ade131638494" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>MoneyValue</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a0a7f7d35ae400b7aa713d5286beebc3d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a49a63f5699d519b57e45248a092f0ea2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Names</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a187eedfae3c36f9210a88f9ccc242630" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Order</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1ae8f0135765c9cda90753c695accb349b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Portals</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1abf9df026a30f0aca7dafdbdbda6f23b2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>RefName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a481ceeb86df7ca400865029d5ff7a148" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Value</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a2101468297186d604e5d4bf196de60a9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1ac2652e8039209ee1c2807a2829b460bf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>CreditAcquireOption</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a92a936a458628a96e8f2c69db8bb9e8e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>CreditAcquireOptionId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a551f13255e8f12c3d09ebb6f1a3f36f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Descriptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aac401a7df63b65d50c234a6f49718b7f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>MerchantCategories</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1acba78fe6dd083371d24adb08c0f77f6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>MoneyValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aff261465248cf9dd5665a4423d229407" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Names</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a50c390aab6a4df930a876c163e793ce1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Order</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a2178fb9583df9eaf8d220dd90bfa057d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Portals</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_1aca5c8bf6cfb5ea8d150d4b2f394fd552" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::CreditAcquireOption</scope><name>Value</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

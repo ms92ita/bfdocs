@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::PayableService</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1acbb779246eae7e64aa076a7044ec2fa5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a0a0c7c94f5516419c60519e36de9c1ab" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.PayableService.PayableServiceId</definition>
+        <definition>int PayableServiceId</definition>
         <argsstring></argsstring>
         <name>PayableServiceId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a91149565e72aa14c3af874ade58f654c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.PayableService.RefName</definition>
+        <definition>string RefName</definition>
         <argsstring></argsstring>
         <name>RefName</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a74fdb8b976a65a452b22f5feecc9edc3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.PayableService.Enabled</definition>
+        <definition>bool Enabled</definition>
         <argsstring></argsstring>
         <name>Enabled</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a1d13613f182df1fa6f7f9c7b93421005" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ad9f1253e484e61a33a7c874d1de8479e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.PayableService.Exclusive</definition>
+        <definition>bool Exclusive</definition>
         <argsstring></argsstring>
         <name>Exclusive</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="28" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a75d5a9abe9162ad85d97ade8125d5ac4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a725021b9756c52008bb6655a263fe291" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.PayableService.Required</definition>
+        <definition>bool Required</definition>
         <argsstring></argsstring>
         <name>Required</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ad08f94561dc641720c005d5a3bb7b5fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a661f95df2a5b89606de01cd8f6846c31" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.PayableService.PostponedStart</definition>
+        <definition>bool PostponedStart</definition>
         <argsstring></argsstring>
         <name>PostponedStart</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="30" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1aad6fbfcae92d7ca9289590cbe99c67db" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1acee5b90828405bdd76e14c5f335b196a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.PayableService.ProductOwnerVisible</definition>
+        <definition>bool ProductOwnerVisible</definition>
         <argsstring></argsstring>
         <name>ProductOwnerVisible</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="31" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a7b75946fa885abe7c4bd5b8f6286cbb6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a77cc402e8302549a255330051b4fa4a9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.PayableService.TriggerEnableOnAcquire</definition>
+        <definition>bool TriggerEnableOnAcquire</definition>
         <argsstring></argsstring>
         <name>TriggerEnableOnAcquire</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="32" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a341b8deb3fec27706b43c45cc080b412" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a993125e92aba5799daf9359562e8b599" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.PayableService.Weight</definition>
+        <definition>int Weight</definition>
         <argsstring></argsstring>
         <name>Weight</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a38c012649b7b06919f5b80ca3d447394" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a4eeb333f5bfc520060628849587d56f5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.PayableService.Value</definition>
+        <definition>decimal Value</definition>
         <argsstring></argsstring>
         <name>Value</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a9c06904df2852f0f9d1ed671de086091" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a9c38459ff5101c96b22ab6aa934064d7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.PayableService.FrontendCssClass</definition>
+        <definition>string FrontendCssClass</definition>
         <argsstring></argsstring>
         <name>FrontendCssClass</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a6ce5b8be4e776d17d0bace65f923b225" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ae0635a4e6824c40b44294977acb33f10" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.PayableService.ValidationDays</definition>
+        <definition>int ValidationDays</definition>
         <argsstring></argsstring>
         <name>ValidationDays</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a69427d1788ae4cc7730770ef43834118" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.PayableService.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -173,9 +173,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ac4479c8c36741ffe460e7aa79606bdcc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.PayableService.Description</definition>
+        <definition>string Description</definition>
         <argsstring></argsstring>
         <name>Description</name>
         <briefdescription>
@@ -186,9 +186,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="38" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a76a6390f50475c3a05e9cab07f39e0c7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a64257da9f97eb891268016536a91de76" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.PayableService.AllowDeferredPurchase</definition>
+        <definition>bool AllowDeferredPurchase</definition>
         <argsstring></argsstring>
         <name>AllowDeferredPurchase</name>
         <briefdescription>
@@ -199,9 +199,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a19fd3cf062022cb1eb6428a16783a94f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1af1ef57f385b8ea42a0e53ef999ea1992" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_portal" kindref="compound">ProductsPortal</ref> &gt;</type>
-        <definition>virtual ICollection&lt;ProductsPortal&gt; Ipertrade.BookingFor.Products.PayableService.Portals</definition>
+        <definition>virtual ICollection&lt;ProductsPortal&gt; Portals</definition>
         <argsstring></argsstring>
         <name>Portals</name>
         <briefdescription>
@@ -212,9 +212,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a0bd4c1d9364cdd293e791438bd3777ee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a74593ff860a0c60d0f518ba7a077a686" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_product_type_association" kindref="compound">PayableServiceProductTypeAssociation</ref> &gt;</type>
-        <definition>virtual ICollection&lt;PayableServiceProductTypeAssociation&gt; Ipertrade.BookingFor.Products.PayableService.ProductTypeAssociations</definition>
+        <definition>virtual ICollection&lt;PayableServiceProductTypeAssociation&gt; ProductTypeAssociations</definition>
         <argsstring></argsstring>
         <name>ProductTypeAssociations</name>
         <briefdescription>
@@ -225,9 +225,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="43" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a442ce135add6a1d93a367bc0cef5f3fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a56de3c7955d4d188156a54fa7ddab68a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association" kindref="compound">PayableServiceMerchantCategoryAssociation</ref> &gt;</type>
-        <definition>virtual ICollection&lt;PayableServiceMerchantCategoryAssociation&gt; Ipertrade.BookingFor.Products.PayableService.MerchantCategoryAssociations</definition>
+        <definition>virtual ICollection&lt;PayableServiceMerchantCategoryAssociation&gt; MerchantCategoryAssociations</definition>
         <argsstring></argsstring>
         <name>MerchantCategoryAssociations</name>
         <briefdescription>
@@ -238,9 +238,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="44" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1aebdad206db5475a88e5226362e42e7c2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ad1d7317718b9752569f70d29950e1421" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_service_expiration" kindref="compound">ProductServiceExpiration</ref> &gt;</type>
-        <definition>virtual ICollection&lt;ProductServiceExpiration&gt; Ipertrade.BookingFor.Products.PayableService.ProductServiceExpirations</definition>
+        <definition>virtual ICollection&lt;ProductServiceExpiration&gt; ProductServiceExpirations</definition>
         <argsstring></argsstring>
         <name>ProductServiceExpirations</name>
         <briefdescription>
@@ -251,9 +251,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="47" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="47" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1acac4ebca995cb546e3f3d244ec4f2794" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1af389de589bb465a5351198bbd87a77c9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_translation" kindref="compound">PayableServiceTranslation</ref> &gt;</type>
-        <definition>virtual ICollection&lt;PayableServiceTranslation&gt; Ipertrade.BookingFor.Products.PayableService.AllTranslations</definition>
+        <definition>virtual ICollection&lt;PayableServiceTranslation&gt; AllTranslations</definition>
         <argsstring></argsstring>
         <name>AllTranslations</name>
         <briefdescription>
@@ -264,9 +264,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="48" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a5e7b19c946adb54574ebcab6e78942ba" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a2d7a72e07bdc74ab0d30c3848f7e9a20" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service___name" kindref="compound">PayableService_Name</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;PayableService_Name&gt; Ipertrade.BookingFor.Products.PayableService.Names</definition>
+        <definition>virtual IEnumerable&lt;PayableService_Name&gt; Names</definition>
         <argsstring></argsstring>
         <name>Names</name>
         <briefdescription>
@@ -277,9 +277,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="50" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="50" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a1fb485cd018da14208f58618e2216b79" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a7dd70b5ddfd0aeb00d9011b668a65ed8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service___description" kindref="compound">PayableService_Description</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;PayableService_Description&gt; Ipertrade.BookingFor.Products.PayableService.Descriptions</definition>
+        <definition>virtual IEnumerable&lt;PayableService_Description&gt; Descriptions</definition>
         <argsstring></argsstring>
         <name>Descriptions</name>
         <briefdescription>
@@ -292,9 +292,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a1f607e4555c8a3ecfa9cee2312637adc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ae0b896ba706831d49963649469c729b2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.PayableService.PayableService</definition>
+        <definition>PayableService</definition>
         <argsstring>()</argsstring>
         <name>PayableService</name>
         <briefdescription>
@@ -311,65 +311,65 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="1014">
-        <label>Ipertrade.BookingFor.Products.PayableService</label>
+      <node id="1013">
+        <label>PayableService</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service"/>
-        <childnode refid="1015" relation="public-inheritance">
+        <childnode refid="1014" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1015">
+      <node id="1014">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="1016">
-        <label>Ipertrade.BookingFor.Products.PayableService</label>
+      <node id="1015">
+        <label>PayableService</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service"/>
-        <childnode refid="1017" relation="public-inheritance">
+        <childnode refid="1016" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1017">
+      <node id="1016">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="14" bodyend="54"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a76a6390f50475c3a05e9cab07f39e0c7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AllowDeferredPurchase</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1acac4ebca995cb546e3f3d244ec4f2794" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AllTranslations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ac4479c8c36741ffe460e7aa79606bdcc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Description</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a1fb485cd018da14208f58618e2216b79" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Descriptions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a74fdb8b976a65a452b22f5feecc9edc3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a1d13613f182df1fa6f7f9c7b93421005" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Exclusive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a9c06904df2852f0f9d1ed671de086091" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>FrontendCssClass</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a442ce135add6a1d93a367bc0cef5f3fd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>MerchantCategoryAssociations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a69427d1788ae4cc7730770ef43834118" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a5e7b19c946adb54574ebcab6e78942ba" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Names</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a1f607e4555c8a3ecfa9cee2312637adc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>PayableService</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1acbb779246eae7e64aa076a7044ec2fa5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>PayableServiceId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a19fd3cf062022cb1eb6428a16783a94f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Portals</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ad08f94561dc641720c005d5a3bb7b5fb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>PostponedStart</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1aad6fbfcae92d7ca9289590cbe99c67db" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ProductOwnerVisible</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1aebdad206db5475a88e5226362e42e7c2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ProductServiceExpirations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a0bd4c1d9364cdd293e791438bd3777ee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ProductTypeAssociations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a91149565e72aa14c3af874ade58f654c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>RefName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a75d5a9abe9162ad85d97ade8125d5ac4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Required</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a7b75946fa885abe7c4bd5b8f6286cbb6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>TriggerEnableOnAcquire</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a6ce5b8be4e776d17d0bace65f923b225" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ValidationDays</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a38c012649b7b06919f5b80ca3d447394" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Value</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a341b8deb3fec27706b43c45cc080b412" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Weight</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a64257da9f97eb891268016536a91de76" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AllowDeferredPurchase</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1af389de589bb465a5351198bbd87a77c9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a7dd70b5ddfd0aeb00d9011b668a65ed8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Descriptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ad9f1253e484e61a33a7c874d1de8479e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Exclusive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a9c38459ff5101c96b22ab6aa934064d7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>FrontendCssClass</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a56de3c7955d4d188156a54fa7ddab68a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>MerchantCategoryAssociations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a2d7a72e07bdc74ab0d30c3848f7e9a20" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Names</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ae0b896ba706831d49963649469c729b2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>PayableService</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a0a0c7c94f5516419c60519e36de9c1ab" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>PayableServiceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1af1ef57f385b8ea42a0e53ef999ea1992" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Portals</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a661f95df2a5b89606de01cd8f6846c31" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>PostponedStart</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1acee5b90828405bdd76e14c5f335b196a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ProductOwnerVisible</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ad1d7317718b9752569f70d29950e1421" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ProductServiceExpirations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a74593ff860a0c60d0f518ba7a077a686" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ProductTypeAssociations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a725021b9756c52008bb6655a263fe291" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Required</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a77cc402e8302549a255330051b4fa4a9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>TriggerEnableOnAcquire</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1ae0635a4e6824c40b44294977acb33f10" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>ValidationDays</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a4eeb333f5bfc520060628849587d56f5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Value</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_1a993125e92aba5799daf9359562e8b599" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableService</scope><name>Weight</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

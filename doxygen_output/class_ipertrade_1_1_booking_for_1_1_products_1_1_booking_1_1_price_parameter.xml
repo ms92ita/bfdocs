@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::PriceParameter</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1abf034c271ce8d0cd991546e658e5212c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1ab5e34bb5ae79e58e13f73fdf9a2d5197" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceParameter.PriceId</definition>
+        <definition>int PriceId</definition>
         <argsstring></argsstring>
         <name>PriceId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/PriceParameter.cs" line="8" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/PriceParameter.cs" bodystart="8" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1a1bf59bed03a87eb65712425b9190d84a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1a8081d8fb9d8f51e49f80d612438324cf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.PriceParameter.Quantity</definition>
+        <definition>int Quantity</definition>
         <argsstring></argsstring>
         <name>Quantity</name>
         <briefdescription>
@@ -36,8 +36,8 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/PriceParameter.cs" line="7" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/PriceParameter.cs" bodystart="6" bodyend="11"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1abf034c271ce8d0cd991546e658e5212c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceParameter</scope><name>PriceId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1a1bf59bed03a87eb65712425b9190d84a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceParameter</scope><name>Quantity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1ab5e34bb5ae79e58e13f73fdf9a2d5197" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceParameter</scope><name>PriceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter_1a8081d8fb9d8f51e49f80d612438324cf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::PriceParameter</scope><name>Quantity</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

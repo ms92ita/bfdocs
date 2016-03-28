@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::sysdiagram</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a4406c44d5f458411605a1de70ff2c792" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a8ccf841cb59e451791bcb2e1ac4f1edc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.sysdiagram.name</definition>
+        <definition>string name</definition>
         <argsstring></argsstring>
         <name>name</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" line="8" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" bodystart="8" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1ac3ed0345956d3a8387311ac5acfec605" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a730099e2b632045b1f1b96a93ae83f4e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.sysdiagram.principal_id</definition>
+        <definition>int principal_id</definition>
         <argsstring></argsstring>
         <name>principal_id</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" line="9" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" bodystart="9" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a9b1cdab96902d8d28734d6b15a5b1e91" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1ad372837adeffc4ce7637edf5ed0c3553" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.sysdiagram.diagram_id</definition>
+        <definition>int diagram_id</definition>
         <argsstring></argsstring>
         <name>diagram_id</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" bodystart="10" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1ab8628d98b17bfe6129293831c59de8ee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a77bbbd637fd9cba3a25603a229f5932b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; int &gt;</type>
-        <definition>Nullable&lt;int&gt; Ipertrade.BookingFor.Entities.sysdiagram.version</definition>
+        <definition>Nullable&lt;int&gt; version</definition>
         <argsstring></argsstring>
         <name>version</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" bodystart="11" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1af134e548599075dd00e85eff14dc8d62" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a067eb9948e21009ec04a4580c740d73e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>byte[]</type>
-        <definition>byte [] Ipertrade.BookingFor.Entities.sysdiagram.definition</definition>
+        <definition>byte [] definition</definition>
         <argsstring></argsstring>
         <name>definition</name>
         <briefdescription>
@@ -75,11 +75,11 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" line="7" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/sysdiagram.cs" bodystart="6" bodyend="13"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1af134e548599075dd00e85eff14dc8d62" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>definition</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a9b1cdab96902d8d28734d6b15a5b1e91" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>diagram_id</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a4406c44d5f458411605a1de70ff2c792" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1ac3ed0345956d3a8387311ac5acfec605" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>principal_id</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1ab8628d98b17bfe6129293831c59de8ee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>version</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a067eb9948e21009ec04a4580c740d73e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>definition</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1ad372837adeffc4ce7637edf5ed0c3553" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>diagram_id</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a8ccf841cb59e451791bcb2e1ac4f1edc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a730099e2b632045b1f1b96a93ae83f4e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>principal_id</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1sysdiagram_1a77bbbd637fd9cba3a25603a229f5932b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::sysdiagram</scope><name>version</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

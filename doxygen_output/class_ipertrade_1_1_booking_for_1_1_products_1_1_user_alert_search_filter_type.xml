@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a3e21b8cdd5458e2cd4fe8077142c6d77" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae165df846b894c532b42e4943d503d53" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.UserAlertSearchFilterType.UserAlertSearchFilterTypeId</definition>
+        <definition>int UserAlertSearchFilterTypeId</definition>
         <argsstring></argsstring>
         <name>UserAlertSearchFilterTypeId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a2c26fb84b8fe27aa4ff909bd479bcfb9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a40a58f52939c88d86ae5941c23f71154" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.UserAlertSearchFilterType.ProductAttributeId</definition>
+        <definition>int ProductAttributeId</definition>
         <argsstring></argsstring>
         <name>ProductAttributeId</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a5cf5fd6485c39f67b9012302a078b923" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a63824dc12291ca639698b50be76e61b2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.UserAlertSearchFilterType.UserAlertSearchTypeId</definition>
+        <definition>int UserAlertSearchTypeId</definition>
         <argsstring></argsstring>
         <name>UserAlertSearchTypeId</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae124796d6dea5d5f8a7f6489b3040354" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1aaea86310de7bc603c6cab3cfe3c88cf2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.UserAlertSearchFilterType.FilterTypeId</definition>
+        <definition>int FilterTypeId</definition>
         <argsstring></argsstring>
         <name>FilterTypeId</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" bodystart="19" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a4fda19dc78548ba427fb2132a5f0b319" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a18b9dd2b22d1cc90f4edc62388b3b2a2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute" kindref="compound">ProductAttribute</ref></type>
-        <definition>ProductAttribute Ipertrade.BookingFor.Products.UserAlertSearchFilterType.ProductAttribute</definition>
+        <definition>ProductAttribute ProductAttribute</definition>
         <argsstring></argsstring>
         <name>ProductAttribute</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae58e8b2a0d6e1d5740e00bc7dd00ba07" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a8a7a165a69325b4176477fa323bbafa6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type" kindref="compound">UserAlertSearchType</ref></type>
-        <definition>UserAlertSearchType Ipertrade.BookingFor.Products.UserAlertSearchFilterType.UserAlertSearchType</definition>
+        <definition>UserAlertSearchType UserAlertSearchType</definition>
         <argsstring></argsstring>
         <name>UserAlertSearchType</name>
         <briefdescription>
@@ -83,9 +83,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ab29aaa8b472a9c63342c1ae9721837b0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a4b4a0b9a00364031c0a4c2ddef8dacc3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.UserAlertSearchFilterType.UserAlertSearchFilterType</definition>
+        <definition>UserAlertSearchFilterType</definition>
         <argsstring>()</argsstring>
         <name>UserAlertSearchFilterType</name>
         <briefdescription>
@@ -103,13 +103,13 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs" bodystart="9" bodyend="23"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae124796d6dea5d5f8a7f6489b3040354" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>FilterTypeId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a4fda19dc78548ba427fb2132a5f0b319" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>ProductAttribute</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a2c26fb84b8fe27aa4ff909bd479bcfb9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>ProductAttributeId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ab29aaa8b472a9c63342c1ae9721837b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchFilterType</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a3e21b8cdd5458e2cd4fe8077142c6d77" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchFilterTypeId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae58e8b2a0d6e1d5740e00bc7dd00ba07" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchType</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a5cf5fd6485c39f67b9012302a078b923" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1aaea86310de7bc603c6cab3cfe3c88cf2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>FilterTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a18b9dd2b22d1cc90f4edc62388b3b2a2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>ProductAttribute</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a40a58f52939c88d86ae5941c23f71154" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>ProductAttributeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a4b4a0b9a00364031c0a4c2ddef8dacc3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchFilterType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae165df846b894c532b42e4943d503d53" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchFilterTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a8a7a165a69325b4176477fa323bbafa6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a63824dc12291ca639698b50be76e61b2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::UserAlertSearchFilterType</scope><name>UserAlertSearchTypeId</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

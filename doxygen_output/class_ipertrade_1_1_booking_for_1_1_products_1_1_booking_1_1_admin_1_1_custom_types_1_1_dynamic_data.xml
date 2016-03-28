@@ -4,9 +4,9 @@
     <compoundname>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</compoundname>
     <basecompoundref prot="public" virt="non-virtual">DynamicObject</basecompoundref>
       <sectiondef kind="private-attrib">
-      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ae93b7b569445749d5c19b70013da856e" prot="private" static="no" mutable="no">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ad3898d10b7dd6f88eec8fa76fa1dd4c2" prot="private" static="no" mutable="no">
         <type>Dictionary&lt; string, object &gt;</type>
-        <definition>Dictionary&lt;string, object&gt; Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.DynamicData._dct</definition>
+        <definition>Dictionary&lt;string, object&gt; _dct</definition>
         <argsstring></argsstring>
         <name>_dct</name>
         <briefdescription>
@@ -19,9 +19,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1a81557b55ce8bfc41e35a687ee4c00c07" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1a6ba8037c171760e1f244c1f648e34ee4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.DynamicData.DynamicData</definition>
+        <definition>DynamicData</definition>
         <argsstring>(Dictionary&lt; string, object &gt; dct)</argsstring>
         <name>DynamicData</name>
         <param>
@@ -36,9 +36,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/DynamicData.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/DynamicData.cs" bodystart="13" bodyend="20"/>
       </memberdef>
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1afbe756064ec2b03f73cca9d6824b73a6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ae76343f2ab1f658ec5ec5a9850b91709" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>override bool</type>
-        <definition>override bool Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.DynamicData.TryGetMember</definition>
+        <definition>override bool TryGetMember</definition>
         <argsstring>(GetMemberBinder binder, out object result)</argsstring>
         <name>TryGetMember</name>
         <param>
@@ -57,9 +57,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/DynamicData.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/DynamicData.cs" bodystart="22" bodyend="31"/>
       </memberdef>
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ad410fefe284abe33f143a7a176767df3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1a988e6d3ad35cddac76a38c862b396c6c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>override bool</type>
-        <definition>override bool Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.DynamicData.TrySetMember</definition>
+        <definition>override bool TrySetMember</definition>
         <argsstring>(SetMemberBinder binder, object value)</argsstring>
         <name>TrySetMember</name>
         <param>
@@ -84,33 +84,33 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="499">
-        <label>DynamicObject</label>
-      </node>
       <node id="498">
-        <label>Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.DynamicData</label>
+        <label>DynamicData</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data"/>
         <childnode refid="499" relation="public-inheritance">
         </childnode>
       </node>
-    </inheritancegraph>
-    <collaborationgraph>
-      <node id="501">
+      <node id="499">
         <label>DynamicObject</label>
       </node>
+    </inheritancegraph>
+    <collaborationgraph>
       <node id="500">
-        <label>Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.DynamicData</label>
+        <label>DynamicData</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data"/>
         <childnode refid="501" relation="public-inheritance">
         </childnode>
       </node>
+      <node id="501">
+        <label>DynamicObject</label>
+      </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/DynamicData.cs" line="9" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/DynamicData.cs" bodystart="8" bodyend="43"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ae93b7b569445749d5c19b70013da856e" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>_dct</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1a81557b55ce8bfc41e35a687ee4c00c07" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>DynamicData</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1afbe756064ec2b03f73cca9d6824b73a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>TryGetMember</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ad410fefe284abe33f143a7a176767df3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>TrySetMember</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ad3898d10b7dd6f88eec8fa76fa1dd4c2" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>_dct</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1a6ba8037c171760e1f244c1f648e34ee4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>DynamicData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1ae76343f2ab1f658ec5ec5a9850b91709" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>TryGetMember</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data_1a988e6d3ad35cddac76a38c862b396c6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</scope><name>TrySetMember</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

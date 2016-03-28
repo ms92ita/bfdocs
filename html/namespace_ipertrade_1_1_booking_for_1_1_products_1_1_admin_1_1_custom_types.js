@@ -1,0 +1,7 @@
+var namespace_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types =
+[
+    [ "AttributeItem", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item.html", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item" ],
+    [ "Offer", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_offer.html", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_offer" ],
+    [ "SearchData", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data.html", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data" ],
+    [ "SearchParam", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param.html", "class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param" ]
+];

@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::Counter</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1adb261ebf99bdceb60dd95da4c3cb1b28" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a13941c62e1c3e207973a83fc840cbc4c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Int64</type>
-        <definition>Int64 Ipertrade.BookingFor.Entities.Counter.CounterId</definition>
+        <definition>Int64 CounterId</definition>
         <argsstring></argsstring>
         <name>CounterId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="12" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a60a06480f03fc900319e63bb5d367332" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="13" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a0670b9d7943f07e5aba63f6fd433cef1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ad1596641454bdcbef22bfcb4486c24ba" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.ValueId</definition>
+        <definition>int ValueId</definition>
         <argsstring></argsstring>
         <name>ValueId</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="14" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ad3ee4c7bf1b17d3e8a8448bbd7093041" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a3e93883c3c3bd6a722b851d30432125e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Counter.NameId</definition>
+        <definition>string NameId</definition>
         <argsstring></argsstring>
         <name>NameId</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="15" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ada05dd3743963e17f0b9d9e9d31a0cee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a0391b18642c9e16b7c2a285fc7db3786" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Counter.Culture</definition>
+        <definition>string Culture</definition>
         <argsstring></argsstring>
         <name>Culture</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a40182a20c3062e18d2e8a68714b45bbb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a6b59f7e64e9339734ef96928323bba43" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.Action</definition>
+        <definition>int Action</definition>
         <argsstring></argsstring>
         <name>Action</name>
         <briefdescription>
@@ -81,9 +81,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a730e4ea253253f02399fe61b3c0ebe76" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a42e645110404fbf4f10235789577fa32" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.Year</definition>
+        <definition>int Year</definition>
         <argsstring></argsstring>
         <name>Year</name>
         <briefdescription>
@@ -94,9 +94,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ad6bac549becda3a36c8c7e64b726dc48" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a1384d7cc35e462ac698437186d95f16d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.January</definition>
+        <definition>int January</definition>
         <argsstring></argsstring>
         <name>January</name>
         <briefdescription>
@@ -107,9 +107,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="19" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a8b3371bf8f9857acda095dac964c575e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ae3bec5522241b8cde11fcf8f999c5c02" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.February</definition>
+        <definition>int February</definition>
         <argsstring></argsstring>
         <name>February</name>
         <briefdescription>
@@ -120,9 +120,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a4c7b989cb0b48d135dc3bd0fe4c504f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a82cdd075a40dba33b8f2d5d0088a87c1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.March</definition>
+        <definition>int March</definition>
         <argsstring></argsstring>
         <name>March</name>
         <briefdescription>
@@ -133,9 +133,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ab2ad77aca5bb83fb7ec4d3fffc06a267" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a235154ba1ff2f3c217e7d0ee4736e9b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.April</definition>
+        <definition>int April</definition>
         <argsstring></argsstring>
         <name>April</name>
         <briefdescription>
@@ -146,9 +146,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1acedb7b4693439d0e31233c93e4a26351" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a19a9edb47135055f57c251dabf20e318" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.May</definition>
+        <definition>int May</definition>
         <argsstring></argsstring>
         <name>May</name>
         <briefdescription>
@@ -159,9 +159,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="23" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a4466eaf7efd0020fe0b8179db17cd5f7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a039851151ded64f5a611cb419b1f353f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.June</definition>
+        <definition>int June</definition>
         <argsstring></argsstring>
         <name>June</name>
         <briefdescription>
@@ -172,9 +172,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="24" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a190241e86e9b37094e15d0fcd89096a7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a61593a9400abfc4885f86e3b75efd875" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.July</definition>
+        <definition>int July</definition>
         <argsstring></argsstring>
         <name>July</name>
         <briefdescription>
@@ -185,9 +185,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1af12ec618d25e84cc65eea80e4d2c5c54" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1aaf5213b1d8c136117641ec0bd6fcd42c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.August</definition>
+        <definition>int August</definition>
         <argsstring></argsstring>
         <name>August</name>
         <briefdescription>
@@ -198,9 +198,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a154078442d989003fe0a7eeb5a4ffde3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a831edf37b5fb33627f070087cf330679" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.September</definition>
+        <definition>int September</definition>
         <argsstring></argsstring>
         <name>September</name>
         <briefdescription>
@@ -211,9 +211,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1aacc1fbd3afbbce1036fd523325178217" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a3db1c938a5b63338fe0dece7d0a630fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.October</definition>
+        <definition>int October</definition>
         <argsstring></argsstring>
         <name>October</name>
         <briefdescription>
@@ -224,9 +224,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="28" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1afff6be271f753added8e99054bff6be0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a628aefa9c5467ca9ac8121db220810d6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.November</definition>
+        <definition>int November</definition>
         <argsstring></argsstring>
         <name>November</name>
         <briefdescription>
@@ -237,9 +237,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a9986ac6b9c7df297195bfa376a8c1789" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a58e6791028d2d015ce5cfb978c511aac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.December</definition>
+        <definition>int December</definition>
         <argsstring></argsstring>
         <name>December</name>
         <briefdescription>
@@ -250,9 +250,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="30" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ae8c2c9777cfad33cb8348284c1ef6470" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ae36a1ad4b467c9b1268db3125492db4c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Counter.Total</definition>
+        <definition>int Total</definition>
         <argsstring></argsstring>
         <name>Total</name>
         <briefdescription>
@@ -270,26 +270,26 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Counter.cs" bodystart="9" bodyend="33"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a40182a20c3062e18d2e8a68714b45bbb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Action</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ab2ad77aca5bb83fb7ec4d3fffc06a267" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>April</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1af12ec618d25e84cc65eea80e4d2c5c54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>August</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1adb261ebf99bdceb60dd95da4c3cb1b28" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>CounterId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ada05dd3743963e17f0b9d9e9d31a0cee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Culture</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a9986ac6b9c7df297195bfa376a8c1789" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>December</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a8b3371bf8f9857acda095dac964c575e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>February</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ad6bac549becda3a36c8c7e64b726dc48" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>January</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a190241e86e9b37094e15d0fcd89096a7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>July</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a4466eaf7efd0020fe0b8179db17cd5f7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>June</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a4c7b989cb0b48d135dc3bd0fe4c504f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>March</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1acedb7b4693439d0e31233c93e4a26351" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>May</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ad3ee4c7bf1b17d3e8a8448bbd7093041" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>NameId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1afff6be271f753added8e99054bff6be0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>November</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1aacc1fbd3afbbce1036fd523325178217" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>October</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a60a06480f03fc900319e63bb5d367332" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a154078442d989003fe0a7eeb5a4ffde3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>September</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ae8c2c9777cfad33cb8348284c1ef6470" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Total</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a0670b9d7943f07e5aba63f6fd433cef1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>ValueId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a730e4ea253253f02399fe61b3c0ebe76" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Year</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a6b59f7e64e9339734ef96928323bba43" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Action</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a235154ba1ff2f3c217e7d0ee4736e9b8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>April</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1aaf5213b1d8c136117641ec0bd6fcd42c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>August</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a13941c62e1c3e207973a83fc840cbc4c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>CounterId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a0391b18642c9e16b7c2a285fc7db3786" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Culture</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a58e6791028d2d015ce5cfb978c511aac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>December</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ae3bec5522241b8cde11fcf8f999c5c02" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>February</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a1384d7cc35e462ac698437186d95f16d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>January</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a61593a9400abfc4885f86e3b75efd875" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>July</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a039851151ded64f5a611cb419b1f353f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>June</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a82cdd075a40dba33b8f2d5d0088a87c1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>March</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a19a9edb47135055f57c251dabf20e318" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>May</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a3e93883c3c3bd6a722b851d30432125e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>NameId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a628aefa9c5467ca9ac8121db220810d6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>November</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a3db1c938a5b63338fe0dece7d0a630fb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>October</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a831edf37b5fb33627f070087cf330679" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>September</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ae36a1ad4b467c9b1268db3125492db4c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Total</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1ad1596641454bdcbef22bfcb4486c24ba" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>ValueId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_counter_1a42e645110404fbf4f10235789577fa32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Counter</scope><name>Year</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

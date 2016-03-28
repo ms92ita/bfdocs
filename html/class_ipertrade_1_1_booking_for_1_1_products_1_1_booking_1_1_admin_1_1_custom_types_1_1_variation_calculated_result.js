@@ -1,0 +1,7 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result =
+[
+    [ "VariationCalculatedResult", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result.html#acfa3653c87415e4afd1ed4fd3d235b8c", null ],
+    [ "Days", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result.html#a59a2b276f62a6baf7eef162d1f38832b", null ],
+    [ "TotalAmount", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result.html#ab0c72142f0dc946e0261e3c1320d0716", null ],
+    [ "VariationPlan", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result.html#a57156a9896046ef7f51156d279124ba1", null ]
+];

@@ -4,9 +4,9 @@
     <compoundname>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</compoundname>
     <basecompoundref prot="public" virt="non-virtual">IProductAttributeControl</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1acf86d8bfaeccdb1412fa8ce52e1d4f60" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af94c4b328e91585a29037bc4ee0abd8b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.AttributeClientId</definition>
+        <definition>string AttributeClientId</definition>
         <argsstring></argsstring>
         <name>AttributeClientId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="14" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a8f0da6a4944b269e8637e786c4901a0e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a61e2d488c27e0b13adb03a51b9c67477" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.AttributeId</definition>
+        <definition>int AttributeId</definition>
         <argsstring></argsstring>
         <name>AttributeId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="15" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a0507f79d85981e885723f9e45b8f5533" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a0391b18642c9e16b7c2a285fc7db3786" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.Culture</definition>
+        <definition>string Culture</definition>
         <argsstring></argsstring>
         <name>Culture</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="16" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1adccf9e3d4d898bbd62dad8f6c94d00c0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a50c390aab6a4df930a876c163e793ce1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.Order</definition>
+        <definition>int Order</definition>
         <argsstring></argsstring>
         <name>Order</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a34620432ca7f948fa1ec78ed65d296be" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a89b3ee10cec1e00b59697544d1619a52" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.Format</definition>
+        <definition>string Format</definition>
         <argsstring></argsstring>
         <name>Format</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a83d077aed651d4c5ffe2174ee42f26d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af7b88db799d8f791f785e437bc6099d2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.Value</definition>
+        <definition>string Value</definition>
         <argsstring></argsstring>
         <name>Value</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="19" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a3709af7a28e6cc6e89790a8075eb358a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1aa7b633091e7820b835d04d0d5fc197c7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.Title</definition>
+        <definition>string Title</definition>
         <argsstring></argsstring>
         <name>Title</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a45ccad5f15eddba7435201d489481aa3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a70ad0cac1b121541f0d581b4d3fb859b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.AttributeName</definition>
+        <definition>string AttributeName</definition>
         <argsstring></argsstring>
         <name>AttributeName</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a240ba47b9fdb68e4896d9931e6df91f5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a50027866157dd66f522037fc1f811d92" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.IsModified</definition>
+        <definition>bool IsModified</definition>
         <argsstring></argsstring>
         <name>IsModified</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a98e54da5507ada91eb5fb07da9ed1024" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1abf32527fe5282e38fa53bcd1c53b3eb3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.IsDefault</definition>
+        <definition>bool IsDefault</definition>
         <argsstring></argsstring>
         <name>IsDefault</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="23" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a373c6dedad42ecea53d7e7b6854dd479" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af9eb3559412cbed4e6d185db3cc2833f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.AttributeValueId</definition>
+        <definition>int AttributeValueId</definition>
         <argsstring></argsstring>
         <name>AttributeValueId</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="24" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a122e4d927f00c5ca29d19a278561b733" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a3b82275e10351b493b37edd8e7d2f1cf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.UserLanguage</definition>
+        <definition>string UserLanguage</definition>
         <argsstring></argsstring>
         <name>UserLanguage</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a3a51d703ac49f3495c62dd62fe32db24" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af6f2c3c54704ce0052722ee3d7408e37" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.DefaultLanguage</definition>
+        <definition>string DefaultLanguage</definition>
         <argsstring></argsstring>
         <name>DefaultLanguage</name>
         <briefdescription>
@@ -173,9 +173,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a73170f8367dbd26188b80e244203fc45" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1ac2fa8445d53c45d13bab421de4b4bad0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem.ToDelete</definition>
+        <definition>bool ToDelete</definition>
         <argsstring></argsstring>
         <name>ToDelete</name>
         <briefdescription>
@@ -192,43 +192,43 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="61">
-        <label>IProductAttributeControl</label>
-      </node>
       <node id="60">
-        <label>Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem</label>
+        <label>AttributeItem</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item"/>
         <childnode refid="61" relation="public-inheritance">
         </childnode>
       </node>
-    </inheritancegraph>
-    <collaborationgraph>
-      <node id="63">
+      <node id="61">
         <label>IProductAttributeControl</label>
       </node>
+    </inheritancegraph>
+    <collaborationgraph>
       <node id="62">
-        <label>Ipertrade.BookingFor.Products.Admin.CustomTypes.AttributeItem</label>
+        <label>AttributeItem</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item"/>
         <childnode refid="63" relation="public-inheritance">
         </childnode>
       </node>
+      <node id="63">
+        <label>IProductAttributeControl</label>
+      </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" bodystart="11" bodyend="28"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1acf86d8bfaeccdb1412fa8ce52e1d4f60" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeClientId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a8f0da6a4944b269e8637e786c4901a0e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a45ccad5f15eddba7435201d489481aa3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a373c6dedad42ecea53d7e7b6854dd479" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeValueId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a0507f79d85981e885723f9e45b8f5533" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Culture</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a3a51d703ac49f3495c62dd62fe32db24" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>DefaultLanguage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a34620432ca7f948fa1ec78ed65d296be" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Format</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a98e54da5507ada91eb5fb07da9ed1024" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>IsDefault</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a240ba47b9fdb68e4896d9931e6df91f5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1adccf9e3d4d898bbd62dad8f6c94d00c0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Order</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a3709af7a28e6cc6e89790a8075eb358a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Title</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a73170f8367dbd26188b80e244203fc45" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>ToDelete</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a122e4d927f00c5ca29d19a278561b733" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>UserLanguage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a83d077aed651d4c5ffe2174ee42f26d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Value</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af94c4b328e91585a29037bc4ee0abd8b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeClientId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a61e2d488c27e0b13adb03a51b9c67477" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a70ad0cac1b121541f0d581b4d3fb859b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af9eb3559412cbed4e6d185db3cc2833f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>AttributeValueId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a0391b18642c9e16b7c2a285fc7db3786" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Culture</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af6f2c3c54704ce0052722ee3d7408e37" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>DefaultLanguage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a89b3ee10cec1e00b59697544d1619a52" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Format</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1abf32527fe5282e38fa53bcd1c53b3eb3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>IsDefault</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a50027866157dd66f522037fc1f811d92" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a50c390aab6a4df930a876c163e793ce1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Order</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1aa7b633091e7820b835d04d0d5fc197c7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Title</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1ac2fa8445d53c45d13bab421de4b4bad0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>ToDelete</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1a3b82275e10351b493b37edd8e7d2f1cf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>UserLanguage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item_1af7b88db799d8f791f785e437bc6099d2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</scope><name>Value</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

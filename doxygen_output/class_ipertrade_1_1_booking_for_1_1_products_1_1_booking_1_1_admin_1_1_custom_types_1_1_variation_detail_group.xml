@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a32c78bc1d2aa42b176570c6dea3bb1b7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1aaba961b1cdc681cfdb6db55db839cf2b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationDetailGroup.productid</definition>
+        <definition>int productid</definition>
         <argsstring></argsstring>
         <name>productid</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="81" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="81" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a7aa0b7dfae6e96dfbdfbe1b4eb237719" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a2064e05828446949b64d7d839e11b7f8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationDetailGroup.rolegroupid</definition>
+        <definition>string rolegroupid</definition>
         <argsstring></argsstring>
         <name>rolegroupid</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="82" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="82" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a0d68aaec776ac6a94e35f6e969e285ac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1ab2df8d4db4d3ea2336e0c5bcf47ba309" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_option_object" kindref="compound">VariationDetailOptionObject</ref> &gt;</type>
-        <definition>ICollection&lt;VariationDetailOptionObject&gt; Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationDetailGroup.rules</definition>
+        <definition>ICollection&lt;VariationDetailOptionObject&gt; rules</definition>
         <argsstring></argsstring>
         <name>rules</name>
         <briefdescription>
@@ -44,9 +44,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1adbbab22ccbf809088d152b12bf53f56f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a0788211801c8f6c100d9f11f0c7da381" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.VariationDetailGroup.VariationDetailGroup</definition>
+        <definition>VariationDetailGroup</definition>
         <argsstring>()</argsstring>
         <name>VariationDetailGroup</name>
         <briefdescription>
@@ -64,10 +64,10 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="75" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="74" bodyend="85"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a32c78bc1d2aa42b176570c6dea3bb1b7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>productid</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a7aa0b7dfae6e96dfbdfbe1b4eb237719" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>rolegroupid</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a0d68aaec776ac6a94e35f6e969e285ac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>rules</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1adbbab22ccbf809088d152b12bf53f56f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>VariationDetailGroup</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1aaba961b1cdc681cfdb6db55db839cf2b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>productid</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a2064e05828446949b64d7d839e11b7f8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>rolegroupid</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1ab2df8d4db4d3ea2336e0c5bcf47ba309" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>rules</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group_1a0788211801c8f6c100d9f11f0c7da381" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</scope><name>VariationDetailGroup</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

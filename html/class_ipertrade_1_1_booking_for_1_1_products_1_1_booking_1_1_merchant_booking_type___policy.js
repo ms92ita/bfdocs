@@ -1,0 +1,4 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___policy =
+[
+    [ "MerchantBookingType_Policy", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___policy.html#a9948e07f0451a5a72c6a1bbb1bd7d810", null ]
+];

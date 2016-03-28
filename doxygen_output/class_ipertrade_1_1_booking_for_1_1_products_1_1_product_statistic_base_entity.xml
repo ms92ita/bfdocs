@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</compoundname>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.OnSellUnitPriceHistory</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history" prot="public" virt="non-virtual">OnSellUnitPriceHistory</derivedcompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a39066aadb93497a28ea1a7d17f408b77" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a6fda9b1a478471ec7a785df4109f17d6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.Date</definition>
+        <definition>int Date</definition>
         <argsstring></argsstring>
         <name>Date</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="17" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a96e0c49be86f858f7f9319b7fd62155a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ac099d863f7e5fb496c2bcc3c396415b0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CategoryId</definition>
+        <definition>int CategoryId</definition>
         <argsstring></argsstring>
         <name>CategoryId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a3e32f04b2bed1ba5fbe7601487655aec" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CityId</definition>
+        <definition>int CityId</definition>
         <argsstring></argsstring>
         <name>CityId</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1adf3303307259e49da329dcd0cd456c77" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a510bae47b05ed54a5d87cb2774615acf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.ZoneId</definition>
+        <definition>int ZoneId</definition>
         <argsstring></argsstring>
         <name>ZoneId</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a03d00ee9532847b196a93f6f1b5c2396" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a38eb03765b49d55924c5588d19f3eb53" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a2c6e78a6504e9db017110da67ff65ab6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CategoryName</definition>
+        <definition>string CategoryName</definition>
         <argsstring></argsstring>
         <name>CategoryName</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a9d5fdab4162ccd05cdd2cdf7e3ce3494" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a1216d1139d48d7b3d60fcf8691bd033e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CityName</definition>
+        <definition>string CityName</definition>
         <argsstring></argsstring>
         <name>CityName</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a0729b718a38021e940e1bdd26690478e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a7bcf8b68eb6a7b9669ebccc94961fe88" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.ZoneName</definition>
+        <definition>string ZoneName</definition>
         <argsstring></argsstring>
         <name>ZoneName</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ac49f1f482b020950d075744b7c80f5e7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a03bfdf04eaad02e489615097517cf49e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.Average</definition>
+        <definition>decimal Average</definition>
         <argsstring></argsstring>
         <name>Average</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="49" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a5dac640c457460062a6977bf4579f73f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a463d79ee1314b85b89021be9fdc53bb3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CategoryAverage</definition>
+        <definition>decimal CategoryAverage</definition>
         <argsstring></argsstring>
         <name>CategoryAverage</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="53" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a57789b59f7a764d86d9f0b8f84a06774" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a26d0f1170325befe2402bd455213b672" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CityAverage</definition>
+        <definition>decimal CityAverage</definition>
         <argsstring></argsstring>
         <name>CityAverage</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="57" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ae10a1c8c5038367b23a4b079b5931fbb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1aafa81490528d0a5f62795802dee3ca2a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.ZoneAverage</definition>
+        <definition>decimal ZoneAverage</definition>
         <argsstring></argsstring>
         <name>ZoneAverage</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="61" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="61" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a269c7dd4fe4cf57dcc8f49eb80ed2f75" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a2b3f7f2c6cd57ede8631e844c961fad9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CityCategoryAverage</definition>
+        <definition>decimal CityCategoryAverage</definition>
         <argsstring></argsstring>
         <name>CityCategoryAverage</name>
         <briefdescription>
@@ -173,9 +173,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="65" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="65" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1abc26616bfb4b178b9fe3c854cbdcf437" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a2b150da6fc62311de1ae1b2b06ad59fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.CityZoneAverage</definition>
+        <definition>decimal CityZoneAverage</definition>
         <argsstring></argsstring>
         <name>CityZoneAverage</name>
         <briefdescription>
@@ -186,9 +186,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="69" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="69" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1aecf93c4e5ac5016b89e03b127743e420" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1aff657f4ad65c3b23dbd5af6befc1cef6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.ProductStatisticBaseEntity.ZoneCategoryAverage</definition>
+        <definition>decimal ZoneCategoryAverage</definition>
         <argsstring></argsstring>
         <name>ZoneCategoryAverage</name>
         <briefdescription>
@@ -205,34 +205,34 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="1593">
-        <label>Ipertrade.BookingFor.Products.OnSellUnitPriceHistory</label>
+      <node id="1592">
+        <label>OnSellUnitPriceHistory</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history"/>
-        <childnode refid="1592" relation="public-inheritance">
+        <childnode refid="1591" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1592">
-        <label>Ipertrade.BookingFor.Products.ProductStatisticBaseEntity</label>
+      <node id="1591">
+        <label>ProductStatisticBaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity"/>
       </node>
     </inheritancegraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductStatisticBaseEntity.cs" bodystart="12" bodyend="74"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ac49f1f482b020950d075744b7c80f5e7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>Average</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a5dac640c457460062a6977bf4579f73f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CategoryAverage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a96e0c49be86f858f7f9319b7fd62155a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CategoryId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a38eb03765b49d55924c5588d19f3eb53" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CategoryName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a57789b59f7a764d86d9f0b8f84a06774" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityAverage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a269c7dd4fe4cf57dcc8f49eb80ed2f75" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityCategoryAverage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a3e32f04b2bed1ba5fbe7601487655aec" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a9d5fdab4162ccd05cdd2cdf7e3ce3494" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1abc26616bfb4b178b9fe3c854cbdcf437" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityZoneAverage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a39066aadb93497a28ea1a7d17f408b77" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>Date</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a03d00ee9532847b196a93f6f1b5c2396" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ae10a1c8c5038367b23a4b079b5931fbb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneAverage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1aecf93c4e5ac5016b89e03b127743e420" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneCategoryAverage</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1adf3303307259e49da329dcd0cd456c77" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a0729b718a38021e940e1bdd26690478e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a03bfdf04eaad02e489615097517cf49e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>Average</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a463d79ee1314b85b89021be9fdc53bb3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CategoryAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ac099d863f7e5fb496c2bcc3c396415b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CategoryId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a2c6e78a6504e9db017110da67ff65ab6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CategoryName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a26d0f1170325befe2402bd455213b672" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a2b3f7f2c6cd57ede8631e844c961fad9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityCategoryAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ae77d7ef422093a433bf17f2e418ad76e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a1216d1139d48d7b3d60fcf8691bd033e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a2b150da6fc62311de1ae1b2b06ad59fd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>CityZoneAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a6fda9b1a478471ec7a785df4109f17d6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>Date</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1aafa81490528d0a5f62795802dee3ca2a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1aff657f4ad65c3b23dbd5af6befc1cef6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneCategoryAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a510bae47b05ed54a5d87cb2774615acf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a7bcf8b68eb6a7b9669ebccc94961fe88" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</scope><name>ZoneName</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

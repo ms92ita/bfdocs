@@ -5,9 +5,9 @@
     <basecompoundref prot="public" virt="non-virtual">IdentityRole&lt; string, AspNetUserRole &gt;</basecompoundref>
     <basecompoundref prot="public" virt="non-virtual">IRole&lt; string &gt;</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ad242f0ec66804e979df890f3ab371894" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a50c390aab6a4df930a876c163e793ce1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetRole.Order</definition>
+        <definition>int Order</definition>
         <argsstring></argsstring>
         <name>Order</name>
         <briefdescription>
@@ -18,9 +18,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1afe12277f630dfbef2e364a6fc87225b0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a7c01fb0ce24002342f9a55bbd3a1af18" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetRole.SinglePortal</definition>
+        <definition>int SinglePortal</definition>
         <argsstring></argsstring>
         <name>SinglePortal</name>
         <briefdescription>
@@ -31,9 +31,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ae1017dd7324b1d028dcbc108292154fc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ac8953aaa6dc93e4999a728cc6b9a611b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetRole.SingleMerchant</definition>
+        <definition>int SingleMerchant</definition>
         <argsstring></argsstring>
         <name>SingleMerchant</name>
         <briefdescription>
@@ -44,9 +44,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1af33b61b133691458cf6d70bd71371276" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetRole.Description</definition>
+        <definition>string Description</definition>
         <argsstring></argsstring>
         <name>Description</name>
         <briefdescription>
@@ -57,9 +57,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a61ee41d4a1c533b4a46bca4711bb83d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a0fdf43ea9143620617bfd9041e747669" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.AspNetRole.EnableSectionFlags</definition>
+        <definition>int EnableSectionFlags</definition>
         <argsstring></argsstring>
         <name>EnableSectionFlags</name>
         <briefdescription>
@@ -70,9 +70,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a0bedbee6a6a17787ef703d7866d1d132" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a73e321615316f1b54b0795d79f98ad89" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.AspNetRole.AllowedRolesInsert</definition>
+        <definition>string AllowedRolesInsert</definition>
         <argsstring></argsstring>
         <name>AllowedRolesInsert</name>
         <briefdescription>
@@ -83,9 +83,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="38" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a66bb6775fe68beecbaa2573f60eb2133" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Entities.AspNetRole.Enabled</definition>
+        <definition>bool Enabled</definition>
         <argsstring></argsstring>
         <name>Enabled</name>
         <briefdescription>
@@ -96,9 +96,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a9f6f8eed3ce3d8e6b3488d9d0c62d3e8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1af7acb58c3326881ca4416d140475e216" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>byte[]</type>
-        <definition>byte [] Ipertrade.BookingFor.Entities.AspNetRole.RowVersion</definition>
+        <definition>byte [] RowVersion</definition>
         <argsstring></argsstring>
         <name>RowVersion</name>
         <briefdescription>
@@ -109,9 +109,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a4ca357df0a9ef7f13596892aaf5959e3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ad9dee44006bec49a6e307ad0385150f0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_page_permission" kindref="compound">PagePermission</ref> &gt;</type>
-        <definition>virtual ICollection&lt;PagePermission&gt; Ipertrade.BookingFor.Entities.AspNetRole.PagePermissions</definition>
+        <definition>virtual ICollection&lt;PagePermission&gt; PagePermissions</definition>
         <argsstring></argsstring>
         <name>PagePermissions</name>
         <briefdescription>
@@ -122,9 +122,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="43" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a61d0a584096ab86916a4316adde15c95" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a52f840997f943c8991d391849c6fe4b2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_user_widget_access" kindref="compound">UserWidgetAccess</ref> &gt;</type>
-        <definition>virtual ICollection&lt;UserWidgetAccess&gt; Ipertrade.BookingFor.Entities.AspNetRole.UserWidgetAccesses</definition>
+        <definition>virtual ICollection&lt;UserWidgetAccess&gt; UserWidgetAccesses</definition>
         <argsstring></argsstring>
         <name>UserWidgetAccesses</name>
         <briefdescription>
@@ -135,9 +135,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="44" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a58df93f82a4403140af5e581c9d082c7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1adb430296d98bc54012bc17cab2cac59c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_permission" kindref="compound">ModulePermission</ref> &gt;</type>
-        <definition>virtual ICollection&lt;ModulePermission&gt; Ipertrade.BookingFor.Entities.AspNetRole.ModulePermissions</definition>
+        <definition>virtual ICollection&lt;ModulePermission&gt; ModulePermissions</definition>
         <argsstring></argsstring>
         <name>ModulePermissions</name>
         <briefdescription>
@@ -148,9 +148,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ad1ea7adc92b6299015a70810cec83259" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ac09f67da7016e34fc0f26eed673fb767" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_permission" kindref="compound">MenuPermission</ref> &gt;</type>
-        <definition>virtual ICollection&lt;MenuPermission&gt; Ipertrade.BookingFor.Entities.AspNetRole.MenuPermissions</definition>
+        <definition>virtual ICollection&lt;MenuPermission&gt; MenuPermissions</definition>
         <argsstring></argsstring>
         <name>MenuPermissions</name>
         <briefdescription>
@@ -161,9 +161,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="46" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="46" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ae7a4bba8c383a856bf91a61133001536" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a2f2ccc82f045d1021f5466ffbe572681" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_item_permission" kindref="compound">MenuItemPermission</ref> &gt;</type>
-        <definition>virtual ICollection&lt;MenuItemPermission&gt; Ipertrade.BookingFor.Entities.AspNetRole.MenuItemPermissions</definition>
+        <definition>virtual ICollection&lt;MenuItemPermission&gt; MenuItemPermissions</definition>
         <argsstring></argsstring>
         <name>MenuItemPermissions</name>
         <briefdescription>
@@ -174,9 +174,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="47" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="47" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a9f97ee89a6b92d1e135e5da0feecaa59" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a220b5af7f043d6aae18f73126a410d6f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_translation" kindref="compound">AspNetRoleTranslation</ref> &gt;</type>
-        <definition>virtual ICollection&lt;AspNetRoleTranslation&gt; Ipertrade.BookingFor.Entities.AspNetRole.AllTranslations</definition>
+        <definition>virtual ICollection&lt;AspNetRoleTranslation&gt; AllTranslations</definition>
         <argsstring></argsstring>
         <name>AllTranslations</name>
         <briefdescription>
@@ -187,9 +187,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="48" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a3213a23bd0d91d81cb4a8a7beec63e93" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a42e0069c7b6e90a84d4bc19e4b62c2c6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role___name" kindref="compound">AspNetRole_Name</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;AspNetRole_Name&gt; Ipertrade.BookingFor.Entities.AspNetRole.Names</definition>
+        <definition>virtual IEnumerable&lt;AspNetRole_Name&gt; Names</definition>
         <argsstring></argsstring>
         <name>Names</name>
         <briefdescription>
@@ -200,9 +200,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="50" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="50" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a84d533c56f7a88760f8fb1715c76e4ca" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a385606f86a69be9d549da8dbc74b2f58" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
         <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role___description" kindref="compound">AspNetRole_Description</ref> &gt;</type>
-        <definition>virtual IEnumerable&lt;AspNetRole_Description&gt; Ipertrade.BookingFor.Entities.AspNetRole.Descriptions</definition>
+        <definition>virtual IEnumerable&lt;AspNetRole_Description&gt; Descriptions</definition>
         <argsstring></argsstring>
         <name>Descriptions</name>
         <briefdescription>
@@ -215,9 +215,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a91247f42d60420cee22fd55ce020434e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a4bfd32a2b864db7e111c9ab01d0ff479" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Entities.AspNetRole.AspNetRole</definition>
+        <definition>AspNetRole</definition>
         <argsstring>()</argsstring>
         <name>AspNetRole</name>
         <briefdescription>
@@ -228,9 +228,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="15" bodyend="24"/>
       </memberdef>
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1af7d7e344cc3a8607e26ac74ee1f60412" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a1aacae5d3326129afcb943c1e74219ea" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Entities.AspNetRole.AspNetRole</definition>
+        <definition>AspNetRole</definition>
         <argsstring>(string roleName)</argsstring>
         <name>AspNetRole</name>
         <param>
@@ -254,54 +254,54 @@
       <node id="4">
         <label>IRole&lt; string &gt;</label>
       </node>
-      <node id="3">
-        <label>IdentityRole&lt; string, AspNetUserRole &gt;</label>
-      </node>
       <node id="2">
-        <label>Ipertrade.BookingFor.Entities.AspNetRole</label>
+        <label>AspNetRole</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role"/>
         <childnode refid="3" relation="public-inheritance">
         </childnode>
         <childnode refid="4" relation="public-inheritance">
         </childnode>
       </node>
+      <node id="3">
+        <label>IdentityRole&lt; string, AspNetUserRole &gt;</label>
+      </node>
     </inheritancegraph>
     <collaborationgraph>
       <node id="7">
         <label>IRole&lt; string &gt;</label>
       </node>
-      <node id="6">
-        <label>IdentityRole&lt; string, AspNetUserRole &gt;</label>
-      </node>
       <node id="5">
-        <label>Ipertrade.BookingFor.Entities.AspNetRole</label>
+        <label>AspNetRole</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role"/>
         <childnode refid="6" relation="public-inheritance">
         </childnode>
         <childnode refid="7" relation="public-inheritance">
         </childnode>
       </node>
+      <node id="6">
+        <label>IdentityRole&lt; string, AspNetUserRole &gt;</label>
+      </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetRole.cs" bodystart="13" bodyend="53"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a0bedbee6a6a17787ef703d7866d1d132" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AllowedRolesInsert</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a9f97ee89a6b92d1e135e5da0feecaa59" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AllTranslations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a91247f42d60420cee22fd55ce020434e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AspNetRole</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1af7d7e344cc3a8607e26ac74ee1f60412" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AspNetRole</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1af33b61b133691458cf6d70bd71371276" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Description</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a84d533c56f7a88760f8fb1715c76e4ca" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Descriptions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a66bb6775fe68beecbaa2573f60eb2133" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a61ee41d4a1c533b4a46bca4711bb83d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>EnableSectionFlags</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ae7a4bba8c383a856bf91a61133001536" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>MenuItemPermissions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ad1ea7adc92b6299015a70810cec83259" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>MenuPermissions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a58df93f82a4403140af5e581c9d082c7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>ModulePermissions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a3213a23bd0d91d81cb4a8a7beec63e93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Names</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ad242f0ec66804e979df890f3ab371894" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Order</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a4ca357df0a9ef7f13596892aaf5959e3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>PagePermissions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a9f6f8eed3ce3d8e6b3488d9d0c62d3e8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ae1017dd7324b1d028dcbc108292154fc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>SingleMerchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1afe12277f630dfbef2e364a6fc87225b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>SinglePortal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a61d0a584096ab86916a4316adde15c95" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>UserWidgetAccesses</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a73e321615316f1b54b0795d79f98ad89" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AllowedRolesInsert</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a220b5af7f043d6aae18f73126a410d6f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a4bfd32a2b864db7e111c9ab01d0ff479" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AspNetRole</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a1aacae5d3326129afcb943c1e74219ea" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>AspNetRole</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a34409fed9d39281ada2d7ec172a52f9b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a385606f86a69be9d549da8dbc74b2f58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Descriptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a0fdf43ea9143620617bfd9041e747669" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>EnableSectionFlags</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a2f2ccc82f045d1021f5466ffbe572681" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>MenuItemPermissions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ac09f67da7016e34fc0f26eed673fb767" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>MenuPermissions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1adb430296d98bc54012bc17cab2cac59c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>ModulePermissions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a42e0069c7b6e90a84d4bc19e4b62c2c6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Names</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a50c390aab6a4df930a876c163e793ce1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>Order</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ad9dee44006bec49a6e307ad0385150f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>PagePermissions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1ac8953aaa6dc93e4999a728cc6b9a611b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>SingleMerchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a7c01fb0ce24002342f9a55bbd3a1af18" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>SinglePortal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role_1a52f840997f943c8991d391849c6fe4b2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetRole</scope><name>UserWidgetAccesses</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

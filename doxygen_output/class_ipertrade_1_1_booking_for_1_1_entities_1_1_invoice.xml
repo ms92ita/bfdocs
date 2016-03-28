@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Entities::Invoice</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1af48a37c45668818a03554602722c4f43" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1ad8530b49eb5a7a5cf087fee75c90a5e6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Invoice.InvoiceId</definition>
+        <definition>int InvoiceId</definition>
         <argsstring></argsstring>
         <name>InvoiceId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="23" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1afe9e83d37bef2fe920b66b70fdc18546" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Entities.Invoice.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1ac69af199019ae854c7028611f117138d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Invoice.RefName</definition>
+        <definition>string RefName</definition>
         <argsstring></argsstring>
         <name>RefName</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a59877d0de5804519c80f8ee0796b4186" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a9c424ee9a0172383ac41aeeceeb8c4c1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Invoice.CumulativeId</definition>
+        <definition>string CumulativeId</definition>
         <argsstring></argsstring>
         <name>CumulativeId</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="28" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a3d81c8bd51f40fee5a1190b1d2ffbe1b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1afd2208ac1a7bc378cd61905dc48d8df6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Invoice.TransactionId</definition>
+        <definition>string TransactionId</definition>
         <argsstring></argsstring>
         <name>TransactionId</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aa01667d9b8af7af1f2dfd90b4a12a5ce" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1af18c935ea42148eed38679bd3573f337" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Entities.Invoice.InvoiceName</definition>
+        <definition>string InvoiceName</definition>
         <argsstring></argsstring>
         <name>InvoiceName</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="30" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1ab4ccb2ae9d27248a1a845356bbb1ba32" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a5006da4368292163489d29ad1f399c4e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.Invoice.CreationDate</definition>
+        <definition>DateTime CreationDate</definition>
         <argsstring></argsstring>
         <name>CreationDate</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a78fee2498362ff00e0af881ac9c88b7f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aded6c4a2d5c4aef05070dde698c1c150" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.Invoice.ValidationPeriodStart</definition>
+        <definition>DateTime ValidationPeriodStart</definition>
         <argsstring></argsstring>
         <name>ValidationPeriodStart</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a8e3096191af59449ca1448a71088c97c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a6ca276348654fc8e4098d0d187dc4935" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Entities.Invoice.ValidationPeriodEnd</definition>
+        <definition>DateTime ValidationPeriodEnd</definition>
         <argsstring></argsstring>
         <name>ValidationPeriodEnd</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1afafa72dbda78507457986ac36e95435f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aee58d30311b59ec606a9aeb68fd390d7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Entities.Invoice.TotalInvoice</definition>
+        <definition>decimal TotalInvoice</definition>
         <argsstring></argsstring>
         <name>TotalInvoice</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="38" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1adfe2442f8544ab7185b5e5b2d646ef15" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a01ffccc68942fe13bc416778f291126c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Entities.Invoice.TotalFees</definition>
+        <definition>decimal TotalFees</definition>
         <argsstring></argsstring>
         <name>TotalFees</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a3e81c4adf61cbe82e9c9bdfa5e327f4c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a4d53d6e67b408d9cc109370a7493c655" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_detail" kindref="compound">InvoiceDetail</ref> &gt;</type>
-        <definition>virtual ICollection&lt;InvoiceDetail&gt; Ipertrade.BookingFor.Entities.Invoice.InvoiceDetails</definition>
+        <definition>virtual ICollection&lt;InvoiceDetail&gt; InvoiceDetails</definition>
         <argsstring></argsstring>
         <name>InvoiceDetails</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aaeee35c5e6348b703c356c041d9bb525" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a36d7fed213b7e115f773966296ef1332" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal" kindref="compound">Portal</ref></type>
-        <definition>virtual Portal Ipertrade.BookingFor.Entities.Invoice.Portal</definition>
+        <definition>virtual Portal Portal</definition>
         <argsstring></argsstring>
         <name>Portal</name>
         <briefdescription>
@@ -175,9 +175,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a69dc26baf654528e33820f6ca4ed0a91" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a6fbf1f82eed710b1c2f910c55c43e1ab" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Entities.Invoice.Invoice</definition>
+        <definition>Invoice</definition>
         <argsstring>()</argsstring>
         <name>Invoice</name>
         <briefdescription>
@@ -195,7 +195,7 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="559">
-        <label>Ipertrade.BookingFor.Entities.Invoice</label>
+        <label>Invoice</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice"/>
         <childnode refid="560" relation="public-inheritance">
         </childnode>
@@ -207,7 +207,7 @@
     </inheritancegraph>
     <collaborationgraph>
       <node id="561">
-        <label>Ipertrade.BookingFor.Entities.Invoice</label>
+        <label>Invoice</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice"/>
         <childnode refid="562" relation="public-inheritance">
         </childnode>
@@ -219,31 +219,31 @@
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalInvoice.cs" bodystart="12" bodyend="43"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1ab4ccb2ae9d27248a1a845356bbb1ba32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>CreationDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a59877d0de5804519c80f8ee0796b4186" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>CumulativeId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a69dc26baf654528e33820f6ca4ed0a91" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>Invoice</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a3e81c4adf61cbe82e9c9bdfa5e327f4c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>InvoiceDetails</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1af48a37c45668818a03554602722c4f43" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>InvoiceId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aa01667d9b8af7af1f2dfd90b4a12a5ce" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>InvoiceName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aaeee35c5e6348b703c356c041d9bb525" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>Portal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1afe9e83d37bef2fe920b66b70fdc18546" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1ac69af199019ae854c7028611f117138d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>RefName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1adfe2442f8544ab7185b5e5b2d646ef15" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>TotalFees</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1afafa72dbda78507457986ac36e95435f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>TotalInvoice</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a3d81c8bd51f40fee5a1190b1d2ffbe1b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>TransactionId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a8e3096191af59449ca1448a71088c97c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>ValidationPeriodEnd</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a78fee2498362ff00e0af881ac9c88b7f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>ValidationPeriodStart</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a5006da4368292163489d29ad1f399c4e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>CreationDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a9c424ee9a0172383ac41aeeceeb8c4c1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>CumulativeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a6fbf1f82eed710b1c2f910c55c43e1ab" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>Invoice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a4d53d6e67b408d9cc109370a7493c655" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>InvoiceDetails</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1ad8530b49eb5a7a5cf087fee75c90a5e6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>InvoiceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1af18c935ea42148eed38679bd3573f337" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>InvoiceName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a36d7fed213b7e115f773966296ef1332" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a01ffccc68942fe13bc416778f291126c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>TotalFees</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aee58d30311b59ec606a9aeb68fd390d7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>TotalInvoice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1afd2208ac1a7bc378cd61905dc48d8df6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>TransactionId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1a6ca276348654fc8e4098d0d187dc4935" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>ValidationPeriodEnd</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_invoice_1aded6c4a2d5c4aef05070dde698c1c150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Invoice</scope><name>ValidationPeriodStart</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

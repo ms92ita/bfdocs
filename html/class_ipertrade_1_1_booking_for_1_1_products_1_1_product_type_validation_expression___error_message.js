@@ -1,0 +1,4 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression___error_message =
+[
+    [ "ProductTypeValidationExpression_ErrorMessage", "class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression___error_message.html#af95ab6dbfd5d3a709cc7e7db0da86714", null ]
+];

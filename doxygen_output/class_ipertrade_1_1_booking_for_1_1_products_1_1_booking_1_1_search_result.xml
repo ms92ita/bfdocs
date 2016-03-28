@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Booking::SearchResult</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1aeaa3136809743d833693d305ac139887" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a7c33ca7375df4a8965c781d3a91d2fee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant" kindref="compound">SearchMerchant</ref></type>
-        <definition>SearchMerchant Ipertrade.BookingFor.Products.Booking.SearchResult.Merchant</definition>
+        <definition>SearchMerchant Merchant</definition>
         <argsstring></argsstring>
         <name>Merchant</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SearchResult.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SearchResult.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a3bcb4bf3fad526e905c1be4102b19668" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1aee99a33a47e857a6cfd960fcccde8bd9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_resource" kindref="compound">SearchResource</ref></type>
-        <definition>SearchResource Ipertrade.BookingFor.Products.Booking.SearchResult.Resource</definition>
+        <definition>SearchResource Resource</definition>
         <argsstring></argsstring>
         <name>Resource</name>
         <briefdescription>
@@ -31,9 +31,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-attrib">
-      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a8d442282a168609acc2480e605da781d" prot="private" static="no" mutable="no">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a627235259a422403f99098ca698375a1" prot="private" static="no" mutable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant" kindref="compound">SearchMerchant</ref></type>
-        <definition>SearchMerchant Ipertrade.BookingFor.Products.Booking.SearchResult._merchant</definition>
+        <definition>SearchMerchant _merchant</definition>
         <argsstring></argsstring>
         <name>_merchant</name>
         <initializer>= new <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_search_merchant" kindref="compound">SearchMerchant</ref>()</initializer>
@@ -45,9 +45,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SearchResult.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SearchResult.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1aa527b67b25501288298afb6410541b1b" prot="private" static="no" mutable="no">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a1f701c7e8aa1457c90ce900d7ef6a386" prot="private" static="no" mutable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_resource" kindref="compound">SearchResource</ref></type>
-        <definition>SearchResource Ipertrade.BookingFor.Products.Booking.SearchResult._resource</definition>
+        <definition>SearchResource _resource</definition>
         <argsstring></argsstring>
         <name>_resource</name>
         <initializer>= new <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_resource" kindref="compound">SearchResource</ref>()</initializer>
@@ -66,10 +66,10 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SearchResult.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/SearchResult.cs" bodystart="10" bodyend="35"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a8d442282a168609acc2480e605da781d" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>_merchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1aa527b67b25501288298afb6410541b1b" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>_resource</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1aeaa3136809743d833693d305ac139887" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>Merchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a3bcb4bf3fad526e905c1be4102b19668" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>Resource</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a627235259a422403f99098ca698375a1" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>_merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a1f701c7e8aa1457c90ce900d7ef6a386" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>_resource</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1a7c33ca7375df4a8965c781d3a91d2fee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>Merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_1aee99a33a47e857a6cfd960fcccde8bd9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SearchResult</scope><name>Resource</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

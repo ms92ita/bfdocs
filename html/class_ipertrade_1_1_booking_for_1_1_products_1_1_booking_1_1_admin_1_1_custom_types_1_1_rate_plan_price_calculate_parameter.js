@@ -1,0 +1,13 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter =
+[
+    [ "CheckIn", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#a8fd499275fbcdf5c18571ae333d1c203", null ],
+    [ "CheckOut", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#a9eae433f9eac32cec75d8793a54feced", null ],
+    [ "Duration", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#a09641050788425c58e822ca347d14fdc", null ],
+    [ "Groups", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#a35707eaaad4e7ef206e0370097440cbf", null ],
+    [ "IncludedPersons", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#a23119849b4abdbae303fc5d3c0f81ff1", null ],
+    [ "IsRegisteredUser", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#a90a4754d8d650f74b2a8dd7a3309b0d2", null ],
+    [ "Persons", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#ac8ba311a8fb374496e0e0cf9f0e6fd13", null ],
+    [ "RatePlanTypeId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#a82c3622590509d539713db42145d4e65", null ],
+    [ "ResourceId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#ac591d710eb39040543f75eec6ba7f290", null ],
+    [ "SelectablePrices", "class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter.html#aa69d7400f858c7282d2bad0f9da0ed15", null ]
+];

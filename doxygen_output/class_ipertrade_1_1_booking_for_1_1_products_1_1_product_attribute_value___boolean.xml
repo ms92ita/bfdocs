@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductAttributeValue</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value" prot="public" virt="non-virtual">ProductAttributeValue</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a3842c0bfb9d7be49d186acbb1882905a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a0a851cb5d73ef4717d8cf564b848675a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.ProductAttributeValue_Boolean.BooleanValue</definition>
+        <definition>bool BooleanValue</definition>
         <argsstring></argsstring>
         <name>BooleanValue</name>
         <briefdescription>
@@ -19,9 +19,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a369574acb577079e3db6aa5e722ed75a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1ab84f0f7b552986d65981377a5536eb03" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.ProductAttributeValue_Boolean.ProductAttributeValue_Boolean</definition>
+        <definition>ProductAttributeValue_Boolean</definition>
         <argsstring>()</argsstring>
         <name>ProductAttributeValue_Boolean</name>
         <briefdescription>
@@ -38,75 +38,75 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="1426">
+      <node id="1424">
+        <label>ProductAttributeValue_Boolean</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean"/>
+        <childnode refid="1425" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1425">
         <label>ProductAttributeValue</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value"/>
+        <childnode refid="1426" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1426">
+        <label>AttributeValue</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value"/>
         <childnode refid="1427" relation="public-inheritance">
         </childnode>
       </node>
       <node id="1427">
-        <label>AttributeValue</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value"/>
-        <childnode refid="1428" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="1425">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Boolean</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean"/>
-        <childnode refid="1426" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="1428">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="1430">
+      <node id="1428">
+        <label>ProductAttributeValue_Boolean</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean"/>
+        <childnode refid="1429" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1429">
         <label>ProductAttributeValue</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value"/>
+        <childnode refid="1430" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1430">
+        <label>AttributeValue</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value"/>
         <childnode refid="1431" relation="public-inheritance">
         </childnode>
       </node>
       <node id="1431">
-        <label>AttributeValue</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value"/>
-        <childnode refid="1432" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="1429">
-        <label>Ipertrade.BookingFor.Products.ProductAttributeValue_Boolean</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean"/>
-        <childnode refid="1430" relation="public-inheritance">
-        </childnode>
-      </node>
-      <node id="1432">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductAttributeValue.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductAttributeValue.cs" bodystart="24" bodyend="30"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a491d1fb69c52456136939c2cabb2b812" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>Attribute</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1a49d795e79057715b98e1a082dbc6345e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AttributeId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1a559b46fefa28b3ee897cb56b001aae7f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AttributeValue</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1a1a3eb912f840e0b321a786f88285ca4e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AttributeValueId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a3842c0bfb9d7be49d186acbb1882905a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>BooleanValue</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1afa674475c64e12449eca7402a265f9a5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>Product</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a12ef7ccbeca157b09645f164422d0b77" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>ProductAttributeValue</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a369574acb577079e3db6aa5e722ed75a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>ProductAttributeValue_Boolean</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a8fd8effbc4bc088313f6a831022dcf63" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>ProductId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a8dcbc8422718698d6809daab4bab34ce" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>Attribute</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1a61e2d488c27e0b13adb03a51b9c67477" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AttributeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1a5eb79d089a015f5baaa06bebb0de208e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AttributeValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1af9eb3559412cbed4e6d185db3cc2833f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>AttributeValueId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a0a851cb5d73ef4717d8cf564b848675a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>BooleanValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a97fbbc5d49d7f6ddbb6bf5c329cedd36" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>Product</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1af4d077258647ca794f9f5bcfe3fd30a2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>ProductAttributeValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1ab84f0f7b552986d65981377a5536eb03" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>ProductAttributeValue_Boolean</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a4b1f53393a31e3e8a2d7415c5e1c426f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>ProductId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</scope><name>UpdatedOn</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

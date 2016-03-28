@@ -4,9 +4,9 @@
     <compoundname>Ipertrade::BookingFor::Entities::AspNetUserClaim</compoundname>
     <basecompoundref prot="public" virt="non-virtual">IdentityUserClaim&lt; string &gt;</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a0883c11af620403786aa6d24ead3383d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a734aea7fadb92871ff22b667dd7463a1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>override int</type>
-        <definition>override int Ipertrade.BookingFor.Entities.AspNetUserClaim.Id</definition>
+        <definition>override int Id</definition>
         <argsstring></argsstring>
         <name>Id</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" bodystart="10" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1aa2d7d10c64092bc4475af025d36fbf1c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a1e1346ecba5e706f1edf6dc16e5c5d9f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>override string</type>
-        <definition>override string Ipertrade.BookingFor.Entities.AspNetUserClaim.UserId</definition>
+        <definition>override string UserId</definition>
         <argsstring></argsstring>
         <name>UserId</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" bodystart="11" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1af9948d57f0e05f3501e15e4b602fc47c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1ae9fa280f0ba7012150ae1a214149803b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>override string</type>
-        <definition>override string Ipertrade.BookingFor.Entities.AspNetUserClaim.ClaimType</definition>
+        <definition>override string ClaimType</definition>
         <argsstring></argsstring>
         <name>ClaimType</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" bodystart="12" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1af3896f284d8ce0876c6346bd53288dee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1ac3b205e722f1c79adf91fe5f64dfb85a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>override string</type>
-        <definition>override string Ipertrade.BookingFor.Entities.AspNetUserClaim.ClaimValue</definition>
+        <definition>override string ClaimValue</definition>
         <argsstring></argsstring>
         <name>ClaimValue</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" bodystart="13" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1ae3f6ac3a69af69726053fe24dd82e8aa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1af7acb58c3326881ca4416d140475e216" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>byte[]</type>
-        <definition>byte [] Ipertrade.BookingFor.Entities.AspNetUserClaim.RowVersion</definition>
+        <definition>byte [] RowVersion</definition>
         <argsstring></argsstring>
         <name>RowVersion</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" bodystart="15" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a952405015620f0644dd5af5eb62cd6c7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a1baa684182d4565d39a962e4910a83bb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
-        <definition>virtual AspNetUser Ipertrade.BookingFor.Entities.AspNetUserClaim.AspNetUser</definition>
+        <definition>virtual AspNetUser AspNetUser</definition>
         <argsstring></argsstring>
         <name>AspNetUser</name>
         <briefdescription>
@@ -89,7 +89,7 @@
     </detaileddescription>
     <inheritancegraph>
       <node id="38">
-        <label>Ipertrade.BookingFor.Entities.AspNetUserClaim</label>
+        <label>AspNetUserClaim</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim"/>
         <childnode refid="39" relation="public-inheritance">
         </childnode>
@@ -100,7 +100,7 @@
     </inheritancegraph>
     <collaborationgraph>
       <node id="40">
-        <label>Ipertrade.BookingFor.Entities.AspNetUserClaim</label>
+        <label>AspNetUserClaim</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim"/>
         <childnode refid="41" relation="public-inheritance">
         </childnode>
@@ -111,12 +111,12 @@
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" line="9" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserClaim.cs" bodystart="8" bodyend="17"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a952405015620f0644dd5af5eb62cd6c7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>AspNetUser</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1af9948d57f0e05f3501e15e4b602fc47c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>ClaimType</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1af3896f284d8ce0876c6346bd53288dee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>ClaimValue</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a0883c11af620403786aa6d24ead3383d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>Id</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1ae3f6ac3a69af69726053fe24dd82e8aa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1aa2d7d10c64092bc4475af025d36fbf1c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>UserId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a1baa684182d4565d39a962e4910a83bb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>AspNetUser</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1ae9fa280f0ba7012150ae1a214149803b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>ClaimType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1ac3b205e722f1c79adf91fe5f64dfb85a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>ClaimValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a734aea7fadb92871ff22b667dd7463a1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>Id</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_claim_1a1e1346ecba5e706f1edf6dc16e5c5d9f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserClaim</scope><name>UserId</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

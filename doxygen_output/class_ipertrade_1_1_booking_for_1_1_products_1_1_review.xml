@@ -2,11 +2,11 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::Review</compoundname>
-    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseEntity</basecompoundref>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">BaseEntity</basecompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5b5c743873dec68495dc330544575f98" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aab0561cc3bfa99326a6c4c11957d4f9e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.ReviewId</definition>
+        <definition>int ReviewId</definition>
         <argsstring></argsstring>
         <name>ReviewId</name>
         <briefdescription>
@@ -17,9 +17,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="18" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="18" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8993c160e7bb933cc6575311ee554a47" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.RefName</definition>
+        <definition>string RefName</definition>
         <argsstring></argsstring>
         <name>RefName</name>
         <briefdescription>
@@ -30,9 +30,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="20" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a7414758ab35df7da7ce6357245c3db27" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aa4571cf27d1d5f8e12a63e53c6f58d77" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.TypologyId</definition>
+        <definition>int TypologyId</definition>
         <argsstring></argsstring>
         <name>TypologyId</name>
         <briefdescription>
@@ -43,9 +43,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="21" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a158bba8a16cedb94f933609cefc689e9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.PortalId</definition>
+        <definition>int PortalId</definition>
         <argsstring></argsstring>
         <name>PortalId</name>
         <briefdescription>
@@ -56,9 +56,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a10503974100d726f1f023418bb5b8733" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aca248169f102d3d0fc0daae047c43f45" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.MerchantId</definition>
+        <definition>int MerchantId</definition>
         <argsstring></argsstring>
         <name>MerchantId</name>
         <briefdescription>
@@ -69,9 +69,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ab3730c438d0a52293c52a7fff7b44ca6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ac591d710eb39040543f75eec6ba7f290" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.ResourceId</definition>
+        <definition>int ResourceId</definition>
         <argsstring></argsstring>
         <name>ResourceId</name>
         <briefdescription>
@@ -82,9 +82,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a4951aeb16f979c65fb5147c67edb9dde" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abc7e824d07fb4b7efdef6498d7c99e63" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.UserId</definition>
+        <definition>string UserId</definition>
         <argsstring></argsstring>
         <name>UserId</name>
         <briefdescription>
@@ -95,9 +95,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a20e6341b8644219c38ce597f7a07c00d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ac2926db25ae147030a1cf519c07d86a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.OrderId</definition>
+        <definition>int OrderId</definition>
         <argsstring></argsstring>
         <name>OrderId</name>
         <briefdescription>
@@ -108,9 +108,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a777f8007ae26d155c5e880968c848dd5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5006da4368292163489d29ad1f399c4e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.Review.CreationDate</definition>
+        <definition>DateTime CreationDate</definition>
         <argsstring></argsstring>
         <name>CreationDate</name>
         <briefdescription>
@@ -121,9 +121,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a2668748c18b51fb7e8fe5606086c254f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -134,9 +134,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5f8c31f5bf84c42c19ce1b1bbe000d8d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1addf7b4436db9b7794f3ff57468e5efcb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.Email</definition>
+        <definition>string Email</definition>
         <argsstring></argsstring>
         <name>Email</name>
         <briefdescription>
@@ -147,9 +147,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="42" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="42" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a72d794221dca20bb83220327a1d3cb9f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8a3bc32980d50176d338788be655e932" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.City</definition>
+        <definition>string City</definition>
         <argsstring></argsstring>
         <name>City</name>
         <briefdescription>
@@ -160,9 +160,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="43" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a1fb7eb91a4c4e01e73ec7feddcb3dcd9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a99ab3654bd902baf25201452d890f95b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.Nation</definition>
+        <definition>string Nation</definition>
         <argsstring></argsstring>
         <name>Nation</name>
         <briefdescription>
@@ -173,9 +173,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="44" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5d47c3aa8b13fe49e5dffcdb6fec562e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a4e0fe9d9dbca0f5bb3b04f4394ffdd8d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.Ext</definition>
+        <definition>string Ext</definition>
         <argsstring></argsstring>
         <name>Ext</name>
         <briefdescription>
@@ -186,9 +186,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a58e68f9b26cfe96ed8f4b8ae4f8049ba" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a92aac58b6a21a869551cdcc7c4ef6f1f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.Value1</definition>
+        <definition>int Value1</definition>
         <argsstring></argsstring>
         <name>Value1</name>
         <briefdescription>
@@ -199,9 +199,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="46" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="46" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a50b037eb68eabd27ec20d6a9a8106892" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a3b736720cc24c90220166de3ed4c42f6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.Value2</definition>
+        <definition>int Value2</definition>
         <argsstring></argsstring>
         <name>Value2</name>
         <briefdescription>
@@ -212,9 +212,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="47" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="47" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1af4cb5b879fa5890d96effa6d579d02ce" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ae0c1ecc251657feee970f52f3f1edf3a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.Value3</definition>
+        <definition>int Value3</definition>
         <argsstring></argsstring>
         <name>Value3</name>
         <briefdescription>
@@ -225,9 +225,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="48" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aeb89ff86c079cf6be009dc5fb2949bb7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1adde00e1f623db2eae12c3dd9338dff00" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.Value4</definition>
+        <definition>int Value4</definition>
         <argsstring></argsstring>
         <name>Value4</name>
         <briefdescription>
@@ -238,9 +238,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="49" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abf13be699efc9b11de63d3c0b51c1581" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8fbbd6bfe8be1b866bd57f060bc2aa1f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.Value5</definition>
+        <definition>int Value5</definition>
         <argsstring></argsstring>
         <name>Value5</name>
         <briefdescription>
@@ -251,9 +251,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="50" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="50" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8a065eff6e6de2b96a5512a90af53ae6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a780cc94695a31cfce0116b2b49683470" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.Review.Total</definition>
+        <definition>decimal Total</definition>
         <argsstring></argsstring>
         <name>Total</name>
         <briefdescription>
@@ -264,9 +264,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="51" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="51" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1acc028ae4a46ca29050eb4a871acd6394" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a6cf7669a4abb43563dc36495fb708554" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.NotesData</definition>
+        <definition>string NotesData</definition>
         <argsstring></argsstring>
         <name>NotesData</name>
         <briefdescription>
@@ -277,9 +277,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="52" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="52" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aea7c233a577dad49638a4d8533a6946d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a50c2a1b043463bede26554b3be1b2ca7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.NotesData1</definition>
+        <definition>string NotesData1</definition>
         <argsstring></argsstring>
         <name>NotesData1</name>
         <briefdescription>
@@ -290,9 +290,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="53" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a559e92d6ca3321e4510205b6745c017a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a216fe025080adaf55e899b7d9121f9cc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.Reply</definition>
+        <definition>string Reply</definition>
         <argsstring></argsstring>
         <name>Reply</name>
         <briefdescription>
@@ -303,9 +303,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="54" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="54" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8386ef51e6238d2fb5b6cd7dd71b79fc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abd1adf5871459a70f7a33b715ec012a0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.Requestsdata</definition>
+        <definition>string Requestsdata</definition>
         <argsstring></argsstring>
         <name>Requestsdata</name>
         <briefdescription>
@@ -316,9 +316,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="55" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="55" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8573365a3a94e3ccd56e82874e5abb3e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a517ac846e13da36be37ff72f8e1ab8ee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.Review.CheckInDate</definition>
+        <definition>DateTime CheckInDate</definition>
         <argsstring></argsstring>
         <name>CheckInDate</name>
         <briefdescription>
@@ -329,9 +329,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="56" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="56" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a88a07a8fa9917081502cc8660d64e264" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a0999f1070ce4923004bfb388671f0387" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.Review.Label</definition>
+        <definition>string Label</definition>
         <argsstring></argsstring>
         <name>Label</name>
         <briefdescription>
@@ -342,9 +342,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="57" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ae9c97950c9b3ccbe460589cb69597fc8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>bool</type>
-        <definition>bool Ipertrade.BookingFor.Products.Review.Enabled</definition>
+        <definition>bool Enabled</definition>
         <argsstring></argsstring>
         <name>Enabled</name>
         <briefdescription>
@@ -355,9 +355,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="58" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="58" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1adef952f30ca83d8b2b9a06796079b37b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aca7472005e3e9330e8cbff0104c2f522" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.Review.CustomerId</definition>
+        <definition>int CustomerId</definition>
         <argsstring></argsstring>
         <name>CustomerId</name>
         <briefdescription>
@@ -368,9 +368,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="62" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="62" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a3f730e19004c6f02dc161a857be81724" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a40fb3b9bb77c5f4eb8ce6884d86ccda8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_portal" kindref="compound">ProductsPortal</ref></type>
-        <definition>virtual ProductsPortal Ipertrade.BookingFor.Products.Review.Portal</definition>
+        <definition>virtual ProductsPortal Portal</definition>
         <argsstring></argsstring>
         <name>Portal</name>
         <briefdescription>
@@ -381,9 +381,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="64" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="64" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a59af5ae5a6e72db7312f7bfd3d532198" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1adf3228c1917f71f2adce485736edf24b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_merchant" kindref="compound">ProductsMerchant</ref></type>
-        <definition>virtual ProductsMerchant Ipertrade.BookingFor.Products.Review.Merchant</definition>
+        <definition>virtual ProductsMerchant Merchant</definition>
         <argsstring></argsstring>
         <name>Merchant</name>
         <briefdescription>
@@ -394,9 +394,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="65" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="65" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8541f552879052224b3224c7c86e9c51" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abda84b1f378254230c01237190296553" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm" kindref="compound">CustomerCrm</ref></type>
-        <definition>virtual CustomerCrm Ipertrade.BookingFor.Products.Review.Customer</definition>
+        <definition>virtual CustomerCrm Customer</definition>
         <argsstring></argsstring>
         <name>Customer</name>
         <briefdescription>
@@ -407,9 +407,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="66" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="66" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1acfaa9f4c53579c21887278dfe054ee03" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a4618e9df0b3cebdb69db8fb9c25c7a55" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DateTime</type>
-        <definition>DateTime Ipertrade.BookingFor.Products.Review.ReplyDate</definition>
+        <definition>DateTime ReplyDate</definition>
         <argsstring></argsstring>
         <name>ReplyDate</name>
         <briefdescription>
@@ -426,74 +426,74 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="1836">
-        <label>Ipertrade.BookingFor.Products.Review</label>
+      <node id="1835">
+        <label>Review</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review"/>
-        <childnode refid="1837" relation="public-inheritance">
+        <childnode refid="1836" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1837">
+      <node id="1836">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="1838">
-        <label>Ipertrade.BookingFor.Products.Review</label>
+      <node id="1837">
+        <label>Review</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review"/>
-        <childnode refid="1839" relation="public-inheritance">
+        <childnode refid="1838" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1839">
+      <node id="1838">
         <label>BaseEntity</label>
         <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Review.cs" bodystart="13" bodyend="68"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>AddedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>AddedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>BaseEntity</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8573365a3a94e3ccd56e82874e5abb3e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>CheckInDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a72d794221dca20bb83220327a1d3cb9f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>City</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a777f8007ae26d155c5e880968c848dd5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>CreationDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8541f552879052224b3224c7c86e9c51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Customer</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1adef952f30ca83d8b2b9a06796079b37b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>CustomerId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>DeletedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>DeletedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5f8c31f5bf84c42c19ce1b1bbe000d8d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Email</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ae9c97950c9b3ccbe460589cb69597fc8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5d47c3aa8b13fe49e5dffcdb6fec562e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Ext</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>IsActive</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>IsDeleted</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>IsModified</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a88a07a8fa9917081502cc8660d64e264" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Label</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a59af5ae5a6e72db7312f7bfd3d532198" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Merchant</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a10503974100d726f1f023418bb5b8733" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>MerchantId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a2668748c18b51fb7e8fe5606086c254f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a1fb7eb91a4c4e01e73ec7feddcb3dcd9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Nation</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1acc028ae4a46ca29050eb4a871acd6394" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>NotesData</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aea7c233a577dad49638a4d8533a6946d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>NotesData1</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a20e6341b8644219c38ce597f7a07c00d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>OrderId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a3f730e19004c6f02dc161a857be81724" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Portal</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a158bba8a16cedb94f933609cefc689e9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>PortalId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8993c160e7bb933cc6575311ee554a47" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>RefName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a559e92d6ca3321e4510205b6745c017a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Reply</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1acfaa9f4c53579c21887278dfe054ee03" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>ReplyDate</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8386ef51e6238d2fb5b6cd7dd71b79fc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Requestsdata</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ab3730c438d0a52293c52a7fff7b44ca6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>ResourceId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5b5c743873dec68495dc330544575f98" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>ReviewId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>RowVersion</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8a065eff6e6de2b96a5512a90af53ae6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Total</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a7414758ab35df7da7ce6357245c3db27" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>TypologyId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>UpdatedBy</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>UpdatedOn</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a4951aeb16f979c65fb5147c67edb9dde" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>UserId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a58e68f9b26cfe96ed8f4b8ae4f8049ba" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value1</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a50b037eb68eabd27ec20d6a9a8106892" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value2</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1af4cb5b879fa5890d96effa6d579d02ce" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value3</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aeb89ff86c079cf6be009dc5fb2949bb7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value4</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abf13be699efc9b11de63d3c0b51c1581" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value5</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a28f497b5758dc2d3b5d14f6365911303" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ab81e3d4b9ecdfd31ab8279abbf2d7df9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aa25d744d24b8281c41e3f73911caa827" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a517ac846e13da36be37ff72f8e1ab8ee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>CheckInDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8a3bc32980d50176d338788be655e932" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>City</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5006da4368292163489d29ad1f399c4e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>CreationDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abda84b1f378254230c01237190296553" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Customer</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aca7472005e3e9330e8cbff0104c2f522" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>CustomerId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a7f02d1005cd6ad97245d6bda4b2fced2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a4c951027277e090e68ce97298da31ca3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1addf7b4436db9b7794f3ff57468e5efcb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Email</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a558f5c44426d0eb7abb82a65e8892d9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a4e0fe9d9dbca0f5bb3b04f4394ffdd8d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Ext</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a92c6b1cf703f9e064f5efc0907f80379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2c97d5b820409daa59c6aea6d8de66f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a98b9089f0940df18e20ee1e5f605a518" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a0999f1070ce4923004bfb388671f0387" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Label</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1adf3228c1917f71f2adce485736edf24b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aca248169f102d3d0fc0daae047c43f45" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a99ab3654bd902baf25201452d890f95b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Nation</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a6cf7669a4abb43563dc36495fb708554" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>NotesData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a50c2a1b043463bede26554b3be1b2ca7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>NotesData1</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ac2926db25ae147030a1cf519c07d86a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>OrderId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a40fb3b9bb77c5f4eb8ce6884d86ccda8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a363e3d402fbd75d6e6f0c59912907bc6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a216fe025080adaf55e899b7d9121f9cc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Reply</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a4618e9df0b3cebdb69db8fb9c25c7a55" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>ReplyDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abd1adf5871459a70f7a33b715ec012a0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Requestsdata</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ac591d710eb39040543f75eec6ba7f290" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>ResourceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aab0561cc3bfa99326a6c4c11957d4f9e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>ReviewId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a780cc94695a31cfce0116b2b49683470" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Total</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1aa4571cf27d1d5f8e12a63e53c6f58d77" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>TypologyId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1aad02bc049413a1de6462425537e8e19b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a26202edf24d75a648c94974e07ce9855" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1abc7e824d07fb4b7efdef6498d7c99e63" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>UserId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a92aac58b6a21a869551cdcc7c4ef6f1f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value1</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a3b736720cc24c90220166de3ed4c42f6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value2</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1ae0c1ecc251657feee970f52f3f1edf3a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value3</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1adde00e1f623db2eae12c3dd9338dff00" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value4</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review_1a8fbbd6bfe8be1b866bd57f060bc2aa1f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Review</scope><name>Value5</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

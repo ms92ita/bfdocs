@@ -1,0 +1,25 @@
+var class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group =
+[
+    [ "ModuleGroup", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#ae1d95098fa41a94a838fb0b5a1ed3e7d", null ],
+    [ "BaseResourcesSymbol", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a29770e2d43fa3a1638004ad31d05bd7f", null ],
+    [ "BaseSettings", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a15069b6fb9e1ba80deebd9160535f3a8", null ],
+    [ "ChildModuleGroups", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#af453d0e165a42785a83932720f28794d", null ],
+    [ "Enabled", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a558f5c44426d0eb7abb82a65e8892d9a", null ],
+    [ "HasLimitations", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#aa3c39bfa035612c60fd24d32282c1d37", null ],
+    [ "ModuleGroupId", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#ac8270ad966bfd34cb1185f8e965998f1", null ],
+    [ "ModuleGroupPermissions", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a603a6155bcd544c5f675ea39482c4110", null ],
+    [ "ModulePermissions", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#adb430296d98bc54012bc17cab2cac59c", null ],
+    [ "Modules", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#aaacda287be725c68c3485e0d28b8995d", null ],
+    [ "ModulesFolderName", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a74c336259bdfbe19189a865d8c0c89df", null ],
+    [ "Name", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a7ee9065718e6628dc7791b756fa6c0f9", null ],
+    [ "ParentGroupId", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#ab2ca81bf32f70d2d26fd2a0d072b5840", null ],
+    [ "ParentModuleGroup", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a7737b56b9568dd345553986ae5c84ed1", null ],
+    [ "Portals", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a18bb23938f93cf9a7b349a59c2568f2b", null ],
+    [ "PortalSettingKeys", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a54016dc374ea8616d1d5734e2770951b", null ],
+    [ "PortalTypes", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a040003c2e9bc01dc09951bcb4b80dbc8", null ],
+    [ "RefName", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a5ffe31c54aa09db13c3ed30c342d5e57", null ],
+    [ "RequiredContextClassSymbol", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#adc949be718bc7340b7ea0d984c36fb75", null ],
+    [ "RequiredMerchantClassSymbol", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a49a8b40ea5220cb0551840f004bb4119", null ],
+    [ "RequiredPortalClassSymbol", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#a90d30018c7fd378cab304ce8d25eaf93", null ],
+    [ "SettingKeys", "class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group.html#aab644d011d4bd581a595a1e18a4a1d38", null ]
+];

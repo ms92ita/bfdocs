@@ -3,11 +3,11 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::ProductsContext</compoundname>
     <basecompoundref prot="public" virt="non-virtual">CrmContext</basecompoundref>
-    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.BookingContext</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context" prot="public" virt="non-virtual">BookingContext</derivedcompoundref>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac7e5b7ecb01c7accb7ff16bea63c34bd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a651457e802b1838c9fc4fd595f991b27" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" kindref="compound">Crew</ref> &gt;</type>
-        <definition>DbSet&lt;Crew&gt; Ipertrade.BookingFor.Products.ProductsContext.Crews</definition>
+        <definition>DbSet&lt;Crew&gt; Crews</definition>
         <argsstring></argsstring>
         <name>Crews</name>
         <briefdescription>
@@ -18,9 +18,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9739c988dfee6ee50e2ca37c8ba3d3ac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a82b23b7145f35ecb2d25421f12e77727" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request" kindref="compound">BaseRequest</ref> &gt;</type>
-        <definition>DbSet&lt;BaseRequest&gt; Ipertrade.BookingFor.Products.ProductsContext.Requests</definition>
+        <definition>DbSet&lt;BaseRequest&gt; Requests</definition>
         <argsstring></argsstring>
         <name>Requests</name>
         <briefdescription>
@@ -31,9 +31,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="23" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a787d95f2708453a396981dea5f8510f8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9f266671ac5787897d5e8bfcf8ef9666" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_customer" kindref="compound">RequestCustomer</ref> &gt;</type>
-        <definition>DbSet&lt;RequestCustomer&gt; Ipertrade.BookingFor.Products.ProductsContext.RequestCustomers</definition>
+        <definition>DbSet&lt;RequestCustomer&gt; RequestCustomers</definition>
         <argsstring></argsstring>
         <name>RequestCustomers</name>
         <briefdescription>
@@ -44,9 +44,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="24" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9c784b63b77faef39df04a1d525fed41" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa32e43c6d06ddbe30992d763ea5a3048" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_type" kindref="compound">RequestType</ref> &gt;</type>
-        <definition>DbSet&lt;RequestType&gt; Ipertrade.BookingFor.Products.ProductsContext.RequestTypes</definition>
+        <definition>DbSet&lt;RequestType&gt; RequestTypes</definition>
         <argsstring></argsstring>
         <name>RequestTypes</name>
         <briefdescription>
@@ -57,9 +57,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="25" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac25a6d57c9f9f38b1d2779a52b3bb943" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a8912e0b7db75c28ff16365f97b011c96" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_item" kindref="compound">OrderItem</ref> &gt;</type>
-        <definition>DbSet&lt;OrderItem&gt; Ipertrade.BookingFor.Products.ProductsContext.OrderItems</definition>
+        <definition>DbSet&lt;OrderItem&gt; OrderItems</definition>
         <argsstring></argsstring>
         <name>OrderItems</name>
         <briefdescription>
@@ -70,9 +70,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="26" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a20e0a0a97e7e95094754d8f31a82b6a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0aab7f62c80cef59701cc304aceef9c2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_payment" kindref="compound">OrderPayment</ref> &gt;</type>
-        <definition>DbSet&lt;OrderPayment&gt; Ipertrade.BookingFor.Products.ProductsContext.OrderPayments</definition>
+        <definition>DbSet&lt;OrderPayment&gt; OrderPayments</definition>
         <argsstring></argsstring>
         <name>OrderPayments</name>
         <briefdescription>
@@ -83,9 +83,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="27" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="27" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6b802337ec40177d17e74c30d45c8276" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ace163ad075fd14c7483276e24e64ed38" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_message" kindref="compound">RequestMessage</ref> &gt;</type>
-        <definition>DbSet&lt;RequestMessage&gt; Ipertrade.BookingFor.Products.ProductsContext.RequestMessages</definition>
+        <definition>DbSet&lt;RequestMessage&gt; RequestMessages</definition>
         <argsstring></argsstring>
         <name>RequestMessages</name>
         <briefdescription>
@@ -96,9 +96,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="28" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6b62923f6d65f761f5a24b84109bead0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a55436f9aa17df29925257564ac586249" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status" kindref="compound">OrderStatus</ref> &gt;</type>
-        <definition>DbSet&lt;OrderStatus&gt; Ipertrade.BookingFor.Products.ProductsContext.OrderStatuses</definition>
+        <definition>DbSet&lt;OrderStatus&gt; OrderStatuses</definition>
         <argsstring></argsstring>
         <name>OrderStatuses</name>
         <briefdescription>
@@ -109,9 +109,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="29" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1adbb1b6e1b93e2ebcd7c628ce37c558c9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a635dab882fd1d29ebfd2ab8f4fe42ed8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review" kindref="compound">Review</ref> &gt;</type>
-        <definition>DbSet&lt;Review&gt; Ipertrade.BookingFor.Products.ProductsContext.Reviews</definition>
+        <definition>DbSet&lt;Review&gt; Reviews</definition>
         <argsstring></argsstring>
         <name>Reviews</name>
         <briefdescription>
@@ -122,9 +122,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="30" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af97929bd285113e374fb03304d6aa237" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab870ad2466cd54d600c9a7e11ba4397b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product" kindref="compound">Product</ref> &gt;</type>
-        <definition>DbSet&lt;Product&gt; Ipertrade.BookingFor.Products.ProductsContext.Products</definition>
+        <definition>DbSet&lt;Product&gt; Products</definition>
         <argsstring></argsstring>
         <name>Products</name>
         <briefdescription>
@@ -135,9 +135,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="31" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1126740e70c389adb4f5cd1f9b28374b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1afb9598f923241ba56356b4bad8408cca" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type" kindref="compound">ProductType</ref> &gt;</type>
-        <definition>DbSet&lt;ProductType&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductTypes</definition>
+        <definition>DbSet&lt;ProductType&gt; ProductTypes</definition>
         <argsstring></argsstring>
         <name>ProductTypes</name>
         <briefdescription>
@@ -148,9 +148,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="32" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a165a33a012593194a58eac4561d22238" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa24755bb73c14e5ead8fe994c022215b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category" kindref="compound">ProductCategory</ref> &gt;</type>
-        <definition>DbSet&lt;ProductCategory&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductCategories</definition>
+        <definition>DbSet&lt;ProductCategory&gt; ProductCategories</definition>
         <argsstring></argsstring>
         <name>ProductCategories</name>
         <briefdescription>
@@ -161,9 +161,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="33" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a713a0d4a1ff55b5dfa379b617f1e09f5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a4c11fcdccf7dae52f27a84dea90317b9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>new DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_merchant" kindref="compound">ProductsMerchant</ref> &gt;</type>
-        <definition>new DbSet&lt;ProductsMerchant&gt; Ipertrade.BookingFor.Products.ProductsContext.Merchants</definition>
+        <definition>new DbSet&lt;ProductsMerchant&gt; Merchants</definition>
         <argsstring></argsstring>
         <name>Merchants</name>
         <briefdescription>
@@ -174,9 +174,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="34" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae50d280b182b49b568622dec471db542" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1a0e7a322c1fbd49bb5f1ca75b9ebfc4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>new DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_portal" kindref="compound">ProductsPortal</ref> &gt;</type>
-        <definition>new DbSet&lt;ProductsPortal&gt; Ipertrade.BookingFor.Products.ProductsContext.Portals</definition>
+        <definition>new DbSet&lt;ProductsPortal&gt; Portals</definition>
         <argsstring></argsstring>
         <name>Portals</name>
         <briefdescription>
@@ -187,9 +187,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="35" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a21a88198c3dc7b8b42ba3281e3acb6dc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a4e4bf2def40a9594fc8ae672955140cf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute" kindref="compound">ProductAttribute</ref> &gt;</type>
-        <definition>DbSet&lt;ProductAttribute&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductAttributes</definition>
+        <definition>DbSet&lt;ProductAttribute&gt; ProductAttributes</definition>
         <argsstring></argsstring>
         <name>ProductAttributes</name>
         <briefdescription>
@@ -200,9 +200,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="36" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a70bf5105aaa71e686929389340083a9c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aef022d7fd63c6c6894f69eff6d2baf12" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value" kindref="compound">AttributeOptionValue</ref> &gt;</type>
-        <definition>DbSet&lt;AttributeOptionValue&gt; Ipertrade.BookingFor.Products.ProductsContext.AttributeOptionValues</definition>
+        <definition>DbSet&lt;AttributeOptionValue&gt; AttributeOptionValues</definition>
         <argsstring></argsstring>
         <name>AttributeOptionValues</name>
         <briefdescription>
@@ -213,9 +213,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="37" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae196e73ffc8c32459bc289a7c17b9a52" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa92f988af6af7dcd9d9acb2c88fde4f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value" kindref="compound">ProductAttributeValue</ref> &gt;</type>
-        <definition>DbSet&lt;ProductAttributeValue&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductAttributeValues</definition>
+        <definition>DbSet&lt;ProductAttributeValue&gt; ProductAttributeValues</definition>
         <argsstring></argsstring>
         <name>ProductAttributeValues</name>
         <briefdescription>
@@ -226,9 +226,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="38" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1abace99fdb51849df8c031e3032eeb4e2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa41041ab323814e46e5f46c099c494e6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group" kindref="compound">ProductAttributeGroup</ref> &gt;</type>
-        <definition>DbSet&lt;ProductAttributeGroup&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductAttributeGroups</definition>
+        <definition>DbSet&lt;ProductAttributeGroup&gt; ProductAttributeGroups</definition>
         <argsstring></argsstring>
         <name>ProductAttributeGroups</name>
         <briefdescription>
@@ -239,9 +239,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="39" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af2e01afb87a862e0261367145794ea37" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab16053f33af4e4b442087d631d6a25a6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type" kindref="compound">ProductAttributeType</ref> &gt;</type>
-        <definition>DbSet&lt;ProductAttributeType&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductAttributeTypes</definition>
+        <definition>DbSet&lt;ProductAttributeType&gt; ProductAttributeTypes</definition>
         <argsstring></argsstring>
         <name>ProductAttributeTypes</name>
         <briefdescription>
@@ -252,9 +252,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="40" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="40" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0a3ebeb30be0c2d09e13c25e2385eeda" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a184b3234fae8d1b7103ef9f2f6e90fd0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation" kindref="compound">ProductTranslation</ref> &gt;</type>
-        <definition>DbSet&lt;ProductTranslation&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductTranslations</definition>
+        <definition>DbSet&lt;ProductTranslation&gt; ProductTranslations</definition>
         <argsstring></argsstring>
         <name>ProductTranslations</name>
         <briefdescription>
@@ -265,9 +265,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="41" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae4d43e47ae19e51db0f79762e8303041" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5342a2fac359c7a6adc10e6c1fe6a09a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service" kindref="compound">PayableService</ref> &gt;</type>
-        <definition>DbSet&lt;PayableService&gt; Ipertrade.BookingFor.Products.ProductsContext.PayableServices</definition>
+        <definition>DbSet&lt;PayableService&gt; PayableServices</definition>
         <argsstring></argsstring>
         <name>PayableServices</name>
         <briefdescription>
@@ -278,9 +278,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="42" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="42" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1afdfaa7b53c107394f91798eb6fdb5b8a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab5c00888380583906b9f5a113ac924a5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_service_expiration" kindref="compound">ProductServiceExpiration</ref> &gt;</type>
-        <definition>DbSet&lt;ProductServiceExpiration&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductServiceExpirations</definition>
+        <definition>DbSet&lt;ProductServiceExpiration&gt; ProductServiceExpirations</definition>
         <argsstring></argsstring>
         <name>ProductServiceExpirations</name>
         <briefdescription>
@@ -291,9 +291,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="43" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6634beb5c410801d6fb3367d1e80a447" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa892549b88d9435f5a83ced575eb467d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>new DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category" kindref="compound">ProductMerchantCategory</ref> &gt;</type>
-        <definition>new DbSet&lt;ProductMerchantCategory&gt; Ipertrade.BookingFor.Products.ProductsContext.MerchantCategories</definition>
+        <definition>new DbSet&lt;ProductMerchantCategory&gt; MerchantCategories</definition>
         <argsstring></argsstring>
         <name>MerchantCategories</name>
         <briefdescription>
@@ -304,9 +304,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="44" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a7a1f9c0169555111a1e6e520b8a1aad7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a18e8f93936be51c23acafe9f8ecd26cc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_category_limitation" kindref="compound">MerchantCategoryLimitation</ref> &gt;</type>
-        <definition>DbSet&lt;MerchantCategoryLimitation&gt; Ipertrade.BookingFor.Products.ProductsContext.MerchantCategoryLimitations</definition>
+        <definition>DbSet&lt;MerchantCategoryLimitation&gt; MerchantCategoryLimitations</definition>
         <argsstring></argsstring>
         <name>MerchantCategoryLimitations</name>
         <briefdescription>
@@ -317,9 +317,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="45" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a05584d06ff634103e3a11369bcc8b541" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0621f683769adfb7c33ea8ff895d3649" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_limitation" kindref="compound">MerchantLimitation</ref> &gt;</type>
-        <definition>DbSet&lt;MerchantLimitation&gt; Ipertrade.BookingFor.Products.ProductsContext.MerchantLimitations</definition>
+        <definition>DbSet&lt;MerchantLimitation&gt; MerchantLimitations</definition>
         <argsstring></argsstring>
         <name>MerchantLimitations</name>
         <briefdescription>
@@ -330,9 +330,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="46" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="46" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab9e744adf9cb15761fff46ffc63fa3de" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae05dda97b240234b9cd3fc062ab6e9a5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_product_type_association" kindref="compound">PayableServiceProductTypeAssociation</ref> &gt;</type>
-        <definition>DbSet&lt;PayableServiceProductTypeAssociation&gt; Ipertrade.BookingFor.Products.ProductsContext.PayableServiceProductTypeAssociations</definition>
+        <definition>DbSet&lt;PayableServiceProductTypeAssociation&gt; PayableServiceProductTypeAssociations</definition>
         <argsstring></argsstring>
         <name>PayableServiceProductTypeAssociations</name>
         <briefdescription>
@@ -343,9 +343,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="47" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="47" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ad60307c1b9eb80e7cc20ae5237fd9d99" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a33e7af263d50a1c0e24c2da4047ba4e9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association" kindref="compound">PayableServiceMerchantCategoryAssociation</ref> &gt;</type>
-        <definition>DbSet&lt;PayableServiceMerchantCategoryAssociation&gt; Ipertrade.BookingFor.Products.ProductsContext.PayableServiceMerchantCategoryAssociations</definition>
+        <definition>DbSet&lt;PayableServiceMerchantCategoryAssociation&gt; PayableServiceMerchantCategoryAssociations</definition>
         <argsstring></argsstring>
         <name>PayableServiceMerchantCategoryAssociations</name>
         <briefdescription>
@@ -356,9 +356,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="48" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab02cbf3f0f28886df495dfef8b4a10d3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aba1a7da3a22f4a76a4d92f3dc1657b99" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_product_type_association" kindref="compound">ProductCategoryProductTypeAssociation</ref> &gt;</type>
-        <definition>DbSet&lt;ProductCategoryProductTypeAssociation&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductCategoryProductTypeAssociations</definition>
+        <definition>DbSet&lt;ProductCategoryProductTypeAssociation&gt; ProductCategoryProductTypeAssociations</definition>
         <argsstring></argsstring>
         <name>ProductCategoryProductTypeAssociations</name>
         <briefdescription>
@@ -369,9 +369,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="49" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aca52d03c587e61ac0f830a341829c3ae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5b3768eff0be6fcacb4c8a2d4a8b0de1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service" kindref="compound">Service</ref> &gt;</type>
-        <definition>DbSet&lt;Service&gt; Ipertrade.BookingFor.Products.ProductsContext.Services</definition>
+        <definition>DbSet&lt;Service&gt; Services</definition>
         <argsstring></argsstring>
         <name>Services</name>
         <briefdescription>
@@ -382,9 +382,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="50" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="50" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab464d1651588c47e51ad320c5dcbf031" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a023a79186edad502542aff11410c94cd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type" kindref="compound">ServiceType</ref> &gt;</type>
-        <definition>DbSet&lt;ServiceType&gt; Ipertrade.BookingFor.Products.ProductsContext.ServiceTypes</definition>
+        <definition>DbSet&lt;ServiceType&gt; ServiceTypes</definition>
         <argsstring></argsstring>
         <name>ServiceTypes</name>
         <briefdescription>
@@ -395,9 +395,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="51" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="51" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa2f7144c02dd6041bd7eeb94326292ee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac266f0969f8ed755efdd3b6aa0e4b6a3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option" kindref="compound">CreditAcquireOption</ref> &gt;</type>
-        <definition>DbSet&lt;CreditAcquireOption&gt; Ipertrade.BookingFor.Products.ProductsContext.CreditAcquireOptions</definition>
+        <definition>DbSet&lt;CreditAcquireOption&gt; CreditAcquireOptions</definition>
         <argsstring></argsstring>
         <name>CreditAcquireOptions</name>
         <briefdescription>
@@ -408,9 +408,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="52" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="52" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af2dd2b57d6aae252a6a6ec0e484bb0ae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1acb34139497c9c15a21dbb8c2be4d2444" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group" kindref="compound">MerchantGroup</ref> &gt;</type>
-        <definition>DbSet&lt;MerchantGroup&gt; Ipertrade.BookingFor.Products.ProductsContext.MerchantGroups</definition>
+        <definition>DbSet&lt;MerchantGroup&gt; MerchantGroups</definition>
         <argsstring></argsstring>
         <name>MerchantGroups</name>
         <briefdescription>
@@ -421,9 +421,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="53" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a307b9a4f90283e07a4cb93f60d765334" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6ec1e832857c6e15a7a84a3fc4986b47" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert" kindref="compound">UserAlert</ref> &gt;</type>
-        <definition>DbSet&lt;UserAlert&gt; Ipertrade.BookingFor.Products.ProductsContext.UserAlerts</definition>
+        <definition>DbSet&lt;UserAlert&gt; UserAlerts</definition>
         <argsstring></argsstring>
         <name>UserAlerts</name>
         <briefdescription>
@@ -434,9 +434,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="54" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="54" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0b11594d6583a533e3c8ace28bb38b1e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5c925c58b53ed574967b84e7d7a66972" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search" kindref="compound">UserAlertSearch</ref> &gt;</type>
-        <definition>DbSet&lt;UserAlertSearch&gt; Ipertrade.BookingFor.Products.ProductsContext.UserAlertSearches</definition>
+        <definition>DbSet&lt;UserAlertSearch&gt; UserAlertSearches</definition>
         <argsstring></argsstring>
         <name>UserAlertSearches</name>
         <briefdescription>
@@ -447,9 +447,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="55" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="55" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0102f3d5f3e356a47a602421e4713479" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af28382052dd4b0d49c3e03babe979306" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_param" kindref="compound">UserAlertSearchParam</ref> &gt;</type>
-        <definition>DbSet&lt;UserAlertSearchParam&gt; Ipertrade.BookingFor.Products.ProductsContext.UserAlertSearchParams</definition>
+        <definition>DbSet&lt;UserAlertSearchParam&gt; UserAlertSearchParams</definition>
         <argsstring></argsstring>
         <name>UserAlertSearchParams</name>
         <briefdescription>
@@ -460,9 +460,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="56" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="56" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae327173fc62ab16f74f56329bfe1fed6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a752972d157522d1fd34b90dc1f606190" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type" kindref="compound">UserAlertSearchType</ref> &gt;</type>
-        <definition>DbSet&lt;UserAlertSearchType&gt; Ipertrade.BookingFor.Products.ProductsContext.UserAlertSearchTypes</definition>
+        <definition>DbSet&lt;UserAlertSearchType&gt; UserAlertSearchTypes</definition>
         <argsstring></argsstring>
         <name>UserAlertSearchTypes</name>
         <briefdescription>
@@ -473,9 +473,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="57" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0f39430b525aeca6615bf025475c121e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a46f4001622d1d32288b373c135d740fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history" kindref="compound">OnSellUnitPriceHistory</ref> &gt;</type>
-        <definition>DbSet&lt;OnSellUnitPriceHistory&gt; Ipertrade.BookingFor.Products.ProductsContext.OnSellUnitPriceHistories</definition>
+        <definition>DbSet&lt;OnSellUnitPriceHistory&gt; OnSellUnitPriceHistories</definition>
         <argsstring></argsstring>
         <name>OnSellUnitPriceHistories</name>
         <briefdescription>
@@ -486,9 +486,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="58" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="58" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a52e182ce98303d516bd3a8bc1c29c8ec" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af0b926a6722332728c719b708a7e0080" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_home_page" kindref="compound">MerchantHomePage</ref> &gt;</type>
-        <definition>DbSet&lt;MerchantHomePage&gt; Ipertrade.BookingFor.Products.ProductsContext.MerchantHomePages</definition>
+        <definition>DbSet&lt;MerchantHomePage&gt; MerchantHomePages</definition>
         <argsstring></argsstring>
         <name>MerchantHomePages</name>
         <briefdescription>
@@ -499,9 +499,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="59" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="59" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1abc53b1668c467b11fe435add2ff19d93" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aab01e975d5acf2de782302ff8f3ca85a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_resourceonsell" kindref="compound">Resourceonsell</ref> &gt;</type>
-        <definition>DbSet&lt;Resourceonsell&gt; Ipertrade.BookingFor.Products.ProductsContext.ResourceonsellView</definition>
+        <definition>DbSet&lt;Resourceonsell&gt; ResourceonsellView</definition>
         <argsstring></argsstring>
         <name>ResourceonsellView</name>
         <briefdescription>
@@ -512,9 +512,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="60" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="60" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a8bcf1a38aed8123ee18422951d83dc2d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a024757afea5a7a564c47f6465211ee8e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payment_system" kindref="compound">PaymentSystem</ref> &gt;</type>
-        <definition>DbSet&lt;PaymentSystem&gt; Ipertrade.BookingFor.Products.ProductsContext.PaymentSystems</definition>
+        <definition>DbSet&lt;PaymentSystem&gt; PaymentSystems</definition>
         <argsstring></argsstring>
         <name>PaymentSystems</name>
         <briefdescription>
@@ -525,9 +525,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="61" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="61" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9b6a3ce2abbf908ab178153e1fe10bd8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a4d8e10ac6ce12b166d9ec21e4b41d83d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment" kindref="compound">MerchantPayment</ref> &gt;</type>
-        <definition>DbSet&lt;MerchantPayment&gt; Ipertrade.BookingFor.Products.ProductsContext.MerchantPayments</definition>
+        <definition>DbSet&lt;MerchantPayment&gt; MerchantPayments</definition>
         <argsstring></argsstring>
         <name>MerchantPayments</name>
         <briefdescription>
@@ -538,9 +538,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="62" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="62" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1bbdfcbd778570979c2438dc98da21f3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa63d46d083f33b2586bdd4771ed79dd3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_resource" kindref="compound">Resource</ref> &gt;</type>
-        <definition>DbSet&lt;Resource&gt; Ipertrade.BookingFor.Products.ProductsContext.Resources</definition>
+        <definition>DbSet&lt;Resource&gt; Resources</definition>
         <argsstring></argsstring>
         <name>Resources</name>
         <briefdescription>
@@ -551,9 +551,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="63" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="63" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a57766c0c1c9324fbb58ef1313a9187b5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a13a50c7330376b45c6323162e6adda08" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>new DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm" kindref="compound">CustomerCrm</ref> &gt;</type>
-        <definition>new DbSet&lt;CustomerCrm&gt; Ipertrade.BookingFor.Products.ProductsContext.Customers</definition>
+        <definition>new DbSet&lt;CustomerCrm&gt; Customers</definition>
         <argsstring></argsstring>
         <name>Customers</name>
         <briefdescription>
@@ -564,9 +564,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="64" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="64" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a2f978ae7c61517ee91679a3bf78dfb48" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a2ace3f7a2fe02220f40917c00cf86b2c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>new DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_group" kindref="compound">CustomerCrmGroup</ref> &gt;</type>
-        <definition>new DbSet&lt;CustomerCrmGroup&gt; Ipertrade.BookingFor.Products.ProductsContext.CustomerGroups</definition>
+        <definition>new DbSet&lt;CustomerCrmGroup&gt; CustomerGroups</definition>
         <argsstring></argsstring>
         <name>CustomerGroups</name>
         <briefdescription>
@@ -577,9 +577,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="65" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="65" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa5b8f3577f363de7bb188217e1010b2b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac2f31a2d16d2237c5daad8fc8177a3d6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression" kindref="compound">ProductTypeValidationExpression</ref> &gt;</type>
-        <definition>DbSet&lt;ProductTypeValidationExpression&gt; Ipertrade.BookingFor.Products.ProductsContext.ProductTypeValidationExpressions</definition>
+        <definition>DbSet&lt;ProductTypeValidationExpression&gt; ProductTypeValidationExpressions</definition>
         <argsstring></argsstring>
         <name>ProductTypeValidationExpressions</name>
         <briefdescription>
@@ -590,9 +590,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="66" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="66" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a3bb44d6394ed71ef9694b755fca24df5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a229cb588af1b9d060330d3bc315f0b42" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy" kindref="compound">Policy</ref> &gt;</type>
-        <definition>DbSet&lt;Policy&gt; Ipertrade.BookingFor.Products.ProductsContext.Policies</definition>
+        <definition>DbSet&lt;Policy&gt; Policies</definition>
         <argsstring></argsstring>
         <name>Policies</name>
         <briefdescription>
@@ -603,9 +603,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="67" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="67" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1b7e1c3e6a8408c4aeacab27f939eedf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a81fb8516e2d56431afea1918bddf7808" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template" kindref="compound">PolicyTemplate</ref> &gt;</type>
-        <definition>DbSet&lt;PolicyTemplate&gt; Ipertrade.BookingFor.Products.ProductsContext.PolicyTemplates</definition>
+        <definition>DbSet&lt;PolicyTemplate&gt; PolicyTemplates</definition>
         <argsstring></argsstring>
         <name>PolicyTemplates</name>
         <briefdescription>
@@ -616,9 +616,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="68" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="68" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae72d4add7562d5f4efa34098a611fda1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a05b84608ffb3c02111f724bca2acfbd3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>DbSet&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_favorite" kindref="compound">Favorite</ref> &gt;</type>
-        <definition>DbSet&lt;Favorite&gt; Ipertrade.BookingFor.Products.ProductsContext.Favorites</definition>
+        <definition>DbSet&lt;Favorite&gt; Favorites</definition>
         <argsstring></argsstring>
         <name>Favorites</name>
         <briefdescription>
@@ -631,9 +631,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="private-static-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1adf7d95ef79db5732cc92cbac0da15f67" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a637d26282f01a82905656c990af24397" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>static</type>
-        <definition>static Ipertrade.BookingFor.Products.ProductsContext.ProductsContext</definition>
+        <definition>static ProductsContext</definition>
         <argsstring>()</argsstring>
         <name>ProductsContext</name>
         <briefdescription>
@@ -646,9 +646,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5916820aaa8b9eb81529eec393c1c07a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aaecb5195dfb827d2fb448382f3b10a5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
-        <definition>Ipertrade.BookingFor.Products.ProductsContext.ProductsContext</definition>
+        <definition>ProductsContext</definition>
         <argsstring>()</argsstring>
         <name>ProductsContext</name>
         <briefdescription>
@@ -661,9 +661,9 @@
       </memberdef>
       </sectiondef>
       <sectiondef kind="protected-func">
-      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aea7bf889c5ebac39982b78d716960911" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9161eb4f8fe83c74aab42d8fcde1fb10" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>override void</type>
-        <definition>override void Ipertrade.BookingFor.Products.ProductsContext.OnModelCreating</definition>
+        <definition>override void OnModelCreating</definition>
         <argsstring>(DbModelBuilder modelBuilder)</argsstring>
         <name>OnModelCreating</name>
         <param>
@@ -677,11 +677,11 @@
         <inbodydescription>
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="73" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="73" bodyend="260"/>
-        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a491d1fb69c52456136939c2cabb2b812" compoundref="_product_attribute_value_8cs" startline="20">Ipertrade.BookingFor.Products.ProductAttributeValue.Attribute</references>
-        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1a49d795e79057715b98e1a082dbc6345e" compoundref="_attribute_value_8cs" startline="22">Ipertrade.BookingFor.Products.AttributeValue.AttributeId</references>
-        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a3842c0bfb9d7be49d186acbb1882905a" compoundref="_product_attribute_value_8cs" startline="29">Ipertrade.BookingFor.Products.ProductAttributeValue_Boolean.BooleanValue</references>
-        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1afa674475c64e12449eca7402a265f9a5" compoundref="_product_attribute_value_8cs" startline="21">Ipertrade.BookingFor.Products.ProductAttributeValue.Product</references>
-        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a8fd8effbc4bc088313f6a831022dcf63" compoundref="_product_attribute_value_8cs" startline="19">Ipertrade.BookingFor.Products.ProductAttributeValue.ProductId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a8dcbc8422718698d6809daab4bab34ce" compoundref="_product_attribute_value_8cs" startline="20">ProductAttributeValue.Attribute</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value_1a61e2d488c27e0b13adb03a51b9c67477" compoundref="_attribute_value_8cs" startline="22">AttributeValue.AttributeId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean_1a0a851cb5d73ef4717d8cf564b848675a" compoundref="_product_attribute_value_8cs" startline="29">ProductAttributeValue_Boolean.BooleanValue</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a97fbbc5d49d7f6ddbb6bf5c329cedd36" compoundref="_product_attribute_value_8cs" startline="21">ProductAttributeValue.Product</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value_1a4b1f53393a31e3e8a2d7415c5e1c426f" compoundref="_product_attribute_value_8cs" startline="19">ProductAttributeValue.ProductId</references>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -689,86 +689,86 @@
     <detaileddescription>
     </detaileddescription>
     <inheritancegraph>
-      <node id="1573">
-        <label>CrmContext</label>
-      </node>
-      <node id="1574">
-        <label>Ipertrade.BookingFor.Products.Booking.BookingContext</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context"/>
+      <node id="1571">
+        <label>ProductsContext</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context"/>
         <childnode refid="1572" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="1572">
-        <label>Ipertrade.BookingFor.Products.ProductsContext</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context"/>
-        <childnode refid="1573" relation="public-inheritance">
+      <node id="1573">
+        <label>BookingContext</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context"/>
+        <childnode refid="1571" relation="public-inheritance">
         </childnode>
+      </node>
+      <node id="1572">
+        <label>CrmContext</label>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="1576">
-        <label>CrmContext</label>
+      <node id="1574">
+        <label>ProductsContext</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context"/>
+        <childnode refid="1575" relation="public-inheritance">
+        </childnode>
       </node>
       <node id="1575">
-        <label>Ipertrade.BookingFor.Products.ProductsContext</label>
-        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context"/>
-        <childnode refid="1576" relation="public-inheritance">
-        </childnode>
+        <label>CrmContext</label>
       </node>
     </collaborationgraph>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductsContext.cs" bodystart="13" bodyend="261"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a70bf5105aaa71e686929389340083a9c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>AttributeOptionValues</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa2f7144c02dd6041bd7eeb94326292ee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>CreditAcquireOptions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac7e5b7ecb01c7accb7ff16bea63c34bd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Crews</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a2f978ae7c61517ee91679a3bf78dfb48" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>CustomerGroups</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a57766c0c1c9324fbb58ef1313a9187b5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Customers</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae72d4add7562d5f4efa34098a611fda1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Favorites</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6634beb5c410801d6fb3367d1e80a447" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantCategories</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a7a1f9c0169555111a1e6e520b8a1aad7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantCategoryLimitations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af2dd2b57d6aae252a6a6ec0e484bb0ae" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantGroups</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a52e182ce98303d516bd3a8bc1c29c8ec" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantHomePages</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a05584d06ff634103e3a11369bcc8b541" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantLimitations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9b6a3ce2abbf908ab178153e1fe10bd8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantPayments</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a713a0d4a1ff55b5dfa379b617f1e09f5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Merchants</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aea7bf889c5ebac39982b78d716960911" prot="protected" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OnModelCreating</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0f39430b525aeca6615bf025475c121e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OnSellUnitPriceHistories</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac25a6d57c9f9f38b1d2779a52b3bb943" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OrderItems</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a20e0a0a97e7e95094754d8f31a82b6a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OrderPayments</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6b62923f6d65f761f5a24b84109bead0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OrderStatuses</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ad60307c1b9eb80e7cc20ae5237fd9d99" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PayableServiceMerchantCategoryAssociations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab9e744adf9cb15761fff46ffc63fa3de" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PayableServiceProductTypeAssociations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae4d43e47ae19e51db0f79762e8303041" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PayableServices</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a8bcf1a38aed8123ee18422951d83dc2d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PaymentSystems</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a3bb44d6394ed71ef9694b755fca24df5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Policies</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1b7e1c3e6a8408c4aeacab27f939eedf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PolicyTemplates</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae50d280b182b49b568622dec471db542" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Portals</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1abace99fdb51849df8c031e3032eeb4e2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributeGroups</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a21a88198c3dc7b8b42ba3281e3acb6dc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributes</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af2e01afb87a862e0261367145794ea37" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributeTypes</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae196e73ffc8c32459bc289a7c17b9a52" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributeValues</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a165a33a012593194a58eac4561d22238" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductCategories</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab02cbf3f0f28886df495dfef8b4a10d3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductCategoryProductTypeAssociations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af97929bd285113e374fb03304d6aa237" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Products</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1adf7d95ef79db5732cc92cbac0da15f67" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductsContext</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5916820aaa8b9eb81529eec393c1c07a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductsContext</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1afdfaa7b53c107394f91798eb6fdb5b8a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductServiceExpirations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0a3ebeb30be0c2d09e13c25e2385eeda" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductTranslations</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1126740e70c389adb4f5cd1f9b28374b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductTypes</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa5b8f3577f363de7bb188217e1010b2b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductTypeValidationExpressions</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a787d95f2708453a396981dea5f8510f8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>RequestCustomers</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6b802337ec40177d17e74c30d45c8276" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>RequestMessages</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9739c988dfee6ee50e2ca37c8ba3d3ac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Requests</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9c784b63b77faef39df04a1d525fed41" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>RequestTypes</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1abc53b1668c467b11fe435add2ff19d93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ResourceonsellView</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1bbdfcbd778570979c2438dc98da21f3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Resources</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1adbb1b6e1b93e2ebcd7c628ce37c558c9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Reviews</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aca52d03c587e61ac0f830a341829c3ae" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Services</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab464d1651588c47e51ad320c5dcbf031" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ServiceTypes</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a307b9a4f90283e07a4cb93f60d765334" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlerts</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0b11594d6583a533e3c8ace28bb38b1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlertSearches</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0102f3d5f3e356a47a602421e4713479" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlertSearchParams</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae327173fc62ab16f74f56329bfe1fed6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlertSearchTypes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aef022d7fd63c6c6894f69eff6d2baf12" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>AttributeOptionValues</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac266f0969f8ed755efdd3b6aa0e4b6a3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>CreditAcquireOptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a651457e802b1838c9fc4fd595f991b27" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Crews</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a2ace3f7a2fe02220f40917c00cf86b2c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>CustomerGroups</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a13a50c7330376b45c6323162e6adda08" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Customers</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a05b84608ffb3c02111f724bca2acfbd3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Favorites</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa892549b88d9435f5a83ced575eb467d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantCategories</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a18e8f93936be51c23acafe9f8ecd26cc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantCategoryLimitations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1acb34139497c9c15a21dbb8c2be4d2444" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantGroups</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af0b926a6722332728c719b708a7e0080" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantHomePages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0621f683769adfb7c33ea8ff895d3649" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantLimitations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a4d8e10ac6ce12b166d9ec21e4b41d83d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>MerchantPayments</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a4c11fcdccf7dae52f27a84dea90317b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Merchants</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9161eb4f8fe83c74aab42d8fcde1fb10" prot="protected" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OnModelCreating</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a46f4001622d1d32288b373c135d740fb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OnSellUnitPriceHistories</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a8912e0b7db75c28ff16365f97b011c96" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OrderItems</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a0aab7f62c80cef59701cc304aceef9c2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OrderPayments</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a55436f9aa17df29925257564ac586249" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>OrderStatuses</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a33e7af263d50a1c0e24c2da4047ba4e9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PayableServiceMerchantCategoryAssociations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ae05dda97b240234b9cd3fc062ab6e9a5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PayableServiceProductTypeAssociations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5342a2fac359c7a6adc10e6c1fe6a09a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PayableServices</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a024757afea5a7a564c47f6465211ee8e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PaymentSystems</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a229cb588af1b9d060330d3bc315f0b42" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Policies</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a81fb8516e2d56431afea1918bddf7808" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>PolicyTemplates</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1a0e7a322c1fbd49bb5f1ca75b9ebfc4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Portals</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa41041ab323814e46e5f46c099c494e6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributeGroups</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a4e4bf2def40a9594fc8ae672955140cf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab16053f33af4e4b442087d631d6a25a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributeTypes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa92f988af6af7dcd9d9acb2c88fde4f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductAttributeValues</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa24755bb73c14e5ead8fe994c022215b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductCategories</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aba1a7da3a22f4a76a4d92f3dc1657b99" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductCategoryProductTypeAssociations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab870ad2466cd54d600c9a7e11ba4397b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Products</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a637d26282f01a82905656c990af24397" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductsContext</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aaecb5195dfb827d2fb448382f3b10a5a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductsContext</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ab5c00888380583906b9f5a113ac924a5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductServiceExpirations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a184b3234fae8d1b7103ef9f2f6e90fd0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1afb9598f923241ba56356b4bad8408cca" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductTypes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ac2f31a2d16d2237c5daad8fc8177a3d6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ProductTypeValidationExpressions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a9f266671ac5787897d5e8bfcf8ef9666" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>RequestCustomers</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1ace163ad075fd14c7483276e24e64ed38" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>RequestMessages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a82b23b7145f35ecb2d25421f12e77727" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Requests</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa32e43c6d06ddbe30992d763ea5a3048" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>RequestTypes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aab01e975d5acf2de782302ff8f3ca85a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ResourceonsellView</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1aa63d46d083f33b2586bdd4771ed79dd3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Resources</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a635dab882fd1d29ebfd2ab8f4fe42ed8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Reviews</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5b3768eff0be6fcacb4c8a2d4a8b0de1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>Services</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a023a79186edad502542aff11410c94cd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>ServiceTypes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a6ec1e832857c6e15a7a84a3fc4986b47" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlerts</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a5c925c58b53ed574967b84e7d7a66972" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlertSearches</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1af28382052dd4b0d49c3e03babe979306" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlertSearchParams</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a752972d157522d1fd34b90dc1f606190" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductsContext</scope><name>UserAlertSearchTypes</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

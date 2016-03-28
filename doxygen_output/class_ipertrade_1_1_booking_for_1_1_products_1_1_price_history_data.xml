@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::PriceHistoryData</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a5bbc15272be984677a1ccb7e7ec2d05a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a6fda9b1a478471ec7a785df4109f17d6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.PriceHistoryData.Date</definition>
+        <definition>int Date</definition>
         <argsstring></argsstring>
         <name>Date</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" bodystart="22" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1ac768266df22731f1dcc46163fcdbba75" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a03bfdf04eaad02e489615097517cf49e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>decimal</type>
-        <definition>decimal Ipertrade.BookingFor.Products.PriceHistoryData.Average</definition>
+        <definition>decimal Average</definition>
         <argsstring></argsstring>
         <name>Average</name>
         <briefdescription>
@@ -36,8 +36,8 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" bodystart="14" bodyend="38"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1ac768266df22731f1dcc46163fcdbba75" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PriceHistoryData</scope><name>Average</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a5bbc15272be984677a1ccb7e7ec2d05a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PriceHistoryData</scope><name>Date</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a03bfdf04eaad02e489615097517cf49e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PriceHistoryData</scope><name>Average</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a6fda9b1a478471ec7a785df4109f17d6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PriceHistoryData</scope><name>Date</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

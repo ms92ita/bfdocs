@@ -3,9 +3,9 @@
   <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status" kind="class" language="C#" prot="public">
     <compoundname>Ipertrade::BookingFor::Products::OrderStatus</compoundname>
       <sectiondef kind="property">
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a56c91c8c9cc5c5d01f95fae7a9d80580" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1aa02938b980fcfa86044212273da6a773" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>int</type>
-        <definition>int Ipertrade.BookingFor.Products.OrderStatus.OrderStatusId</definition>
+        <definition>int OrderStatusId</definition>
         <argsstring></argsstring>
         <name>OrderStatusId</name>
         <briefdescription>
@@ -16,9 +16,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" line="9" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" bodystart="9" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1acabcea7e0f2df6fa69e7b8fc3ebec701" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.OrderStatus.Name</definition>
+        <definition>string Name</definition>
         <argsstring></argsstring>
         <name>Name</name>
         <briefdescription>
@@ -29,9 +29,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" bodystart="10" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1ad143b220d40f8c09886cfbe710e510e5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>string</type>
-        <definition>string Ipertrade.BookingFor.Products.OrderStatus.RefName</definition>
+        <definition>string RefName</definition>
         <argsstring></argsstring>
         <name>RefName</name>
         <briefdescription>
@@ -42,9 +42,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" bodystart="11" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1ab8304265c3a05cf7061649062ad3cc63" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a0463ae9fc201e47108d0258c657a1390" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; bool &gt;</type>
-        <definition>Nullable&lt;bool&gt; Ipertrade.BookingFor.Products.OrderStatus.Enabled</definition>
+        <definition>Nullable&lt;bool&gt; Enabled</definition>
         <argsstring></argsstring>
         <name>Enabled</name>
         <briefdescription>
@@ -55,9 +55,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" bodystart="12" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a27542db33dcd8e38df69128f1f237e9a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a8a6f35c6156630473bb6d7f43aa761aa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>Nullable&lt; bool &gt;</type>
-        <definition>Nullable&lt;bool&gt; Ipertrade.BookingFor.Products.OrderStatus.ForPlanner</definition>
+        <definition>Nullable&lt;bool&gt; ForPlanner</definition>
         <argsstring></argsstring>
         <name>ForPlanner</name>
         <briefdescription>
@@ -68,9 +68,9 @@
         </inbodydescription>
         <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" bodystart="13" bodyend="-1"/>
       </memberdef>
-      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a1006666f1cff4f6876c6c406a40ce512" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1af7acb58c3326881ca4416d140475e216" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
         <type>byte[]</type>
-        <definition>byte [] Ipertrade.BookingFor.Products.OrderStatus.RowVersion</definition>
+        <definition>byte [] RowVersion</definition>
         <argsstring></argsstring>
         <name>RowVersion</name>
         <briefdescription>
@@ -88,12 +88,12 @@
     </detaileddescription>
     <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" line="8" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OrderStatus.cs" bodystart="7" bodyend="16"/>
     <listofallmembers>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1ab8304265c3a05cf7061649062ad3cc63" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>Enabled</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a27542db33dcd8e38df69128f1f237e9a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>ForPlanner</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1acabcea7e0f2df6fa69e7b8fc3ebec701" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>Name</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a56c91c8c9cc5c5d01f95fae7a9d80580" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>OrderStatusId</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1ad143b220d40f8c09886cfbe710e510e5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>RefName</name></member>
-      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a1006666f1cff4f6876c6c406a40ce512" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a0463ae9fc201e47108d0258c657a1390" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a8a6f35c6156630473bb6d7f43aa761aa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>ForPlanner</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a7ee9065718e6628dc7791b756fa6c0f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1aa02938b980fcfa86044212273da6a773" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>OrderStatusId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1a5ffe31c54aa09db13c3ed30c342d5e57" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status_1af7acb58c3326881ca4416d140475e216" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OrderStatus</scope><name>RowVersion</name></member>
     </listofallmembers>
   </compounddef>
 </doxygen>

@@ -1,0 +1,28 @@
+var class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request =
+[
+    [ "BaseRequest", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#ab2f9cbc5306b99512264d464e854b3d4", null ],
+    [ "ArchivedAsSpam", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a985ab58f58b6e7acd3639b6c590ef6f3", null ],
+    [ "CreationDate", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a5006da4368292163489d29ad1f399c4e", null ],
+    [ "Customer", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#ac83b01993910d3f49c5419e7d1d8e391", null ],
+    [ "CustomerCRM", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#ab04cf5c0b8bb32e4818d3e6435b5c045", null ],
+    [ "CustomerData", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#aa0854a3870c1ffe8780c2cf4e3b5f7c4", null ],
+    [ "CustomerId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#aca7472005e3e9330e8cbff0104c2f522", null ],
+    [ "Exportable", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a720b359748d59bf14c6cdfe2192d0010", null ],
+    [ "ExternalId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#ab5a4c9d96a9097654e003cb290b2542f", null ],
+    [ "Label", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a0999f1070ce4923004bfb388671f0387", null ],
+    [ "Merchant", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#adf3228c1917f71f2adce485736edf24b", null ],
+    [ "MerchantId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#aca248169f102d3d0fc0daae047c43f45", null ],
+    [ "Messages", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#aff37c6eb7afaca604f976b006ff28157", null ],
+    [ "NotesData", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a6cf7669a4abb43563dc36495fb708554", null ],
+    [ "OrderId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#ac2926db25ae147030a1cf519c07d86a6", null ],
+    [ "OrderType", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a7380a1c209277552af30c11afe6bf82a", null ],
+    [ "OrderTypeId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a53a3fe5e4a2cea308189405b5313bc5b", null ],
+    [ "PortalId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a363e3d402fbd75d6e6f0c59912907bc6", null ],
+    [ "RefName", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a5ffe31c54aa09db13c3ed30c342d5e57", null ],
+    [ "RequestedItemId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#af750db7d727625c8e40d6eb3d85759cc", null ],
+    [ "Status", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#ae58c2415cf1178457fa1254234c3f017", null ],
+    [ "UserCancelDate", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#ade778355dd5f690af5adfce440a21a12", null ],
+    [ "UserCulture", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#a969077c0c8472d617ab791c783a01194", null ],
+    [ "UserId", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#abc7e824d07fb4b7efdef6498d7c99e63", null ],
+    [ "UserNotes", "class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request.html#aaa2369eb1ffdceefb990542f5b270d35", null ]
+];
