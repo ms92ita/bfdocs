@@ -13,9 +13,24 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
-import sys
-import os
-import shlex
+from __future__ import print_function
+import errno, os, shutil, sys, tempfile,shlex
+from subprocess import check_call, check_output, CalledProcessError, Popen, PIPE
+from distutils.version import LooseVersion
+
+
+def pip_install(package, commit=None, **kwargs):
+  "Install package using pip."
+  if commit:
+    check_version = kwargs.get('check_version', '')
+    #output = check_output(['pip', 'show', package.split('/')[1]])
+    #if check_version in output:
+    #  print('{} already installed'.format(package))
+    #  return
+    package = 'git+git://github.com/{0}.git@{1}'.format(package, commit)
+  print('Installing {}'.format(package))
+  check_call(['pip', 'install', '--upgrade', package])
+
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -27,6 +42,8 @@ import shlex
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #needs_sphinx = '1.0'
+
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -122,7 +139,12 @@ todo_include_todos = True
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
+if on_rtd:
+    html_theme = 'default'
+else:
+    html_theme = "alabaster"
+    #html_theme_path = ["_templates", ]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -300,3 +322,5 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'https://docs.python.org/': None}
+
+#pip_install('michaeljones/breathe', '1c9d7f80378a92cffa755084823a78bb38ee4acc')
