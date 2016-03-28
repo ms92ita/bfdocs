@@ -141,9 +141,22 @@ todo_include_todos = True
 # a list of builtin themes.
 #html_theme = 'alabaster'
 if on_rtd:
-    html_theme = 'default'
+	html_context = {
+		'css_files': [
+			'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
+			'https://media.readthedocs.org/css/readthedocs-doc-embed.css', 
+			'_static/static.css',  # overrides for wide tables in RTD theme
+		],
+	}
 else:
-    html_theme = "alabaster"
+	import sphinx_rtd_theme                                                      
+    html_theme = 'sphinx_rtd_theme'
+	html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+    #html_theme = "alabaster"
+	def setup(app):                                                              
+        #app.add_javascript("custom.js")                                         
+        app.add_stylesheet('theme_overrides.css')
+	
     #html_theme_path = ["_templates", ]
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -175,11 +188,6 @@ else:
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_context = {
-    'css_files': [
-        '_static/static.css',  # overrides for wide tables in RTD theme
-        ],
-    }
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
