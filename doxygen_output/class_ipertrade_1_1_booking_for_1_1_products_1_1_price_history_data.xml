@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::PriceHistoryData</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a5bbc15272be984677a1ccb7e7ec2d05a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.PriceHistoryData.Date</definition>
+        <argsstring></argsstring>
+        <name>Date</name>
+        <briefdescription>
+<para>Date that refers to the statistic. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1ac768266df22731f1dcc46163fcdbba75" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Products.PriceHistoryData.Average</definition>
+        <argsstring></argsstring>
+        <name>Average</name>
+        <briefdescription>
+<para>Overall average of statistic from defined parmeters. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Simplified informations for statistic data of real estate products. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PriceHistoryData.cs" bodystart="14" bodyend="38"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1ac768266df22731f1dcc46163fcdbba75" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PriceHistoryData</scope><name>Average</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data_1a5bbc15272be984677a1ccb7e7ec2d05a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PriceHistoryData</scope><name>Date</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

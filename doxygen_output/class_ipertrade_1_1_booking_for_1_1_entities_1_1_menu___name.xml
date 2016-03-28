@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu___name" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::Menu_Name</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_translation" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.MenuTranslation</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu___name_1a8f14b4d6e01700731e7ef0d399ecfb45" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Entities.Menu_Name.Menu_Name</definition>
+        <argsstring>()</argsstring>
+        <name>Menu_Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Menu.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Menu.cs" bodystart="45" bodyend="46"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="635">
+        <label>Translation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation"/>
+        <childnode refid="636" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="634">
+        <label>MenuTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_translation"/>
+        <childnode refid="635" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="633">
+        <label>Ipertrade.BookingFor.Entities.Menu_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu___name"/>
+        <childnode refid="634" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="636">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="639">
+        <label>Translation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation"/>
+        <childnode refid="640" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="638">
+        <label>MenuTranslation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_translation"/>
+        <childnode refid="639" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="637">
+        <label>Ipertrade.BookingFor.Entities.Menu_Name</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu___name"/>
+        <childnode refid="638" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="640">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Menu.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Menu.cs" bodystart="43" bodyend="47"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation_1a6d5e8fcad39af583b99222652277c641" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>ColumnName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation_1a21ab60ef4de8dc4328963292d5c875bb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>CultureCode</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_translation_1a5e177b2c60f246a12a79216f141bbf10" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>Menu</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu___name_1a8f14b4d6e01700731e7ef0d399ecfb45" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>Menu_Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_translation_1ac9ccb103334f88a27e4f502c7863b744" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>MenuId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_menu_translation_1aeb3505a417c77ffab28c90fb60e3f615" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>MenuTranslation</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation_1a033c1a3ca814f5ae56b731acc9b9b3fc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>NamespaceRef</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation_1a5c40b51d76e2f360c20c2402237cb7a9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>TableRef</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation_1a52c5aefecfa51b31d81822a2830cb930" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>Translation</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation_1a9549ca3e1f361320dd164835ea2a8b40" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>TranslationId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_translation_1a2b7494a576a804b7f030b63ad7c950b4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Menu_Name</scope><name>Value</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

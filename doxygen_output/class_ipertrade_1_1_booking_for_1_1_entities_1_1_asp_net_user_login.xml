@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::AspNetUserLogin</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IdentityUserLogin&lt; string &gt;</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a93df5a203621419c85d5f02a1fa443fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>override string</type>
+        <definition>override string Ipertrade.BookingFor.Entities.AspNetUserLogin.LoginProvider</definition>
+        <argsstring></argsstring>
+        <name>LoginProvider</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a03b130b3b2fa9094c6584b50b129d688" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>override string</type>
+        <definition>override string Ipertrade.BookingFor.Entities.AspNetUserLogin.ProviderKey</definition>
+        <argsstring></argsstring>
+        <name>ProviderKey</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a622114bd19d8f493f32089fc5a236813" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>override string</type>
+        <definition>override string Ipertrade.BookingFor.Entities.AspNetUserLogin.UserId</definition>
+        <argsstring></argsstring>
+        <name>UserId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1ab29991b72f5f9d55e31bd3ed129203c3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>byte[]</type>
+        <definition>byte [] Ipertrade.BookingFor.Entities.AspNetUserLogin.RowVersion</definition>
+        <argsstring></argsstring>
+        <name>RowVersion</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a64274deef7d0b238c9066fcd8d84696c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
+        <definition>virtual AspNetUser Ipertrade.BookingFor.Entities.AspNetUserLogin.AspNetUser</definition>
+        <argsstring></argsstring>
+        <name>AspNetUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="43">
+        <label>IdentityUserLogin&lt; string &gt;</label>
+      </node>
+      <node id="42">
+        <label>Ipertrade.BookingFor.Entities.AspNetUserLogin</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login"/>
+        <childnode refid="43" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="45">
+        <label>IdentityUserLogin&lt; string &gt;</label>
+      </node>
+      <node id="44">
+        <label>Ipertrade.BookingFor.Entities.AspNetUserLogin</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login"/>
+        <childnode refid="45" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" line="9" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserLogin.cs" bodystart="8" bodyend="16"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a64274deef7d0b238c9066fcd8d84696c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserLogin</scope><name>AspNetUser</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a93df5a203621419c85d5f02a1fa443fd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserLogin</scope><name>LoginProvider</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a03b130b3b2fa9094c6584b50b129d688" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserLogin</scope><name>ProviderKey</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1ab29991b72f5f9d55e31bd3ed129203c3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserLogin</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_login_1a622114bd19d8f493f32089fc5a236813" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserLogin</scope><name>UserId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

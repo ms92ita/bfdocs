@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a9c26f3e74c4a6d1e3ef0b7fcbd507ae4" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication._sun</definition>
+        <argsstring></argsstring>
+        <name>_sun</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2538" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2538" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a802d54b972398012b3062306c19e88f3" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication._sat</definition>
+        <argsstring></argsstring>
+        <name>_sat</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2539" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2539" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aeaa292c4ed92b0fa36e70b552bee929d" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication._fri</definition>
+        <argsstring></argsstring>
+        <name>_fri</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2540" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2540" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a06ff108411ce44573312b2800075543f" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication._thur</definition>
+        <argsstring></argsstring>
+        <name>_thur</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2541" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2541" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1acbcf9bc31897baf9c1b6cd9e0111b8c2" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication._weds</definition>
+        <argsstring></argsstring>
+        <name>_weds</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2542" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2542" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a54f2a1a381e55eb01d02b143700854de" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication._tue</definition>
+        <argsstring></argsstring>
+        <name>_tue</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2543" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2543" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a006c69e4ccf4e34b4abce6cc59e52318" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication._mon</definition>
+        <argsstring></argsstring>
+        <name>_mon</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2544" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2544" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a67f9a352648eab37e3ed8e62cc8a5ec4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Allday</definition>
+        <argsstring></argsstring>
+        <name>Allday</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2545" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2546" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aa3425a8739e26f0d693b1a66a3eebf6f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Mon</definition>
+        <argsstring></argsstring>
+        <name>Mon</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2549" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2550" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a803fd701e009e79e3a993715bf32bfb6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Tue</definition>
+        <argsstring></argsstring>
+        <name>Tue</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2555" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2556" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a631ca65d61c9821530da07e27410bc97" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Weds</definition>
+        <argsstring></argsstring>
+        <name>Weds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2561" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2562" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1affa0b9452e325d2696545e6a9cb597c9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Thur</definition>
+        <argsstring></argsstring>
+        <name>Thur</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2567" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2568" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a89ca65db23c4153706602d418ef65b4f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Fri</definition>
+        <argsstring></argsstring>
+        <name>Fri</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2573" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2574" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a8163d1cff8340db85ae440af30f7374d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Sat</definition>
+        <argsstring></argsstring>
+        <name>Sat</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2579" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2580" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aabaeb63e3d92312d067c6040ae4b82fa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Sun</definition>
+        <argsstring></argsstring>
+        <name>Sun</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2585" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2586" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2537" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2536" bodyend="2590"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aeaa292c4ed92b0fa36e70b552bee929d" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>_fri</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a006c69e4ccf4e34b4abce6cc59e52318" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>_mon</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a802d54b972398012b3062306c19e88f3" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>_sat</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a9c26f3e74c4a6d1e3ef0b7fcbd507ae4" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>_sun</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a06ff108411ce44573312b2800075543f" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>_thur</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a54f2a1a381e55eb01d02b143700854de" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>_tue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1acbcf9bc31897baf9c1b6cd9e0111b8c2" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>_weds</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a67f9a352648eab37e3ed8e62cc8a5ec4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Allday</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a89ca65db23c4153706602d418ef65b4f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Fri</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aa3425a8739e26f0d693b1a66a3eebf6f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Mon</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a8163d1cff8340db85ae440af30f7374d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Sat</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aabaeb63e3d92312d067c6040ae4b82fa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Sun</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1affa0b9452e325d2696545e6a9cb597c9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Thur</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a803fd701e009e79e3a993715bf32bfb6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Tue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a631ca65d61c9821530da07e27410bc97" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</scope><name>Weds</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

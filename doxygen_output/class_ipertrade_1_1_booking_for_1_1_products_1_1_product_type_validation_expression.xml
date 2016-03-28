@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseEntity</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1adc4d6b3186b5aabafb251288d4acf541" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ProductTypeValidationExpression.ProductTypeValidationExpressionId</definition>
+        <argsstring></argsstring>
+        <name>ProductTypeValidationExpressionId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a23e5a55efe84eeef890fedf17417e148" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ProductTypeValidationExpression.ProductTypeId</definition>
+        <argsstring></argsstring>
+        <name>ProductTypeId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1aef8b28de847b29b96493764fc4e826ac" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.ProductTypeValidationExpression.RefName</definition>
+        <argsstring></argsstring>
+        <name>RefName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="21" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a743640622639d7803f5de08609a78a2a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.ProductTypeValidationExpression.Expression</definition>
+        <argsstring></argsstring>
+        <name>Expression</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="22" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a0a69f0f884b1282f76a8aaa928cdf3da" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.ProductTypeValidationExpression.ErrorMessage</definition>
+        <argsstring></argsstring>
+        <name>ErrorMessage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1acb6c0b9eb485212a415b14629ec0518b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductTypeValidationExpression.Enabled</definition>
+        <argsstring></argsstring>
+        <name>Enabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a2c947cdda7c0d1fb42167b7baf1caf41" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ProductTypeValidationExpression.Weight</definition>
+        <argsstring></argsstring>
+        <name>Weight</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="25" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a8d33e3ad4b53f77998acfaac95b0a15e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductTypeValidationExpression.AsyncControlEnabled</definition>
+        <argsstring></argsstring>
+        <name>AsyncControlEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="26" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a00cdbe3b2e7af012bfee784dd181f5dc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type" kindref="compound">ProductType</ref></type>
+        <definition>virtual ProductType Ipertrade.BookingFor.Products.ProductTypeValidationExpression.ProductType</definition>
+        <argsstring></argsstring>
+        <name>ProductType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a65801796ff95162a7ff34cea7e282e14" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_translation" kindref="compound">ProductTypeValidationExpressionTranslation</ref> &gt;</type>
+        <definition>virtual ICollection&lt;ProductTypeValidationExpressionTranslation&gt; Ipertrade.BookingFor.Products.ProductTypeValidationExpression.AllTranslations</definition>
+        <argsstring></argsstring>
+        <name>AllTranslations</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1ad3c71e6381e3a32a08e0bd1b9333f110" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression___error_message" kindref="compound">ProductTypeValidationExpression_ErrorMessage</ref> &gt;</type>
+        <definition>virtual IEnumerable&lt;ProductTypeValidationExpression_ErrorMessage&gt; Ipertrade.BookingFor.Products.ProductTypeValidationExpression.ErrorMessages</definition>
+        <argsstring></argsstring>
+        <name>ErrorMessages</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a18fb3c9c808136ff5b39d8f2e64188cb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Products.ProductTypeValidationExpression.ProductTypeValidationExpression</definition>
+        <argsstring>()</argsstring>
+        <name>ProductTypeValidationExpression</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="13" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1702">
+        <label>Ipertrade.BookingFor.Products.ProductTypeValidationExpression</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression"/>
+        <childnode refid="1703" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1703">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1704">
+        <label>Ipertrade.BookingFor.Products.ProductTypeValidationExpression</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression"/>
+        <childnode refid="1705" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1705">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductTypeValidationExpression.cs" bodystart="11" bodyend="32"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a65801796ff95162a7ff34cea7e282e14" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a8d33e3ad4b53f77998acfaac95b0a15e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>AsyncControlEnabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1acb6c0b9eb485212a415b14629ec0518b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a0a69f0f884b1282f76a8aaa928cdf3da" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>ErrorMessage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1ad3c71e6381e3a32a08e0bd1b9333f110" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>ErrorMessages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a743640622639d7803f5de08609a78a2a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>Expression</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a00cdbe3b2e7af012bfee784dd181f5dc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>ProductType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a23e5a55efe84eeef890fedf17417e148" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>ProductTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a18fb3c9c808136ff5b39d8f2e64188cb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>ProductTypeValidationExpression</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1adc4d6b3186b5aabafb251288d4acf541" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>ProductTypeValidationExpressionId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1aef8b28de847b29b96493764fc4e826ac" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_1a2c947cdda7c0d1fb42167b7baf1caf41" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductTypeValidationExpression</scope><name>Weight</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

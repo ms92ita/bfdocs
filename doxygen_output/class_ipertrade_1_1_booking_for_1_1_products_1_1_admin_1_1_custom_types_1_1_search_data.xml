@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a388ed4ba385447dc7e7742c19e05194d" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.UnitCategoryId</definition>
+        <argsstring></argsstring>
+        <name>UnitCategoryId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="7" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1af1679e724c6ab001865c336d2a093cea" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.Points</definition>
+        <argsstring></argsstring>
+        <name>Points</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="8" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a5d44409ac9bc90414ba939efa5d681f5" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.LocationID</definition>
+        <argsstring></argsstring>
+        <name>LocationID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="9" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a4d9d260433af0abcb3b3a1ce471674cc" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.ServiceList</definition>
+        <argsstring></argsstring>
+        <name>ServiceList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a1b04d34c474e36c02273879f216359b6" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.ProductCategoryList</definition>
+        <argsstring></argsstring>
+        <name>ProductCategoryList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1ac75ee91ba618d18f55b741f2117cff1e" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.maxReplies</definition>
+        <argsstring></argsstring>
+        <name>maxReplies</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1aa595cc3e85edf90cd553213a436d5828" prot="public" static="no" mutable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param" kindref="compound">SearchParam</ref>[]</type>
+        <definition>SearchParam [] Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.SearchParams</definition>
+        <argsstring></argsstring>
+        <name>SearchParams</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a5336b87bbbb10b04949526a84267d681" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.SearchType</definition>
+        <argsstring></argsstring>
+        <name>SearchType</name>
+        <initializer>= 1</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a8a90f454bfca00cfd14def289d8093b0" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.ProductTypeId</definition>
+        <argsstring></argsstring>
+        <name>ProductTypeId</name>
+        <initializer>= 2</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a205f0c13a6ad357a644beb0d309cdf8d" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData.Notes</definition>
+        <argsstring></argsstring>
+        <name>Notes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="1852">
+        <label>Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchParam</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param"/>
+      </node>
+      <node id="1851">
+        <label>Ipertrade.BookingFor.Products.Admin.CustomTypes.SearchData</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data"/>
+        <childnode refid="1852" relation="usage">
+          <edgelabel>SearchParams</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" line="6" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/SearchData.cs" bodystart="5" bodyend="17"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a5d44409ac9bc90414ba939efa5d681f5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>LocationID</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1ac75ee91ba618d18f55b741f2117cff1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>maxReplies</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a205f0c13a6ad357a644beb0d309cdf8d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>Notes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1af1679e724c6ab001865c336d2a093cea" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>Points</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a1b04d34c474e36c02273879f216359b6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>ProductCategoryList</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a8a90f454bfca00cfd14def289d8093b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>ProductTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1aa595cc3e85edf90cd553213a436d5828" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>SearchParams</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a5336b87bbbb10b04949526a84267d681" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>SearchType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a4d9d260433af0abcb3b3a1ce471674cc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>ServiceList</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data_1a388ed4ba385447dc7e7742c19e05194d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</scope><name>UnitCategoryId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

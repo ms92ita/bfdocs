@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="_user_alert_search_filter_type_8cs" kind="file" language="C#">
+    <compoundname>UserAlertSearchFilterType.cs</compoundname>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type" prot="public">Ipertrade::BookingFor::Products::UserAlertSearchFilterType</innerclass>
+    <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_products">Ipertrade::BookingFor::Products</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Collections.Generic;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Linq;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Text;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Threading.Tasks;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_ipertrade" kindref="compound">Ipertrade</ref>.BookingFor.Products</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="9" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type" kindref="compound">UserAlertSearchFilterType</ref></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="11" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ab29aaa8b472a9c63342c1ae9721837b0" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ab29aaa8b472a9c63342c1ae9721837b0" kindref="member">UserAlertSearchFilterType</ref>()</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a3e21b8cdd5458e2cd4fe8077142c6d77" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>UserAlertSearchFilterTypeId<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="17" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a2c26fb84b8fe27aa4ff909bd479bcfb9" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>ProductAttributeId<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="18" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a5cf5fd6485c39f67b9012302a078b923" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>UserAlertSearchTypeId<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="19" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae124796d6dea5d5f8a7f6489b3040354" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>FilterTypeId<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1a4fda19dc78548ba427fb2132a5f0b319" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute" kindref="compound">ProductAttribute</ref><sp/><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute" kindref="compound">ProductAttribute</ref><sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="22" refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type_1ae58e8b2a0d6e1d5740e00bc7dd00ba07" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type" kindref="compound">UserAlertSearchType</ref><sp/><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type" kindref="compound">UserAlertSearchType</ref><sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/UserAlertSearchFilterType.cs"/>
+  </compounddef>
+</doxygen>

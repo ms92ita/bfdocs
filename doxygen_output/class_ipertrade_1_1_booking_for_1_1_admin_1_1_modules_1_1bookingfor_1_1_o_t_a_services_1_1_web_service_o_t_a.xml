@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IWSBinding</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a5c58aece622544c43e6be17bd1295e88" prot="private" static="yes" mutable="no">
+        <type>readonly object</type>
+        <definition>readonly object Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.syncLock</definition>
+        <argsstring></argsstring>
+        <name>syncLock</name>
+        <initializer>= new object()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="60" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a0668b4a377c1a56cc8fdeab001cda74d" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.PortalId</definition>
+        <argsstring></argsstring>
+        <name>PortalId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="61" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1aa1d563066caceba851997634b0cd0bb6" prot="protected" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context" kindref="compound">BookingContext</ref></type>
+        <definition>BookingContext Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.context</definition>
+        <argsstring></argsstring>
+        <name>context</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="63" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a21c5924087b36b379ef35eeac594e9bd" prot="protected" static="no" mutable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal" kindref="compound">ServiceCustomPrincipal</ref></type>
+        <definition>ServiceCustomPrincipal Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.CurrentUser</definition>
+        <argsstring></argsstring>
+        <name>CurrentUser</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="64" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a0e0f77ca903fbe243abe16cfa7c06ca8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.WebServiceOTA</definition>
+        <argsstring>()</argsstring>
+        <name>WebServiceOTA</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="67" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="67" bodyend="71"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a4db5d804cfee648b1e8b5c83398a8cd5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>OTA_HotelRoomListRS</type>
+        <definition>OTA_HotelRoomListRS Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_HotelRoomList</definition>
+        <argsstring>(OTA_HotelRoomListRQ OTA_HotelRoomListRQ)</argsstring>
+        <name>OTA_HotelRoomList</name>
+        <param>
+          <type>OTA_HotelRoomListRQ</type>
+          <declname>OTA_HotelRoomListRQ</declname>
+        </param>
+        <briefdescription>
+<para>Provides details regarding rooms </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>OTA_HotelRoomListRQ</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="80" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="80" bodyend="258"/>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a2c2f3e08a644c93c47c0a848b93d8d68" compoundref="_service_custom_principal_8cs" startline="40">Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.User</references>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a8c1556b08686609f8e526a145539d161" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>OTA_ResRetrieveRS</type>
+        <definition>OTA_ResRetrieveRS Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_Read</definition>
+        <argsstring>(OTA_ReadRQ OTA_ReadRQ)</argsstring>
+        <name>OTA_Read</name>
+        <param>
+          <type>OTA_ReadRQ</type>
+          <declname>OTA_ReadRQ</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>OTA_ReadRQ</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="266" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="266" bodyend="966"/>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_currency_code_1aae1e37ff959ed8df31135fe623f7e053" compoundref="_currency_code_8cs" startline="12">Ipertrade.BookingFor.Entities.CurrencyCode.Name</references>
+        <references refid="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba27118326006d3829667a400ad23d5d98">Ipertrade.BookingFor.Products.String</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a2c2f3e08a644c93c47c0a848b93d8d68" compoundref="_service_custom_principal_8cs" startline="40">Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.User</references>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a92c0cc7de18251b964894e7c2d53544c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>MessageAcknowledgementType</type>
+        <definition>MessageAcknowledgementType Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_NotifReport</definition>
+        <argsstring>(OTA_NotifReportRQ OTA_NotifReportRQ)</argsstring>
+        <name>OTA_NotifReport</name>
+        <param>
+          <type>OTA_NotifReportRQ</type>
+          <declname>OTA_NotifReportRQ</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="971" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="971" bodyend="1138"/>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1add8019f66b9b045cc3125a2d5a945f03" compoundref="_order_8cs" startline="256">Ipertrade.BookingFor.Products.Order.AcceptanceDate</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1afb98a620701cbbf0f80ca70a8c08daa2" compoundref="_order_8cs" startline="112">Ipertrade.BookingFor.Products.BaseRequest.Exportable</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a5884c7259bf88b0b36dfcfffeb9c20c1" compoundref="_order_8cs" startline="56">Ipertrade.BookingFor.Products.BaseRequest.ExternalId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a2649d92cfc180ad29114ca930051540b" compoundref="_order_8cs" startline="28">Ipertrade.BookingFor.Products.BaseRequest.OrderId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a0627217c340c45cab2a7b24103824d8b" compoundref="_order_8cs" startline="95">Ipertrade.BookingFor.Products.BaseRequest.Status</references>
+        <references refid="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba27118326006d3829667a400ad23d5d98">Ipertrade.BookingFor.Products.String</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" compoundref="_ipertrade_8_booking_for_8_products_2_base_entity_8cs" startline="22">Ipertrade.BookingFor.Products.BaseEntity.UpdatedOn</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a2c2f3e08a644c93c47c0a848b93d8d68" compoundref="_service_custom_principal_8cs" startline="40">Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.User</references>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a37ea7ea6fb89795c924a89b74bfe2a8e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>MessageAcknowledgementType</type>
+        <definition>MessageAcknowledgementType Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_HotelAvailNotif</definition>
+        <argsstring>(OTA_HotelAvailNotifRQ OTA_HotelAvailNotifRQ)</argsstring>
+        <name>OTA_HotelAvailNotif</name>
+        <param>
+          <type>OTA_HotelAvailNotifRQ</type>
+          <declname>OTA_HotelAvailNotifRQ</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="1142" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="1142" bodyend="1374"/>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a2c2f3e08a644c93c47c0a848b93d8d68" compoundref="_service_custom_principal_8cs" startline="40">Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.User</references>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a87c7b1991a15d8fa36b545005942ba4a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>OTA_HotelAvailGetRS</type>
+        <definition>OTA_HotelAvailGetRS Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_HotelAvailGet</definition>
+        <argsstring>(OTA_HotelAvailGetRQ OTA_HotelAvailGetRQ)</argsstring>
+        <name>OTA_HotelAvailGet</name>
+        <param>
+          <type>OTA_HotelAvailGetRQ</type>
+          <declname>OTA_HotelAvailGetRQ</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="1378" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="1378" bodyend="1383"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1ab37da65d9be59ca14e212dffdfe68d14" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>OTA_HotelInvCountRS</type>
+        <definition>OTA_HotelInvCountRS Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_HotelInvCount</definition>
+        <argsstring>(OTA_HotelInvCountRQ OTA_HotelInvCountRQ)</argsstring>
+        <name>OTA_HotelInvCount</name>
+        <param>
+          <type>OTA_HotelInvCountRQ</type>
+          <declname>OTA_HotelInvCountRQ</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="1386" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="1386" bodyend="1391"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a272accf8af1dfa4871cdae53475591da" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>OTA_HotelRatePlanRS</type>
+        <definition>OTA_HotelRatePlanRS Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_HotelRatePlan</definition>
+        <argsstring>(OTA_HotelRatePlanRQ OTA_HotelRatePlanRQ)</argsstring>
+        <name>OTA_HotelRatePlan</name>
+        <param>
+          <type>OTA_HotelRatePlanRQ</type>
+          <declname>OTA_HotelRatePlanRQ</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="1395" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="1395" bodyend="1400"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a01096c76f77dc77f8f1fed4c5264c1b1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>MessageAcknowledgementType</type>
+        <definition>MessageAcknowledgementType Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.OTA_HotelRateAmountNotif</definition>
+        <argsstring>(OTA_HotelRateAmountNotifRQ OTA_HotelRateAmountNotifRQ)</argsstring>
+        <name>OTA_HotelRateAmountNotif</name>
+        <param>
+          <type>OTA_HotelRateAmountNotifRQ</type>
+          <declname>OTA_HotelRateAmountNotifRQ</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="1404" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="1404" bodyend="1997"/>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ae106349df2e653c9fdd5825b2c5e40e6" compoundref="_crew_8cs" startline="117">Ipertrade.BookingFor.Products.Crew.BirthDate</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1aed50d0470ae120f629e5c9598350a7c3" compoundref="_product_translation_8cs" startline="21">Ipertrade.BookingFor.Products.ProductTranslation.CultureCode</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_1a7b8835eb1552b1d7f8b2ec9206166b31" compoundref="_asp_net_user_8cs" startline="28">Ipertrade.BookingFor.Entities.AspNetUser.CurrentManagingMerchantId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a4f5b510087db853e7f3ba5e4a264ea13" compoundref="_price_8cs" startline="170">Ipertrade.BookingFor.Products.Booking.Price.Description</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1abfa1779f65a515eeef6e122d0ac6898a" compoundref="_service_custom_principal_8cs" startline="34">Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.Identity</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1abaae998d43b52e23400604052780bfaf" compoundref="_service_custom_principal_8cs" startline="23" endline="26">Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.IsInRole</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1a9f6bc65444da8afebf40f61875061867" compoundref="_web_service_o_t_a_8cs" startline="2526">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.Authentication.Login</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1affaf15e4537498c2a64d6df9d56dfb26" compoundref="_price_8cs" startline="166">Ipertrade.BookingFor.Products.Booking.Price.Name</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1ab902a1f1ef16aa94b5a0c6b947a2d34c" compoundref="_web_service_o_t_a_8cs" startline="2533">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.Authentication.Password</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ac772bf7d11dbdb3cdea9ca28912691cf" compoundref="_price_8cs" startline="42">Ipertrade.BookingFor.Products.Booking.Price.PriceId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_1a834c5f9ab89c4c238003ae1fc185e063" compoundref="_rate_plan_8cs" startline="137">Ipertrade.BookingFor.Products.Booking.RatePlan.Prices</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_1aeaf541cd4281704f0e59ed662c350aa3" compoundref="_rate_plan_8cs" startline="36">Ipertrade.BookingFor.Products.Booking.RatePlan.RatePlanId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aed8b82f4346c98dc29eeadcec5ad660a" compoundref="_price_8cs" startline="71">Ipertrade.BookingFor.Products.Booking.Price.RefId</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a7800edcf02e81dfe627616bfd9c64814" compoundref="_order_8cs" startline="244">Ipertrade.BookingFor.Products.Order.StartDate</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a2c2f3e08a644c93c47c0a848b93d8d68" compoundref="_service_custom_principal_8cs" startline="40">Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.User</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation_1aa7ccb74926104f0bcd554601ca02a1fc" compoundref="_product_translation_8cs" startline="29">Ipertrade.BookingFor.Products.ProductTranslation.Value</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a83a49ba04cd1e4478797c16ec466cae5" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.GetYears</definition>
+        <argsstring>(Order order, Crew crew)</argsstring>
+        <name>GetYears</name>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order" kindref="compound">Order</ref></type>
+          <declname>order</declname>
+        </param>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" kindref="compound">Crew</ref></type>
+          <declname>crew</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2003" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2003" bodyend="2018"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1ade21dfcf106c5123d4a617e82d5f16ba" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ErrorsType</type>
+        <definition>static ErrorsType Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.GetAuthenticationError</definition>
+        <argsstring>()</argsstring>
+        <name>GetAuthenticationError</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2072" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2072" bodyend="2086"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a347cd72a68413dac1e8d4a0e0ecf6a7e" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ErrorsType</type>
+        <definition>static ErrorsType Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.GetGenericError</definition>
+        <argsstring>(Exception ex)</argsstring>
+        <name>GetGenericError</name>
+        <param>
+          <type>Exception</type>
+          <declname>ex</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2093" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2093" bodyend="2108"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a220a6f6aad29a6c7a62c07930400a264" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.AuthenticateAndGetMerchantFromPos</definition>
+        <argsstring>(SourceType pos, string hotelcode)</argsstring>
+        <name>AuthenticateAndGetMerchantFromPos</name>
+        <param>
+          <type>SourceType</type>
+          <declname>pos</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>hotelcode</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2020" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2020" bodyend="2070"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1aa4d10dc58d315b3aa159558d66833081" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.isCertifiedAndActive</definition>
+        <argsstring>()</argsstring>
+        <name>isCertifiedAndActive</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2088" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2088" bodyend="2091"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a06d66742351e69b709970dd3a5d1e600" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.IsAuthenticated</definition>
+        <argsstring>(Authentication auth)</argsstring>
+        <name>IsAuthenticated</name>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication" kindref="compound">Authentication</ref></type>
+          <declname>auth</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2132" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2132" bodyend="2209"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a304a36efd50558369fabda7acf12563e" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA.UpdateAvailability</definition>
+        <argsstring>(int merchantId, string resourceRefId, short availDisp, short minStay, DateTime startDate, DateTime endDate, WeekDayApplication weekDay, BookingContext dataSource, short maxStay=0)</argsstring>
+        <name>UpdateAvailability</name>
+        <param>
+          <type>int</type>
+          <declname>merchantId</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>resourceRefId</declname>
+        </param>
+        <param>
+          <type>short</type>
+          <declname>availDisp</declname>
+        </param>
+        <param>
+          <type>short</type>
+          <declname>minStay</declname>
+        </param>
+        <param>
+          <type>DateTime</type>
+          <declname>startDate</declname>
+        </param>
+        <param>
+          <type>DateTime</type>
+          <declname>endDate</declname>
+        </param>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application" kindref="compound">WeekDayApplication</ref></type>
+          <declname>weekDay</declname>
+        </param>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context" kindref="compound">BookingContext</ref></type>
+          <declname>dataSource</declname>
+        </param>
+        <param>
+          <type>short</type>
+          <declname>maxStay</declname>
+          <defval>0</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>merchantId</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>resourceRefId</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>availDisp</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>minStay</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>startDate</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>endDate</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>weekDay</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dataSource</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2224" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2224" bodyend="2512"/>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a67f9a352648eab37e3ed8e62cc8a5ec4" compoundref="_web_service_o_t_a_8cs" startline="2546">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Allday</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_stay_1a6f62271011bff5f4e37817ae1a75d5e7" compoundref="_product_stay_8cs" startline="19">Ipertrade.BookingFor.Products.Booking.ProductStay.EndDate</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a89ca65db23c4153706602d418ef65b4f" compoundref="_web_service_o_t_a_8cs" startline="2574">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Fri</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aa3425a8739e26f0d693b1a66a3eebf6f" compoundref="_web_service_o_t_a_8cs" startline="2550">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Mon</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context_1a19c53bf1fc846601d556e68a17f64cda" compoundref="_booking_context_8cs" startline="23">Ipertrade.BookingFor.Products.Booking.BookingContext.ProductAvailabilities</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context_1a54a13547e88c2efcf881c323d13ee502" compoundref="_booking_context_8cs" startline="24">Ipertrade.BookingFor.Products.Booking.BookingContext.ProductStays</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context_1a1bbdfcbd778570979c2438dc98da21f3" compoundref="_products_context_8cs" startline="63">Ipertrade.BookingFor.Products.ProductsContext.Resources</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a8163d1cff8340db85ae440af30f7374d" compoundref="_web_service_o_t_a_8cs" startline="2580">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Sat</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_stay_1a4c1f79f020121c3c8ffd0dc7ae4b894f" compoundref="_product_stay_8cs" startline="18">Ipertrade.BookingFor.Products.Booking.ProductStay.StartDate</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1aabaeb63e3d92312d067c6040ae4b82fa" compoundref="_web_service_o_t_a_8cs" startline="2586">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Sun</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1affa0b9452e325d2696545e6a9cb597c9" compoundref="_web_service_o_t_a_8cs" startline="2568">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Thur</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a803fd701e009e79e3a993715bf32bfb6" compoundref="_web_service_o_t_a_8cs" startline="2556">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Tue</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application_1a631ca65d61c9821530da07e27410bc97" compoundref="_web_service_o_t_a_8cs" startline="2562">Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WeekDayApplication.Weds</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Attenzione: i dati per l&apos;autenticazione sono all&apos;interno nelle proprietà POS </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2095">
+        <label>IWSBinding</label>
+      </node>
+      <node id="2094">
+        <label>Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a"/>
+        <childnode refid="2095" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2097">
+        <label>IWSBinding</label>
+      </node>
+      <node id="2098">
+        <label>Ipertrade.BookingFor.Entities.ServiceCustomPrincipal</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal"/>
+        <childnode refid="2099" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2099">
+        <label>IPrincipal</label>
+      </node>
+      <node id="2096">
+        <label>Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.WebServiceOTA</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a"/>
+        <childnode refid="2097" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2098" relation="usage">
+          <edgelabel>CurrentUser</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="56" bodyend="2516"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a220a6f6aad29a6c7a62c07930400a264" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>AuthenticateAndGetMerchantFromPos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1aa1d563066caceba851997634b0cd0bb6" prot="protected" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>context</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a21c5924087b36b379ef35eeac594e9bd" prot="protected" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>CurrentUser</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1ade21dfcf106c5123d4a617e82d5f16ba" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>GetAuthenticationError</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a347cd72a68413dac1e8d4a0e0ecf6a7e" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>GetGenericError</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a83a49ba04cd1e4478797c16ec466cae5" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>GetYears</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a06d66742351e69b709970dd3a5d1e600" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>IsAuthenticated</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1aa4d10dc58d315b3aa159558d66833081" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>isCertifiedAndActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a87c7b1991a15d8fa36b545005942ba4a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_HotelAvailGet</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a37ea7ea6fb89795c924a89b74bfe2a8e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_HotelAvailNotif</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1ab37da65d9be59ca14e212dffdfe68d14" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_HotelInvCount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a01096c76f77dc77f8f1fed4c5264c1b1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_HotelRateAmountNotif</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a272accf8af1dfa4871cdae53475591da" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_HotelRatePlan</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a4db5d804cfee648b1e8b5c83398a8cd5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_HotelRoomList</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a92c0cc7de18251b964894e7c2d53544c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_NotifReport</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a8c1556b08686609f8e526a145539d161" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>OTA_Read</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a0668b4a377c1a56cc8fdeab001cda74d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a5c58aece622544c43e6be17bd1295e88" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>syncLock</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a304a36efd50558369fabda7acf12563e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>UpdateAvailability</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a_1a0e0f77ca903fbe243abe16cfa7c06ca8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</scope><name>WebServiceOTA</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

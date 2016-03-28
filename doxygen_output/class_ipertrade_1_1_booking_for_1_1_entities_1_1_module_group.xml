@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::ModuleGroup</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a0300438ec79ae4d990a97e2397a2ce8b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.ModuleGroup.ModuleGroupId</definition>
+        <argsstring></argsstring>
+        <name>ModuleGroupId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a34244c55bdae385bb2378854f10ca1a0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.ModuleGroup.ParentGroupId</definition>
+        <argsstring></argsstring>
+        <name>ParentGroupId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1acc6c084954d93b3d1bf49b768c404992" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroup.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="31" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a504f3e71038c7029b0707bcfffc73fef" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroup.RefName</definition>
+        <argsstring></argsstring>
+        <name>RefName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1af07086932868144e2f89e7e11ee927d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroup.ModulesFolderName</definition>
+        <argsstring></argsstring>
+        <name>ModulesFolderName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a1ba22ed293ed7ef14d5c3f47ad5c14b9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.ModuleGroup.Enabled</definition>
+        <argsstring></argsstring>
+        <name>Enabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a2ad5cc4b8cdbdd1093ec83c1c89575ad" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroup.BaseResourcesSymbol</definition>
+        <argsstring></argsstring>
+        <name>BaseResourcesSymbol</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a6096c9a5174f85d2ab2e1eeb537937f8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroup.RequiredPortalClassSymbol</definition>
+        <argsstring></argsstring>
+        <name>RequiredPortalClassSymbol</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="36" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a1203606deff0341c6e1dc245c39cb2bf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroup.RequiredMerchantClassSymbol</definition>
+        <argsstring></argsstring>
+        <name>RequiredMerchantClassSymbol</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1af00e0e324b50dc784c722c28fcf30b84" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroup.RequiredContextClassSymbol</definition>
+        <argsstring></argsstring>
+        <name>RequiredContextClassSymbol</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ac6afee7a04053684792ab7e9c48edd3c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.ModuleGroup.HasLimitations</definition>
+        <argsstring></argsstring>
+        <name>HasLimitations</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a3d2d8d16c4d5a103f23d528b35f943fc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module" kindref="compound">Module</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Module&gt; Ipertrade.BookingFor.Entities.ModuleGroup.Modules</definition>
+        <argsstring></argsstring>
+        <name>Modules</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a2e0e47603c3ac1a022a7491afdbbf1fc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal" kindref="compound">Portal</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Portal&gt; Ipertrade.BookingFor.Entities.ModuleGroup.Portals</definition>
+        <argsstring></argsstring>
+        <name>Portals</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="42" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a8afd8dbafbcbbdcdf0bcb85d7f7c9156" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group" kindref="compound">ModuleGroup</ref></type>
+        <definition>virtual ModuleGroup Ipertrade.BookingFor.Entities.ModuleGroup.ParentModuleGroup</definition>
+        <argsstring></argsstring>
+        <name>ParentModuleGroup</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a7f9c0942930d851b7b076695af672cfa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group" kindref="compound">ModuleGroup</ref> &gt;</type>
+        <definition>virtual ICollection&lt;ModuleGroup&gt; Ipertrade.BookingFor.Entities.ModuleGroup.ChildModuleGroups</definition>
+        <argsstring></argsstring>
+        <name>ChildModuleGroups</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a47d930c9daed4de23da1e92a1482a796" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_setting_key" kindref="compound">PortalSettingKey</ref> &gt;</type>
+        <definition>virtual ICollection&lt;PortalSettingKey&gt; Ipertrade.BookingFor.Entities.ModuleGroup.PortalSettingKeys</definition>
+        <argsstring></argsstring>
+        <name>PortalSettingKeys</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a4570e4422eca1a2000d45abab4286ed7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_setting_key" kindref="compound">SettingKey</ref> &gt;</type>
+        <definition>virtual ICollection&lt;SettingKey&gt; Ipertrade.BookingFor.Entities.ModuleGroup.SettingKeys</definition>
+        <argsstring></argsstring>
+        <name>SettingKeys</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="46" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ac341483932542bfe785f530bbdd3bc8e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_permission" kindref="compound">ModulePermission</ref> &gt;</type>
+        <definition>virtual ICollection&lt;ModulePermission&gt; Ipertrade.BookingFor.Entities.ModuleGroup.ModulePermissions</definition>
+        <argsstring></argsstring>
+        <name>ModulePermissions</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="47" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ae5a48c54597613b70662396c3ef5ab79" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_permission" kindref="compound">Permission</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Permission&gt; Ipertrade.BookingFor.Entities.ModuleGroup.ModuleGroupPermissions</definition>
+        <argsstring></argsstring>
+        <name>ModuleGroupPermissions</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a21607e64025254f641a60b71cb62139e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type" kindref="compound">PortalType</ref> &gt;</type>
+        <definition>virtual ICollection&lt;PortalType&gt; Ipertrade.BookingFor.Entities.ModuleGroup.PortalTypes</definition>
+        <argsstring></argsstring>
+        <name>PortalTypes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ade7a7023fa3ee78d29775bfc769343c4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>IEnumerable&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting" kindref="compound">ModuleGroupBaseSetting</ref> &gt;</type>
+        <definition>virtual IEnumerable&lt;ModuleGroupBaseSetting&gt; Ipertrade.BookingFor.Entities.ModuleGroup.BaseSettings</definition>
+        <argsstring></argsstring>
+        <name>BaseSettings</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="52" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a33ec1cf3c789ac690c15a4b28fcae0f6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Entities.ModuleGroup.ModuleGroup</definition>
+        <argsstring>()</argsstring>
+        <name>ModuleGroup</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="16" bodyend="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="888">
+        <label>Ipertrade.BookingFor.Entities.ModuleGroup</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group"/>
+        <childnode refid="889" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="889">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="890">
+        <label>Ipertrade.BookingFor.Entities.ModuleGroup</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group"/>
+        <childnode refid="891" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="891">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="13" bodyend="53"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a2ad5cc4b8cdbdd1093ec83c1c89575ad" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>BaseResourcesSymbol</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ade7a7023fa3ee78d29775bfc769343c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>BaseSettings</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a7f9c0942930d851b7b076695af672cfa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ChildModuleGroups</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a1ba22ed293ed7ef14d5c3f47ad5c14b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ac6afee7a04053684792ab7e9c48edd3c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>HasLimitations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a33ec1cf3c789ac690c15a4b28fcae0f6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ModuleGroup</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a0300438ec79ae4d990a97e2397a2ce8b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ModuleGroupId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ae5a48c54597613b70662396c3ef5ab79" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ModuleGroupPermissions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1ac341483932542bfe785f530bbdd3bc8e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ModulePermissions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a3d2d8d16c4d5a103f23d528b35f943fc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>Modules</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1af07086932868144e2f89e7e11ee927d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ModulesFolderName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1acc6c084954d93b3d1bf49b768c404992" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a34244c55bdae385bb2378854f10ca1a0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ParentGroupId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a8afd8dbafbcbbdcdf0bcb85d7f7c9156" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>ParentModuleGroup</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a2e0e47603c3ac1a022a7491afdbbf1fc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>Portals</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a47d930c9daed4de23da1e92a1482a796" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>PortalSettingKeys</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a21607e64025254f641a60b71cb62139e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>PortalTypes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a504f3e71038c7029b0707bcfffc73fef" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1af00e0e324b50dc784c722c28fcf30b84" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>RequiredContextClassSymbol</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a1203606deff0341c6e1dc245c39cb2bf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>RequiredMerchantClassSymbol</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a6096c9a5174f85d2ab2e1eeb537937f8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>RequiredPortalClassSymbol</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_1a4570e4422eca1a2000d45abab4286ed7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>SettingKeys</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroup</scope><name>UpdatedOn</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

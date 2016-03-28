@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking" kind="namespace" language="C#">
+    <compoundname>Ipertrade::BookingFor::Products::Booking</compoundname>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_availability_calendar" prot="public">Ipertrade::BookingFor::Products::Booking::AvailabilityCalendar</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_context" prot="public">Ipertrade::BookingFor::Products::Booking::BookingContext</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_merchant" prot="public">Ipertrade::BookingFor::Products::Booking::BookingMerchant</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_booking_product" prot="public">Ipertrade::BookingFor::Products::Booking::BookingProduct</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_calculated_price" prot="public">Ipertrade::BookingFor::Products::Booking::CalculatedPrice</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_calculated_variation" prot="public">Ipertrade::BookingFor::Products::Booking::CalculatedVariation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_full_pax_price" prot="public">Ipertrade::BookingFor::Products::Booking::FullPaxPrice</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type" prot="public">Ipertrade::BookingFor::Products::Booking::MerchantBookingType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___description" prot="public">Ipertrade::BookingFor::Products::Booking::MerchantBookingType_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___name" prot="public">Ipertrade::BookingFor::Products::Booking::MerchantBookingType_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type___policy" prot="public">Ipertrade::BookingFor::Products::Booking::MerchantBookingType_Policy</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_simple" prot="public">Ipertrade::BookingFor::Products::Booking::MerchantBookingTypeSimple</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_merchant_booking_type_translation" prot="public">Ipertrade::BookingFor::Products::Booking::MerchantBookingTypeTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_data" prot="public">Ipertrade::BookingFor::Products::Booking::OrderData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_order_result_lite" prot="public">Ipertrade::BookingFor::Products::Booking::OrderResultLite</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package" prot="public">Ipertrade::BookingFor::Products::Booking::Package</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___description" prot="public">Ipertrade::BookingFor::Products::Booking::Package_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___name" prot="public">Ipertrade::BookingFor::Products::Booking::Package_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___photo" prot="public">Ipertrade::BookingFor::Products::Booking::Package_Photo</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_availability" prot="public">Ipertrade::BookingFor::Products::Booking::PackageAvailability</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_simple_result" prot="public">Ipertrade::BookingFor::Products::Booking::PackageSimpleResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_translation" prot="public">Ipertrade::BookingFor::Products::Booking::PackageTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package_visibility" prot="public">Ipertrade::BookingFor::Products::Booking::PackageVisibility</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_pax_list_data" prot="public">Ipertrade::BookingFor::Products::Booking::PaxListData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_pax_parameter" prot="public">Ipertrade::BookingFor::Products::Booking::PaxParameter</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_pax_price" prot="public">Ipertrade::BookingFor::Products::Booking::PaxPrice</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_payment_card" prot="public">Ipertrade::BookingFor::Products::Booking::PaymentCard</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price" prot="public">Ipertrade::BookingFor::Products::Booking::Price</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___description" prot="public">Ipertrade::BookingFor::Products::Booking::Price_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___name" prot="public">Ipertrade::BookingFor::Products::Booking::Price_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___photo" prot="public">Ipertrade::BookingFor::Products::Booking::Price_Photo</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_availability" prot="public">Ipertrade::BookingFor::Products::Booking::PriceAvailability</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_data" prot="public">Ipertrade::BookingFor::Products::Booking::PriceData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_detail" prot="public">Ipertrade::BookingFor::Products::Booking::PriceDetail</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_parameter" prot="public">Ipertrade::BookingFor::Products::Booking::PriceParameter</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_simple_result" prot="public">Ipertrade::BookingFor::Products::Booking::PriceSimpleResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template" prot="public">Ipertrade::BookingFor::Products::Booking::PriceTemplate</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template___description" prot="public">Ipertrade::BookingFor::Products::Booking::PriceTemplate_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template___name" prot="public">Ipertrade::BookingFor::Products::Booking::PriceTemplate_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_template_translation" prot="public">Ipertrade::BookingFor::Products::Booking::PriceTemplateTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_translation" prot="public">Ipertrade::BookingFor::Products::Booking::PriceTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_availability" prot="public">Ipertrade::BookingFor::Products::Booking::ProductAvailability</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_price" prot="public">Ipertrade::BookingFor::Products::Booking::ProductPrice</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_product_stay" prot="public">Ipertrade::BookingFor::Products::Booking::ProductStay</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlan</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___description" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlan_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___name" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlan_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan___policy" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlan_Policy</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rateplan_data" prot="public">Ipertrade::BookingFor::Products::Booking::RateplanData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_simple_result" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanSimpleResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_stay" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanStay</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_translation" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___description" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanType_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___name" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanType_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type___policy" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanType_Policy</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan_type_translation" prot="public">Ipertrade::BookingFor::Products::Booking::RatePlanTypeTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_reduced_pax_price" prot="public">Ipertrade::BookingFor::Products::Booking::ReducedPaxPrice</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_resource" prot="public">Ipertrade::BookingFor::Products::Booking::SearchResource</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result" prot="public">Ipertrade::BookingFor::Products::Booking::SearchResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_search_result_lite" prot="public">Ipertrade::BookingFor::Products::Booking::SearchResultLite</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_season" prot="public">Ipertrade::BookingFor::Products::Booking::Season</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price" prot="public">Ipertrade::BookingFor::Products::Booking::SelectablePrice</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_suggested_stay" prot="public">Ipertrade::BookingFor::Products::Booking::SuggestedStay</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlan</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___description" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlan_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___name" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlan_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___photo" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlan_Photo</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_availability" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlanAvailability</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_detail" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlanDetail</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_simple_result" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlanSimpleResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_translation" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlanTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan_visibility" prot="public">Ipertrade::BookingFor::Products::Booking::VariationPlanVisibility</innerclass>
+    <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin">Ipertrade::BookingFor::Products::Booking::Admin</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="[generated]" line="1" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="dir_9066c3808a1c1005e9d7109d5a268893" kind="dir">
+    <compoundname>D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking</compoundname>
+    <innerfile refid="_availability_calendar_8cs">AvailabilityCalendar.cs</innerfile>
+    <innerfile refid="_booking_context_8cs">BookingContext.cs</innerfile>
+    <innerfile refid="_booking_merchant_8cs">BookingMerchant.cs</innerfile>
+    <innerfile refid="_booking_product_8cs">BookingProduct.cs</innerfile>
+    <innerfile refid="_calculated_price_8cs">CalculatedPrice.cs</innerfile>
+    <innerfile refid="_calculated_variation_8cs">CalculatedVariation.cs</innerfile>
+    <innerfile refid="_merchant_booking_type_8cs">MerchantBookingType.cs</innerfile>
+    <innerfile refid="_booking_2_order_data_8cs">OrderData.cs</innerfile>
+    <innerfile refid="_order_result_lite_8cs">OrderResultLite.cs</innerfile>
+    <innerfile refid="_package_8cs">Package.cs</innerfile>
+    <innerfile refid="_pax_parameter_8cs">PaxParameter.cs</innerfile>
+    <innerfile refid="_price_8cs">Price.cs</innerfile>
+    <innerfile refid="_price_detail_8cs">PriceDetail.cs</innerfile>
+    <innerfile refid="_price_parameter_8cs">PriceParameter.cs</innerfile>
+    <innerfile refid="_price_template_8cs">PriceTemplate.cs</innerfile>
+    <innerfile refid="_product_availability_8cs">ProductAvailability.cs</innerfile>
+    <innerfile refid="_product_stay_8cs">ProductStay.cs</innerfile>
+    <innerfile refid="_rate_plan_8cs">RatePlan.cs</innerfile>
+    <innerfile refid="_rate_plan_simple_result_8cs">RatePlanSimpleResult.cs</innerfile>
+    <innerfile refid="_rate_plan_stay_8cs">RatePlanStay.cs</innerfile>
+    <innerfile refid="_rate_plan_type_8cs">RatePlanType.cs</innerfile>
+    <innerfile refid="_search_resource_8cs">SearchResource.cs</innerfile>
+    <innerfile refid="_search_result_8cs">SearchResult.cs</innerfile>
+    <innerfile refid="_search_result_lite_8cs">SearchResultLite.cs</innerfile>
+    <innerfile refid="_season_8cs">Season.cs</innerfile>
+    <innerfile refid="_suggested_stay_8cs">SuggestedStay.cs</innerfile>
+    <innerfile refid="_variation_plan_8cs">VariationPlan.cs</innerfile>
+    <innerfile refid="_variation_plan_detail_8cs">VariationPlanDetail.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/"/>
+  </compounddef>
+</doxygen>

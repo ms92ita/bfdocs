@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.ProductStatisticBaseEntity</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history_1a6614b74a808be6189b00f8d967afadca" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.OnSellUnitPriceHistory.ContractType</definition>
+        <argsstring></argsstring>
+        <name>ContractType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OnSellUnitPriceHistory.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OnSellUnitPriceHistory.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history_1a9e502ed821cfa053a1bb641b6e33bacc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.OnSellUnitPriceHistory.StatType</definition>
+        <argsstring></argsstring>
+        <name>StatType</name>
+        <briefdescription>
+<para>Type of value. Possible values 0 = price 2 = price per square meter </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OnSellUnitPriceHistory.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OnSellUnitPriceHistory.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Extension of class <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity" kindref="compound">ProductStatisticBaseEntity</ref>. In addition, the average takes account of the contract type. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="912">
+        <label>ProductStatisticBaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity"/>
+      </node>
+      <node id="911">
+        <label>Ipertrade.BookingFor.Products.OnSellUnitPriceHistory</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history"/>
+        <childnode refid="912" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="914">
+        <label>ProductStatisticBaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity"/>
+      </node>
+      <node id="913">
+        <label>Ipertrade.BookingFor.Products.OnSellUnitPriceHistory</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history"/>
+        <childnode refid="914" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OnSellUnitPriceHistory.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/OnSellUnitPriceHistory.cs" bodystart="12" bodyend="21"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ac49f1f482b020950d075744b7c80f5e7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>Average</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a5dac640c457460062a6977bf4579f73f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CategoryAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a96e0c49be86f858f7f9319b7fd62155a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CategoryId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a38eb03765b49d55924c5588d19f3eb53" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CategoryName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a57789b59f7a764d86d9f0b8f84a06774" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CityAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a269c7dd4fe4cf57dcc8f49eb80ed2f75" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CityCategoryAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a3e32f04b2bed1ba5fbe7601487655aec" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CityId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a9d5fdab4162ccd05cdd2cdf7e3ce3494" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CityName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1abc26616bfb4b178b9fe3c854cbdcf437" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>CityZoneAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history_1a6614b74a808be6189b00f8d967afadca" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>ContractType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a39066aadb93497a28ea1a7d17f408b77" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>Date</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a03d00ee9532847b196a93f6f1b5c2396" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history_1a9e502ed821cfa053a1bb641b6e33bacc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>StatType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1ae10a1c8c5038367b23a4b079b5931fbb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>ZoneAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1aecf93c4e5ac5016b89e03b127743e420" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>ZoneCategoryAverage</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1adf3303307259e49da329dcd0cd456c77" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>ZoneId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity_1a0729b718a38021e940e1bdd26690478e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</scope><name>ZoneName</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

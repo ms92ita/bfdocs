@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types" kind="namespace" language="C#">
+    <compoundname>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes</compoundname>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_credit_card_data" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::CreditCardData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_dynamic_data" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::DynamicData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_extra" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::Extra</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_order_message_info" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::OrderMessageInfo</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_pax" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::Pax</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_price_calculated_result" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::PriceCalculatedResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_price_type" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::PriceType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_product_stay_simple" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::ProductStaySimple</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanPriceCalculateParameter</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationCalculatedResult</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_group" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailGroup</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_detail_option_object" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationDetailOptionObject</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_plan_detail_item" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationPlanDetailItem</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_price_calculated_result" prot="public">Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::VariationPriceCalculatedResult</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66" prot="public" static="no">
+        <name>VariationDetailTypeEnum</name>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a74756e506e244720ace229ac149467f3" prot="public">
+          <name>DateRange</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a63af86354f76f6c7c0183b6a7aca16f9" prot="public">
+          <name>StayRange</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66aa2b7eab9cde4b459faedb8d627e66255" prot="public">
+          <name>CheckInDays</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66ad2868108433d239c0715651795fcf464" prot="public">
+          <name>PreviousDays</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66ac2129622ac604e1ea1189a6973a5a42a" prot="public">
+          <name>PaxStart</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a99480db14350c608c04784ea4a73f7b8" prot="public">
+          <name>PaxNumber</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a625a4066b2530abd7c6a937e4ca5dc1a" prot="public">
+          <name>RateTypeSelect</name>
+          <initializer>= 6</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a1ebd65167c1704bff91947ca01e145f0" prot="public">
+          <name>DayStart</name>
+          <initializer>= 7</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a976047aa85e3dafb0f034a8102283c2b" prot="public">
+          <name>AgeRange</name>
+          <initializer>= 8</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a027c65d34919dbfc89bddc481e729e51" prot="public">
+          <name>PriceTypes</name>
+          <initializer>= 9</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66adeb10517653c255364175796ace3553f" prot="public">
+          <name>Product</name>
+          <initializer>= 10</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66abcd5c5d1b96f22468bbbe60242d57aca" prot="public">
+          <name>CheckInDates</name>
+          <initializer>= 11</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a793ea64d141d113a8315d4d9d7a51e82" prot="public">
+          <name>BookingType</name>
+          <initializer>= 12</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66a40a5d4b28eb4712862b2e5206744ff45" prot="public">
+          <name>ContactGroups</name>
+          <initializer>= 13</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66aaec642be8253c832aca1a9955970c110" prot="public">
+          <name>SelectedPrices</name>
+          <initializer>= 14</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a9ac024a66c22b247069c8c5a38c32a66aa3f2ce481b3c6b495928c8a89867d498" prot="public">
+          <name>SelectedPaxes</name>
+          <initializer>= 15</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" line="54" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationDetailOptionObject.cs" bodystart="53" bodyend="71"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a7f7ea18a7263cc13972a1b64043eb103" prot="public" static="no">
+        <name>VariationPlanType</name>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a7f7ea18a7263cc13972a1b64043eb103a104d9898c04874d0fbac36e125fa1369" prot="public">
+          <name>Discount</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1a7f7ea18a7263cc13972a1b64043eb103a8e39cd2566c95ebe23311c2bf3882595" prot="public">
+          <name>Supplement</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationPlanType.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/VariationPlanType.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/CreditCardData.cs" line="4" column="1"/>
+  </compounddef>
+</doxygen>

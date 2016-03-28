@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="namespace_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_behaviours" kind="namespace" language="Unknown">
+    <compoundname>Ipertrade::BookingFor::Admin::Modules::bookingfor::Services::Behaviours</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="14" column="1"/>
+  </compounddef>
+</doxygen>

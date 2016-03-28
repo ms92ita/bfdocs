@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::ModuleGroupBaseSetting</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting_1a80f0b37a86c905528757d7ce764efd08" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.ModuleGroupBaseSetting.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="59" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting_1a12d7565cfa266bf13686db7a23e9c8f8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>dynamic</type>
+        <definition>dynamic Ipertrade.BookingFor.Entities.ModuleGroupBaseSetting.Value</definition>
+        <argsstring></argsstring>
+        <name>Value</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="60" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting_1a11b69aa73030d44b9e39a269830b4cb8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Entities.ModuleGroupBaseSetting.ModuleGroupBaseSetting</definition>
+        <argsstring>()</argsstring>
+        <name>ModuleGroupBaseSetting</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="57" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" line="56" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ModuleGroup.cs" bodystart="55" bodyend="61"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting_1a11b69aa73030d44b9e39a269830b4cb8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroupBaseSetting</scope><name>ModuleGroupBaseSetting</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting_1a80f0b37a86c905528757d7ce764efd08" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroupBaseSetting</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_module_group_base_setting_1a12d7565cfa266bf13686db7a23e9c8f8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ModuleGroupBaseSetting</scope><name>Value</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::ScalarRequest</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.InfoRequest</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1adcd88115e991b82fa78418f324b56cbb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ScalarRequest.SearchId</definition>
+        <argsstring></argsstring>
+        <name>SearchId</name>
+        <briefdescription>
+<para>Identifier of the <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search" kindref="compound">UserAlertSearch</ref> record. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="190" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="190" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1a7ba4e9a4947393fe3a444c3bc34c3aa7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ScalarRequest.MaxReplies</definition>
+        <argsstring></argsstring>
+        <name>MaxReplies</name>
+        <briefdescription>
+<para>Maximum count of replies allowed for the same request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="194" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="194" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1a262815101bca17560637afff53978aff" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search" kindref="compound">UserAlertSearch</ref></type>
+        <definition>virtual UserAlertSearch Ipertrade.BookingFor.Products.ScalarRequest.Search</definition>
+        <argsstring></argsstring>
+        <name>Search</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="196" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="196" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1a5e5de8d1e502be9872c6770cf4dd4fdc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Products.ScalarRequest.ScalarRequest</definition>
+        <argsstring>()</argsstring>
+        <name>ScalarRequest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="181" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="181" bodyend="185"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Request sent to multiple merchants. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1843">
+        <label>InfoRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request"/>
+        <childnode refid="1844" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1842">
+        <label>Ipertrade.BookingFor.Products.ScalarRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request"/>
+        <childnode refid="1843" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1844">
+        <label>BaseRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request"/>
+        <childnode refid="1845" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1845">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1847">
+        <label>InfoRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request"/>
+        <childnode refid="1848" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1846">
+        <label>Ipertrade.BookingFor.Products.ScalarRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request"/>
+        <childnode refid="1847" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1848">
+        <label>BaseRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request"/>
+        <childnode refid="1849" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1849">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="180" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="179" bodyend="198"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a3f59adf916de65c30d1593944f3cc94f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>ArchivedAsSpam</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a68fa0dcd17ef4ae0bc213fee029e4f89" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>BaseRequest</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1afa070cb2516ffd7fc27232c43c70b8b4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>CreationDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a57955f80c1de23c48009405137acaa3b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>Customer</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a5a7d3ec22feb28fc90e58056ef36a77c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>CustomerCRM</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a6ff7311f69789bf5388eb507dd27c781" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>CustomerData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a5a160cc6204cd97e65a6e252c9233bbe" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>CustomerId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1afb98a620701cbbf0f80ca70a8c08daa2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>Exportable</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a5884c7259bf88b0b36dfcfffeb9c20c1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>ExternalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request_1ac732235a258ee46244aa29a3f2e80820" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>InfoRequest</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1aa5585e15e7b8ead1e615a3ef107df6d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>Label</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1a7ba4e9a4947393fe3a444c3bc34c3aa7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>MaxReplies</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1ae2e1b21f7e9521ecadf266fa6ecc81d8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>Merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a4f4eeb1e33531cdaae780450fb7996b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a8a9a37a51ad57292741f869644ffa53d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>Messages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1aee812863f566efd298d5e9694c6b9781" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>NotesData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a2649d92cfc180ad29114ca930051540b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>OrderId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1ace238454e30e90f91db0a190efe227b5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>OrderType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a789fd1783e9e5916a69e0ef9cc8c9348" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>OrderTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1ae296ad476ea8db3d4c740b0210016222" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a8ad939e40ccbf7410ac22b62fb5d4083" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a3755574e9d3b0221bac957bb2e981d7d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>RequestedItemId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request_1ad32c04976a5881ac6ce59368ef44a034" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>RequestType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1a5e5de8d1e502be9872c6770cf4dd4fdc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>ScalarRequest</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1a262815101bca17560637afff53978aff" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>Search</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request_1adcd88115e991b82fa78418f324b56cbb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>SearchId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a0627217c340c45cab2a7b24103824d8b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>Status</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a36174cf119f54e0ddc0c234d13abee9e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>UserCancelDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a3bd401b83652b804fad211d110df66d4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>UserCulture</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1aeea34f021f32510597c1a50d075a9552" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>UserId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1add03de74b8a327392043d847bd193e7d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ScalarRequest</scope><name>UserNotes</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

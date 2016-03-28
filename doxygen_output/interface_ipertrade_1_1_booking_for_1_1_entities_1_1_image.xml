@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image" kind="interface" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::Image</compoundname>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_image" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.MerchantImage</derivedcompoundref>
+    <derivedcompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_photo" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.Photo</derivedcompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image_1abcc11ab44ffce4483ae430679aa9230b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.Image.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image_1a07a0ffafc94b1bb49cd26c40f2e8f379" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.Image.Order</definition>
+        <argsstring></argsstring>
+        <name>Order</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image_1a01f1176291343c574862225466fc62cd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.Image.IsDefault</definition>
+        <argsstring></argsstring>
+        <name>IsDefault</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="542">
+        <label>Ipertrade.BookingFor.Products.Booking.VariationPlan_Photo</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan___photo"/>
+        <childnode refid="539" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="540">
+        <label>Ipertrade.BookingFor.Products.Booking.Package_Photo</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_package___photo"/>
+        <childnode refid="539" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="537">
+        <label>Ipertrade.BookingFor.Entities.Image</label>
+        <link refid="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image"/>
+      </node>
+      <node id="541">
+        <label>Ipertrade.BookingFor.Products.Booking.Price_Photo</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price___photo"/>
+        <childnode refid="539" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="539">
+        <label>Ipertrade.BookingFor.Entities.Photo</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_photo"/>
+        <childnode refid="537" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="538">
+        <label>Ipertrade.BookingFor.Entities.MerchantImage</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_image"/>
+        <childnode refid="537" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/Image.cs" bodystart="9" bodyend="14"/>
+    <listofallmembers>
+      <member refid="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image_1a01f1176291343c574862225466fc62cd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Image</scope><name>IsDefault</name></member>
+      <member refid="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image_1abcc11ab44ffce4483ae430679aa9230b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Image</scope><name>Name</name></member>
+      <member refid="interface_ipertrade_1_1_booking_for_1_1_entities_1_1_image_1a07a0ffafc94b1bb49cd26c40f2e8f379" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::Image</scope><name>Order</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

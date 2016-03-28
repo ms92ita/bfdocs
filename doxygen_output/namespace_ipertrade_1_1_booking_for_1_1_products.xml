@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="namespace_ipertrade_1_1_booking_for_1_1_products" kind="namespace" language="C#">
+    <compoundname>Ipertrade::BookingFor::Products</compoundname>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute" prot="public">Ipertrade::BookingFor::Products::Attribute</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_group" prot="public">Ipertrade::BookingFor::Products::AttributeGroup</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value" prot="public">Ipertrade::BookingFor::Products::AttributeOptionValue</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value___name" prot="public">Ipertrade::BookingFor::Products::AttributeOptionValue_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_option_value_translation" prot="public">Ipertrade::BookingFor::Products::AttributeOptionValueTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_type" prot="public">Ipertrade::BookingFor::Products::AttributeType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value" prot="public">Ipertrade::BookingFor::Products::AttributeValue</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___boolean" prot="public">Ipertrade::BookingFor::Products::AttributeValue_Boolean</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___date" prot="public">Ipertrade::BookingFor::Products::AttributeValue_Date</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___decimal" prot="public">Ipertrade::BookingFor::Products::AttributeValue_Decimal</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___image" prot="public">Ipertrade::BookingFor::Products::AttributeValue_Image</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___int" prot="public">Ipertrade::BookingFor::Products::AttributeValue_Int</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___string" prot="public">Ipertrade::BookingFor::Products::AttributeValue_String</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_attribute_value___translation" prot="public">Ipertrade::BookingFor::Products::AttributeValue_Translation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public">Ipertrade::BookingFor::Products::BaseEntity</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request" prot="public">Ipertrade::BookingFor::Products::BaseRequest</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_counter" prot="public">Ipertrade::BookingFor::Products::Counter</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option" prot="public">Ipertrade::BookingFor::Products::CreditAcquireOption</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___description" prot="public">Ipertrade::BookingFor::Products::CreditAcquireOption_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option___name" prot="public">Ipertrade::BookingFor::Products::CreditAcquireOption_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option_translation" prot="public">Ipertrade::BookingFor::Products::CreditAcquireOptionTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" prot="public">Ipertrade::BookingFor::Products::Crew</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm" prot="public">Ipertrade::BookingFor::Products::CustomerCrm</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_customer_crm_group" prot="public">Ipertrade::BookingFor::Products::CustomerCrmGroup</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_favorite" prot="public">Ipertrade::BookingFor::Products::Favorite</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_generic_period_availability" prot="public">Ipertrade::BookingFor::Products::GenericPeriodAvailability</innerclass>
+    <innerclass refid="interface_ipertrade_1_1_booking_for_1_1_products_1_1_image" prot="public">Ipertrade::BookingFor::Products::Image</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_info_request" prot="public">Ipertrade::BookingFor::Products::InfoRequest</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_master_typology" prot="public">Ipertrade::BookingFor::Products::MasterTypology</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_category_limitation" prot="public">Ipertrade::BookingFor::Products::MerchantCategoryLimitation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group" prot="public">Ipertrade::BookingFor::Products::MerchantGroup</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group___description" prot="public">Ipertrade::BookingFor::Products::MerchantGroup_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group___name" prot="public">Ipertrade::BookingFor::Products::MerchantGroup_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_group_translation" prot="public">Ipertrade::BookingFor::Products::MerchantGroupTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_home_page" prot="public">Ipertrade::BookingFor::Products::MerchantHomePage</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_image" prot="public">Ipertrade::BookingFor::Products::MerchantImage</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_limitation" prot="public">Ipertrade::BookingFor::Products::MerchantLimitation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_payment" prot="public">Ipertrade::BookingFor::Products::MerchantPayment</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_on_sell_unit_price_history" prot="public">Ipertrade::BookingFor::Products::OnSellUnitPriceHistory</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order" prot="public">Ipertrade::BookingFor::Products::Order</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_data" prot="public">Ipertrade::BookingFor::Products::OrderData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_item" prot="public">Ipertrade::BookingFor::Products::OrderItem</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_payment" prot="public">Ipertrade::BookingFor::Products::OrderPayment</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_status" prot="public">Ipertrade::BookingFor::Products::OrderStatus</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service" prot="public">Ipertrade::BookingFor::Products::PayableService</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service___description" prot="public">Ipertrade::BookingFor::Products::PayableService_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service___name" prot="public">Ipertrade::BookingFor::Products::PayableService_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association" prot="public">Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_product_type_association" prot="public">Ipertrade::BookingFor::Products::PayableServiceProductTypeAssociation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_translation" prot="public">Ipertrade::BookingFor::Products::PayableServiceTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payment_system" prot="public">Ipertrade::BookingFor::Products::PaymentSystem</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy" prot="public">Ipertrade::BookingFor::Products::Policy</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy___description" prot="public">Ipertrade::BookingFor::Products::Policy_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy___name" prot="public">Ipertrade::BookingFor::Products::Policy_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template" prot="public">Ipertrade::BookingFor::Products::PolicyTemplate</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template___description" prot="public">Ipertrade::BookingFor::Products::PolicyTemplate_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template___name" prot="public">Ipertrade::BookingFor::Products::PolicyTemplate_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_template_transaltion" prot="public">Ipertrade::BookingFor::Products::PolicyTemplateTransaltion</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_policy_transaltion" prot="public">Ipertrade::BookingFor::Products::PolicyTransaltion</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_price_history_data" prot="public">Ipertrade::BookingFor::Products::PriceHistoryData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product" prot="public">Ipertrade::BookingFor::Products::Product</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute" prot="public">Ipertrade::BookingFor::Products::ProductAttribute</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___description" prot="public">Ipertrade::BookingFor::Products::ProductAttribute_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___expr" prot="public">Ipertrade::BookingFor::Products::ProductAttribute_Expr</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute___name" prot="public">Ipertrade::BookingFor::Products::ProductAttribute_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group" prot="public">Ipertrade::BookingFor::Products::ProductAttributeGroup</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___description" prot="public">Ipertrade::BookingFor::Products::ProductAttributeGroup_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group___name" prot="public">Ipertrade::BookingFor::Products::ProductAttributeGroup_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_group_translation" prot="public">Ipertrade::BookingFor::Products::ProductAttributeGroupTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_translation" prot="public">Ipertrade::BookingFor::Products::ProductAttributeTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type" prot="public">Ipertrade::BookingFor::Products::ProductAttributeType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type___description" prot="public">Ipertrade::BookingFor::Products::ProductAttributeType_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type___name" prot="public">Ipertrade::BookingFor::Products::ProductAttributeType_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_type_translation" prot="public">Ipertrade::BookingFor::Products::ProductAttributeTypeTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___boolean" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_Boolean</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___date" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_Date</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___decimal" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_Decimal</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___image" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_Image</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___int" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_Int</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___link" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_Link</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___string" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_String</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_attribute_value___translation" prot="public">Ipertrade::BookingFor::Products::ProductAttributeValue_Translation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_bindings" prot="public">Ipertrade::BookingFor::Products::ProductBindings</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category" prot="public">Ipertrade::BookingFor::Products::ProductCategory</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___description" prot="public">Ipertrade::BookingFor::Products::ProductCategory_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category___name" prot="public">Ipertrade::BookingFor::Products::ProductCategory_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_product_type_association" prot="public">Ipertrade::BookingFor::Products::ProductCategoryProductTypeAssociation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_category_translation" prot="public">Ipertrade::BookingFor::Products::ProductCategoryTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___description" prot="public">Ipertrade::BookingFor::Products::ProductItem_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___name" prot="public">Ipertrade::BookingFor::Products::ProductItem_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item___policy" prot="public">Ipertrade::BookingFor::Products::ProductItem_Policy</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_item_translation" prot="public">Ipertrade::BookingFor::Products::ProductItemTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category" prot="public">Ipertrade::BookingFor::Products::ProductMerchantCategory</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_context" prot="public">Ipertrade::BookingFor::Products::ProductsContext</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_service_expiration" prot="public">Ipertrade::BookingFor::Products::ProductServiceExpiration</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_merchant" prot="public">Ipertrade::BookingFor::Products::ProductsMerchant</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_products_portal" prot="public">Ipertrade::BookingFor::Products::ProductsPortal</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_statistic_base_entity" prot="public">Ipertrade::BookingFor::Products::ProductStatisticBaseEntity</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_translation" prot="public">Ipertrade::BookingFor::Products::ProductTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type" prot="public">Ipertrade::BookingFor::Products::ProductType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type___description" prot="public">Ipertrade::BookingFor::Products::ProductType_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type___name" prot="public">Ipertrade::BookingFor::Products::ProductType_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_translation" prot="public">Ipertrade::BookingFor::Products::ProductTypeTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression" prot="public">Ipertrade::BookingFor::Products::ProductTypeValidationExpression</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression___error_message" prot="public">Ipertrade::BookingFor::Products::ProductTypeValidationExpression_ErrorMessage</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_type_validation_expression_translation" prot="public">Ipertrade::BookingFor::Products::ProductTypeValidationExpressionTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_customer" prot="public">Ipertrade::BookingFor::Products::RequestCustomer</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_message" prot="public">Ipertrade::BookingFor::Products::RequestMessage</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_request_type" prot="public">Ipertrade::BookingFor::Products::RequestType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_resource" prot="public">Ipertrade::BookingFor::Products::Resource</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_resourceonsell" prot="public">Ipertrade::BookingFor::Products::Resourceonsell</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_review" prot="public">Ipertrade::BookingFor::Products::Review</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_reviewinfo" prot="public">Ipertrade::BookingFor::Products::Reviewinfo</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_scalar_request" prot="public">Ipertrade::BookingFor::Products::ScalarRequest</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service" prot="public">Ipertrade::BookingFor::Products::Service</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service___description" prot="public">Ipertrade::BookingFor::Products::Service_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service___name" prot="public">Ipertrade::BookingFor::Products::Service_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_simple" prot="public">Ipertrade::BookingFor::Products::ServiceSimple</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_translation" prot="public">Ipertrade::BookingFor::Products::ServiceTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type" prot="public">Ipertrade::BookingFor::Products::ServiceType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type___description" prot="public">Ipertrade::BookingFor::Products::ServiceType_Description</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type___name" prot="public">Ipertrade::BookingFor::Products::ServiceType_Name</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service_type_translation" prot="public">Ipertrade::BookingFor::Products::ServiceTypeTranslation</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert" prot="public">Ipertrade::BookingFor::Products::UserAlert</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search" prot="public">Ipertrade::BookingFor::Products::UserAlertSearch</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_filter_type" prot="public">Ipertrade::BookingFor::Products::UserAlertSearchFilterType</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_param" prot="public">Ipertrade::BookingFor::Products::UserAlertSearchParam</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_user_alert_search_type" prot="public">Ipertrade::BookingFor::Products::UserAlertSearchType</innerclass>
+    <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_admin">Ipertrade::BookingFor::Products::Admin</innernamespace>
+    <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_booking">Ipertrade::BookingFor::Products::Booking</innernamespace>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eb" prot="public" static="no">
+        <name>AttributeTypeEnum</name>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba27226c864bac7454a8504f8edb15d95b" prot="public">
+          <name>Boolean</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba44749712dbec183e983dcd78a7736c41" prot="public">
+          <name>Date</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba937504f318f04eaf0f1d701df4c4d7f3" prot="public">
+          <name>Decimal</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82ebab7974932612f00ca7213868731764c5d" prot="public">
+          <name>ImageGallery</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba1686a6c336b71b36d77354cea19a8b52" prot="public">
+          <name>Int</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba27118326006d3829667a400ad23d5d98" prot="public">
+          <name>String</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba6142ce46f03336540668913399b8fd0c" prot="public">
+          <name>LocalizationData</name>
+          <initializer>= 6</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_ipertrade_1_1_booking_for_1_1_products_1a5e7f7b9cbb2a1885dca01a2750db82eba97e7c9a7d06eac006a28bf05467fcc8b" prot="public">
+          <name>Link</name>
+          <initializer>= 7</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/AttributeTypeEnum.cs" line="10" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/AttributeTypeEnum.cs" bodystart="9" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Attribute.cs" line="11" column="1"/>
+  </compounddef>
+</doxygen>

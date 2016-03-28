@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="_overview" kind="page">
+    <compoundname>Overview</compoundname>
+    <detaileddescription>
+<sect1 id="_overview_1start">
+<title>Getting started</title>
+<sect2 id="_overview_1help">
+<title>&quot;FINDING HELP&quot;</title>
+<para>If you&apos;re looking for help figuring out how to get your application working, or just have something you want to ask about, there are a few places you can get in touch with us: <itemizedlist>
+<listitem><para>Contact us directly through the customer care support by email address <ulink url="mailto:support@bookingfor.com">support@bookingfor.com</ulink> </para></listitem>
+<listitem><para>Talk with our developer for support with API by email address <ulink url="mailto:developer@bookingfor.com">developer@bookingfor.com</ulink> </para></listitem>
+</itemizedlist>
+</para></sect2>
+<sect2 id="_overview_1tos">
+<title>TERMS OF SERVICE</title>
+<para>Use of this API is strictly bound by the terms as specified in BookingFor API Terms of Service. Some functionality documented here may not be available to you based on your plan, or access level of your account.</para></sect2>
+</sect1>
+<sect1 id="_overview_1connect">
+<title>Connecting to the API</title>
+<para>When you have created your account, by default you have a “development” subscription but no further costs for you, so you can test some of major cases of main feature of the BookingFor platform. Please note that an API key authentication is valid only for a single subscription, even if a customer has more BookingFor subscriptions. Once you are able to switch on your implementation in production, you must make a request you your customer to obtain his API key authentication. To connect with the api, you have two methods to authenticate yourself: <itemizedlist>
+<listitem><para>Basic Authentication </para></listitem>
+<listitem><para>API key in query string The subscription will provide automatically an account dedicated for the API. You can get the API key in the Users section of our platform and get the user with role APIAdmin. Once you have found it, in the editing section you can get its key.</para></listitem>
+</itemizedlist>
+Our API supports natively the Basic authentication. However we recommend for safety to add the key as a header as in this example: Authorization: Basic yourapikey</para><para>Also you can append the Api key in HTTP query string as in this example: <ulink url="https://api.bookingfor.com/BookingService.svc/GetUsers?apikey=yourapikey">https://api.bookingfor.com/BookingService.svc/GetUsers?apikey=yourapikey</ulink> <hruler/>
+ </para></sect1>
+<sect1 id="_overview_1request">
+<title>Request formatting</title>
+<para>Our services supports the SSL encryption using standard HTTPS methods such as GET and POST. When submitting input parameters with your request, these are encoded either in the query string for GET requests, or in the body of a POST request using commonplace url encoding of key-value pairs (application/x-www-form-urlencoded). As described above in the Introduction, our service supports the ODATA standard, so the default response data format implements the AtomPub format, but you can use other formats as JSON or XMLincluding the appropriate Accept header (Accept: application/json) or the OData parameter $format in the query string.</para></sect1>
+<sect1 id="_overview_1response">
+<title>Response formatting</title>
+<para>As explained in previous section, the response format depends on the request and respscts the ODATA protocol rules. We have two ODATA services: <ref refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_service" kindref="compound">BookingService</ref> uses the v2 protocol version while <ref refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_services_1_1_booking_for_service" kindref="compound">BookingForService</ref> supports v3 version. </para></sect1>
+    </detaileddescription>
+  </compounddef>
+</doxygen>

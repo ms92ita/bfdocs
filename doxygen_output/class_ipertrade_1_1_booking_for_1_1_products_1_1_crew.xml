@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::Crew</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseEntity</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1aa0e7edfd5b323431c90bc474b37f5f6e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.CrewId</definition>
+        <argsstring></argsstring>
+        <name>CrewId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="20" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1af7b8a0ed99c2669864c32c43b2852c08" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.ParentCrewId</definition>
+        <argsstring></argsstring>
+        <name>ParentCrewId</name>
+        <briefdescription>
+<para>Identifier of main contact <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" kindref="compound">Crew</ref> record. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="24" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab6b0a3ece52c036e3816839bc7b120d9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.OrderId</definition>
+        <argsstring></argsstring>
+        <name>OrderId</name>
+        <briefdescription>
+<para>Identifier of the reservation request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1add46316786d784fef7c8bbfef21833c2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.ExternalId</definition>
+        <argsstring></argsstring>
+        <name>ExternalId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="29" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a4384210541d505c9a110e1301ebedaa0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.MerchantId</definition>
+        <argsstring></argsstring>
+        <name>MerchantId</name>
+        <briefdescription>
+<para>Identifier of the merchant of reservation request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1af014d371d185c9cd82a3fdd63556ae18" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.FirstName</definition>
+        <argsstring></argsstring>
+        <name>FirstName</name>
+        <briefdescription>
+<para>First name of person. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="37" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1afa7157c56d277234040345b6411ccb1b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.LastName</definition>
+        <argsstring></argsstring>
+        <name>LastName</name>
+        <briefdescription>
+<para>Last name of person. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="41" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a8095bf22f3ca3a43d82965c4dae19c94" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Email</definition>
+        <argsstring></argsstring>
+        <name>Email</name>
+        <briefdescription>
+<para>Email address of person, required only if it is the main contact. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="45" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a1b998edeaf114cc1e067b1eca1118864" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Culture</definition>
+        <argsstring></argsstring>
+        <name>Culture</name>
+        <briefdescription>
+<para>ISO 639-1 code of culture. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="49" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a61bd21f460ba0f8c70fa2c3374683cae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Address</definition>
+        <argsstring></argsstring>
+        <name>Address</name>
+        <briefdescription>
+<para>Geographic address. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a94f8e1c9facd3d1be636407a40af99fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.NationId</definition>
+        <argsstring></argsstring>
+        <name>NationId</name>
+        <briefdescription>
+<para>Unique code of a state taken from GeoNames. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a38c8e1e9ff69430cd0a5032991a9f689" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Nation</definition>
+        <argsstring></argsstring>
+        <name>Nation</name>
+        <briefdescription>
+<para>Name of the state/country taken from GeoNames, if NationId is defined. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="61" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a97da36c75361e94a716778a5785f74ee" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.ProvinceId</definition>
+        <argsstring></argsstring>
+        <name>ProvinceId</name>
+        <briefdescription>
+<para>Unique code of a region/districy/federal state taken from GeoNames. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="65" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a2d1cd5bfc795e2fa1e5c5b332d8e3075" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Province</definition>
+        <argsstring></argsstring>
+        <name>Province</name>
+        <briefdescription>
+<para>Name of the region/districy/federal state taken from GeoNames, if ProvinceId is defined. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="69" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab42a170a855b28a19ed68c753f73f76b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.CityId</definition>
+        <argsstring></argsstring>
+        <name>CityId</name>
+        <briefdescription>
+<para>Unique code of a city taken from GeoNames. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="73" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1afbd4982e0aee407756f8c8c360bb4781" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.City</definition>
+        <argsstring></argsstring>
+        <name>City</name>
+        <briefdescription>
+<para>Name of the city taken from GeoNames, if CityId is defined. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="77" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a1b02c4dd76e0e31b362ad17137007926" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.PostalCode</definition>
+        <argsstring></argsstring>
+        <name>PostalCode</name>
+        <briefdescription>
+<para>Zip code or postal code. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="81" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a1e01c146f36f7afee253eecabdb68eb6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Phone</definition>
+        <argsstring></argsstring>
+        <name>Phone</name>
+        <briefdescription>
+<para>Main contact phone. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="85" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab78227e66221e4496e30c89da896ae60" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Fax</definition>
+        <argsstring></argsstring>
+        <name>Fax</name>
+        <briefdescription>
+<para>Fax number, if useful. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="89" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a4127a9789e6ef6d88a5716d49b849c2c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.VATCode</definition>
+        <argsstring></argsstring>
+        <name>VATCode</name>
+        <briefdescription>
+<para>VAT code. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="93" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ad5f87093dab4f6c527d11469a1327823" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Source</definition>
+        <argsstring></argsstring>
+        <name>Source</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="94" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ade5097eba20b5d4cd947fe4f7373ad68" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.Crew.NewsletterSubscription</definition>
+        <argsstring></argsstring>
+        <name>NewsletterSubscription</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="95" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1add423ccd4714f84b96c7b160e32b1f3a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.DocumentId</definition>
+        <argsstring></argsstring>
+        <name>DocumentId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="96" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ac1488353db00e6f70a9d08bd51f60765" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Crew.DocumentType</definition>
+        <argsstring></argsstring>
+        <name>DocumentType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="97" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a4ca140bf179c300fdc628e7adfeaf21a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.DocumentNumber</definition>
+        <argsstring></argsstring>
+        <name>DocumentNumber</name>
+        <briefdescription>
+<para>Code of the document. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="101" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1adbec8bf85d4519f15905240e9d958282" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Crew.DocumentReleaseDate</definition>
+        <argsstring></argsstring>
+        <name>DocumentReleaseDate</name>
+        <briefdescription>
+<para>Release date of the document. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="105" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a0c8be8eab91452bb701244be36454481" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Crew.DocumentDate</definition>
+        <argsstring></argsstring>
+        <name>DocumentDate</name>
+        <briefdescription>
+<para>Expiration date of the document. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="109" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ac78fee3699c5006ea7b0ded44a2608af" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.DocumentRelease</definition>
+        <argsstring></argsstring>
+        <name>DocumentRelease</name>
+        <briefdescription>
+<para>Place of release of the document. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="113" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="113" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ae106349df2e653c9fdd5825b2c5e40e6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Crew.BirthDate</definition>
+        <argsstring></argsstring>
+        <name>BirthDate</name>
+        <briefdescription>
+<para>Date of birth of the person. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="117" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="117" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a94bed45d8c462214a0c4febdabe802f4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.BirthLocation</definition>
+        <argsstring></argsstring>
+        <name>BirthLocation</name>
+        <briefdescription>
+<para>Name of birth city. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="121" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="121" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ad3fee2e527e27cce12b74e2750d33ede" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Gender</definition>
+        <argsstring></argsstring>
+        <name>Gender</name>
+        <briefdescription>
+<para>Date of birth of the person. Values: M = man F = woman </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="127" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a3fa7797447da2fea1a50e96e1a2de3c6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.Plate</definition>
+        <argsstring></argsstring>
+        <name>Plate</name>
+        <briefdescription>
+<para>Plate code of the card from the main contact. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="131" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="131" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab83929cf8039cdb76e17ff06014cd08f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.Crew.Exported</definition>
+        <argsstring></argsstring>
+        <name>Exported</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="132" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="132" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a60573ad4875f86d80662d37734727b8d" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Crew.NotesData</definition>
+        <argsstring></argsstring>
+        <name>NotesData</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="133" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="133" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a8e54d357e0bff5f0e9dff8d5d2a46ed4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order" kindref="compound">Order</ref></type>
+        <definition>virtual Order Ipertrade.BookingFor.Products.Crew.Order</definition>
+        <argsstring></argsstring>
+        <name>Order</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="135" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1afc6e5ef7776859e8c9658276388e767c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" kindref="compound">Crew</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Crew&gt; Ipertrade.BookingFor.Products.Crew.ChildCrews</definition>
+        <argsstring></argsstring>
+        <name>ChildCrews</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="136" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ad5d2ac572f1999c381ef7e7e16908682" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" kindref="compound">Crew</ref></type>
+        <definition>virtual Crew Ipertrade.BookingFor.Products.Crew.ParentCrew</definition>
+        <argsstring></argsstring>
+        <name>ParentCrew</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="137" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="137" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a55acd1bf0b1bae3cfd8933f2cdd9fa54" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Products.Crew.Crew</definition>
+        <argsstring>()</argsstring>
+        <name>Crew</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="14" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Anagraphic information of people from a reservation request </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="482">
+        <label>Ipertrade.BookingFor.Products.Crew</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew"/>
+        <childnode refid="483" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="483">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="484">
+        <label>Ipertrade.BookingFor.Products.Crew</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew"/>
+        <childnode refid="485" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="485">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Crew.cs" bodystart="12" bodyend="138"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a61bd21f460ba0f8c70fa2c3374683cae" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Address</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ae106349df2e653c9fdd5825b2c5e40e6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>BirthDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a94bed45d8c462214a0c4febdabe802f4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>BirthLocation</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1afc6e5ef7776859e8c9658276388e767c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>ChildCrews</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1afbd4982e0aee407756f8c8c360bb4781" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>City</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab42a170a855b28a19ed68c753f73f76b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>CityId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a55acd1bf0b1bae3cfd8933f2cdd9fa54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Crew</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1aa0e7edfd5b323431c90bc474b37f5f6e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>CrewId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a1b998edeaf114cc1e067b1eca1118864" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Culture</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a0c8be8eab91452bb701244be36454481" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DocumentDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1add423ccd4714f84b96c7b160e32b1f3a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DocumentId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a4ca140bf179c300fdc628e7adfeaf21a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DocumentNumber</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ac78fee3699c5006ea7b0ded44a2608af" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DocumentRelease</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1adbec8bf85d4519f15905240e9d958282" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DocumentReleaseDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ac1488353db00e6f70a9d08bd51f60765" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>DocumentType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a8095bf22f3ca3a43d82965c4dae19c94" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Email</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab83929cf8039cdb76e17ff06014cd08f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Exported</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1add46316786d784fef7c8bbfef21833c2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>ExternalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab78227e66221e4496e30c89da896ae60" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Fax</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1af014d371d185c9cd82a3fdd63556ae18" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>FirstName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ad3fee2e527e27cce12b74e2750d33ede" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Gender</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1afa7157c56d277234040345b6411ccb1b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>LastName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a4384210541d505c9a110e1301ebedaa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a38c8e1e9ff69430cd0a5032991a9f689" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Nation</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a94f8e1c9facd3d1be636407a40af99fd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>NationId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ade5097eba20b5d4cd947fe4f7373ad68" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>NewsletterSubscription</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a60573ad4875f86d80662d37734727b8d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>NotesData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a8e54d357e0bff5f0e9dff8d5d2a46ed4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Order</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ab6b0a3ece52c036e3816839bc7b120d9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>OrderId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ad5d2ac572f1999c381ef7e7e16908682" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>ParentCrew</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1af7b8a0ed99c2669864c32c43b2852c08" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>ParentCrewId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a1e01c146f36f7afee253eecabdb68eb6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Phone</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a3fa7797447da2fea1a50e96e1a2de3c6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Plate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a1b02c4dd76e0e31b362ad17137007926" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>PostalCode</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a2d1cd5bfc795e2fa1e5c5b332d8e3075" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Province</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a97da36c75361e94a716778a5785f74ee" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>ProvinceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1ad5f87093dab4f6c527d11469a1327823" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>Source</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew_1a4127a9789e6ef6d88a5716d49b849c2c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Crew</scope><name>VATCode</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

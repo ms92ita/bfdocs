@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::Order</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseRequest</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1aa2d867ee64a721e740b72fd42184c29c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Order.ParentOrderId</definition>
+        <argsstring></argsstring>
+        <name>ParentOrderId</name>
+        <briefdescription>
+<para>Identifier of the main request. It can be useful if you have multiple requested items in the same request </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="217" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="217" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a0e94fbbc34caeec9c608ee9403cf98d3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.Order.PaxNumber</definition>
+        <argsstring></argsstring>
+        <name>PaxNumber</name>
+        <briefdescription>
+<para>Total number of people from a reservation request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="221" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="221" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a1737da175b7e086f9352923cddd161b1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Products.Order.DepositAmount</definition>
+        <argsstring></argsstring>
+        <name>DepositAmount</name>
+        <briefdescription>
+<para>Total value of a deposit for the request, if needed. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="226" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="226" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a494d6218a35c1fc5a840b652c87668cd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Products.Order.FeesAmount</definition>
+        <argsstring></argsstring>
+        <name>FeesAmount</name>
+        <briefdescription>
+<para>Total value of a taxes and fees for the request, if needed. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="230" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="230" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a3292d4e9c84ce55632210b7f4a3a47e2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Products.Order.TotalAmount</definition>
+        <argsstring></argsstring>
+        <name>TotalAmount</name>
+        <briefdescription>
+<para>Similar to OriginalTotalAmount, but the realted merchant can override the original value if it wants to apply a different value such as a manual discount. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="236" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="236" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a33ea3eb5bb604d9168e2efe068f3ca2a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Products.Order.OriginalTotalAmount</definition>
+        <argsstring></argsstring>
+        <name>OriginalTotalAmount</name>
+        <briefdescription>
+<para>Total value of reservation from the request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="240" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="240" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a7800edcf02e81dfe627616bfd9c64814" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Order.StartDate</definition>
+        <argsstring></argsstring>
+        <name>StartDate</name>
+        <briefdescription>
+<para>Start date of the reservation request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="244" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="244" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a7b31179a65277f70cf56cd576d9406f9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Order.EndDate</definition>
+        <argsstring></argsstring>
+        <name>EndDate</name>
+        <briefdescription>
+<para>End date of the reservation request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="248" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="248" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a204c7f77a4d2ae532f8db1ce6219b019" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Order.PaymentDate</definition>
+        <argsstring></argsstring>
+        <name>PaymentDate</name>
+        <briefdescription>
+<para>Date of the accepted payment, normally from a gateway. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="252" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="252" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1add8019f66b9b045cc3125a2d5a945f03" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Order.AcceptanceDate</definition>
+        <argsstring></argsstring>
+        <name>AcceptanceDate</name>
+        <briefdescription>
+<para>Date of a confirmation from a channel manager or some external software. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="256" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="256" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a1212961986e94609345fb375f23f1ba7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.Order.CCdata</definition>
+        <argsstring></argsstring>
+        <name>CCdata</name>
+        <briefdescription>
+<para>Hashed informations of the credit card, if requested. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="260" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="260" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a53725a62f6395876ddeb5fa2bbdef483" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_item" kindref="compound">OrderItem</ref> &gt;</type>
+        <definition>virtual ICollection&lt;OrderItem&gt; Ipertrade.BookingFor.Products.Order.OrderItems</definition>
+        <argsstring></argsstring>
+        <name>OrderItems</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="262" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="262" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1acfd73b0d8febeafe6e71571d2cbdc0aa" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_payment" kindref="compound">OrderPayment</ref> &gt;</type>
+        <definition>virtual ICollection&lt;OrderPayment&gt; Ipertrade.BookingFor.Products.Order.Payments</definition>
+        <argsstring></argsstring>
+        <name>Payments</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="263" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="263" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a775a5df7678c93a29b5de5c29eebd2a4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order" kindref="compound">Order</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Order&gt; Ipertrade.BookingFor.Products.Order.ChildOrders</definition>
+        <argsstring></argsstring>
+        <name>ChildOrders</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="264" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="264" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a3eb52871b18adf82b8f0038b32d77d52" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_crew" kindref="compound">Crew</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Crew&gt; Ipertrade.BookingFor.Products.Order.Crews</definition>
+        <argsstring></argsstring>
+        <name>Crews</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="265" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="265" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a93fb08c3b47210cb79409c51c1b9262b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order" kindref="compound">Order</ref></type>
+        <definition>virtual Order Ipertrade.BookingFor.Products.Order.ParentOrder</definition>
+        <argsstring></argsstring>
+        <name>ParentOrder</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="266" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="266" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1aa421d6948d11ce23365100ed9935d667" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Products.Order.Order</definition>
+        <argsstring>()</argsstring>
+        <name>Order</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="205" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="205" bodyend="212"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Detailed request for an item: for example a reservation request with time period and total value. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="915">
+        <label>Ipertrade.BookingFor.Products.Order</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order"/>
+        <childnode refid="916" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="916">
+        <label>BaseRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request"/>
+        <childnode refid="917" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="917">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="918">
+        <label>Ipertrade.BookingFor.Products.Order</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order"/>
+        <childnode refid="919" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="919">
+        <label>BaseRequest</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request"/>
+        <childnode refid="920" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="920">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" line="204" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/Order.cs" bodystart="203" bodyend="267"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1add8019f66b9b045cc3125a2d5a945f03" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>AcceptanceDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a3f59adf916de65c30d1593944f3cc94f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>ArchivedAsSpam</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a68fa0dcd17ef4ae0bc213fee029e4f89" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>BaseRequest</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a1212961986e94609345fb375f23f1ba7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>CCdata</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a775a5df7678c93a29b5de5c29eebd2a4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>ChildOrders</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1afa070cb2516ffd7fc27232c43c70b8b4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>CreationDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a3eb52871b18adf82b8f0038b32d77d52" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Crews</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a57955f80c1de23c48009405137acaa3b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Customer</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a5a7d3ec22feb28fc90e58056ef36a77c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>CustomerCRM</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a6ff7311f69789bf5388eb507dd27c781" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>CustomerData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a5a160cc6204cd97e65a6e252c9233bbe" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>CustomerId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a1737da175b7e086f9352923cddd161b1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>DepositAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a7b31179a65277f70cf56cd576d9406f9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>EndDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1afb98a620701cbbf0f80ca70a8c08daa2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Exportable</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a5884c7259bf88b0b36dfcfffeb9c20c1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>ExternalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a494d6218a35c1fc5a840b652c87668cd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>FeesAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1aa5585e15e7b8ead1e615a3ef107df6d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Label</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1ae2e1b21f7e9521ecadf266fa6ecc81d8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a4f4eeb1e33531cdaae780450fb7996b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a8a9a37a51ad57292741f869644ffa53d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Messages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1aee812863f566efd298d5e9694c6b9781" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>NotesData</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1aa421d6948d11ce23365100ed9935d667" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Order</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a2649d92cfc180ad29114ca930051540b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>OrderId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a53725a62f6395876ddeb5fa2bbdef483" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>OrderItems</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1ace238454e30e90f91db0a190efe227b5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>OrderType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a789fd1783e9e5916a69e0ef9cc8c9348" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>OrderTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a33ea3eb5bb604d9168e2efe068f3ca2a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>OriginalTotalAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a93fb08c3b47210cb79409c51c1b9262b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>ParentOrder</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1aa2d867ee64a721e740b72fd42184c29c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>ParentOrderId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a0e94fbbc34caeec9c608ee9403cf98d3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>PaxNumber</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a204c7f77a4d2ae532f8db1ce6219b019" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>PaymentDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1acfd73b0d8febeafe6e71571d2cbdc0aa" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Payments</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1ae296ad476ea8db3d4c740b0210016222" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a8ad939e40ccbf7410ac22b62fb5d4083" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a3755574e9d3b0221bac957bb2e981d7d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>RequestedItemId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a7800edcf02e81dfe627616bfd9c64814" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>StartDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a0627217c340c45cab2a7b24103824d8b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>Status</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_order_1a3292d4e9c84ce55632210b7f4a3a47e2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>TotalAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a36174cf119f54e0ddc0c234d13abee9e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>UserCancelDate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1a3bd401b83652b804fad211d110df66d4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>UserCulture</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1aeea34f021f32510597c1a50d075a9552" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>UserId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_request_1add03de74b8a327392043d847bd193e7d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Order</scope><name>UserNotes</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

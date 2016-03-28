@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="namespace_ipertrade_1_1_booking_for" kind="namespace" language="C#">
+    <compoundname>Ipertrade::BookingFor</compoundname>
+    <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_admin">Ipertrade::BookingFor::Admin</innernamespace>
+    <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_entities">Ipertrade::BookingFor::Entities</innernamespace>
+    <innernamespace refid="namespace_ipertrade_1_1_booking_for_1_1_products">Ipertrade::BookingFor::Products</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="[generated]" line="1" column="1"/>
+  </compounddef>
+</doxygen>

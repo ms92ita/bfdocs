@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="namespace_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types" kind="namespace" language="C#">
+    <compoundname>Ipertrade::BookingFor::Products::Admin::CustomTypes</compoundname>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_attribute_item" prot="public">Ipertrade::BookingFor::Products::Admin::CustomTypes::AttributeItem</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_offer" prot="public">Ipertrade::BookingFor::Products::Admin::CustomTypes::Offer</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_data" prot="public">Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchData</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_admin_1_1_custom_types_1_1_search_param" prot="public">Ipertrade::BookingFor::Products::Admin::CustomTypes::SearchParam</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/AttributeItem.cs" line="9" column="1"/>
+  </compounddef>
+</doxygen>

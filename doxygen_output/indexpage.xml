@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="indexpage" kind="page">
+    <compoundname>index</compoundname>
+    <title>Introduction</title>
+    <innerpage refid="_overview"></innerpage>
+    <detaileddescription>
+<para>The BookingFor API allows developers to expand and build on the BookingFor Platform. The API makes it easy to create web, desktop &amp; mobile applications that directly integrate and interact with your BookingFor subscription. This API is built around open standards (OData, WCF) to streamline development and maintain the integrity of your data. For a brief introduction please read the <ref refid="_overview" kindref="compound">Overview</ref>. <hruler/>
+ </para>    </detaileddescription>
+  </compounddef>
+</doxygen>

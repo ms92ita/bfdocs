@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IPrincipal</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1aa6ab08d346fa11c2453a9f00da7bf76b" prot="private" static="no" mutable="no">
+        <type>readonly string[]</type>
+        <definition>readonly string [] Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.roles</definition>
+        <argsstring></argsstring>
+        <name>roles</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a8201498ac1f6a4794026398a0777f309" prot="private" static="no" mutable="no">
+        <type>readonly IIdentity</type>
+        <definition>readonly IIdentity Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.identity</definition>
+        <argsstring></argsstring>
+        <name>identity</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="13" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a72a6cbe37ee8bf894ae9b04b4a64cb44" prot="private" static="no" mutable="no">
+        <type>readonly <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
+        <definition>readonly AspNetUser Ipertrade.BookingFor.Entities.ServiceCustomPrincipal._user</definition>
+        <argsstring></argsstring>
+        <name>_user</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a4728af019c3860655a57e92f78c5e54e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal" kindref="compound">Portal</ref></type>
+        <definition>Portal Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.Portal</definition>
+        <argsstring></argsstring>
+        <name>Portal</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1abfa1779f65a515eeef6e122d0ac6898a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="yes" protectedsettable="no">
+        <type>IIdentity</type>
+        <definition>IIdentity Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.Identity</definition>
+        <argsstring></argsstring>
+        <name>Identity</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="33" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a2c2f3e08a644c93c47c0a848b93d8d68" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
+        <definition>AspNetUser Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.User</definition>
+        <argsstring></argsstring>
+        <name>User</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a6f3038999c0b888ff42c6b019bfc173d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.ServiceCustomPrincipal</definition>
+        <argsstring>(AspNetUser user, IIdentity identity, string[] roles)</argsstring>
+        <name>ServiceCustomPrincipal</name>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
+          <declname>user</declname>
+        </param>
+        <param>
+          <type>IIdentity</type>
+          <declname>identity</declname>
+        </param>
+        <param>
+          <type>string[]</type>
+          <declname>roles</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="16" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1abaae998d43b52e23400604052780bfaf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.ServiceCustomPrincipal.IsInRole</definition>
+        <argsstring>(string role)</argsstring>
+        <name>IsInRole</name>
+        <param>
+          <type>string</type>
+          <declname>role</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1893">
+        <label>Ipertrade.BookingFor.Entities.ServiceCustomPrincipal</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal"/>
+        <childnode refid="1894" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1894">
+        <label>IPrincipal</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1895">
+        <label>Ipertrade.BookingFor.Entities.ServiceCustomPrincipal</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal"/>
+        <childnode refid="1896" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1896">
+        <label>IPrincipal</label>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/ServiceCustomPrincipal.cs" bodystart="10" bodyend="44"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a72a6cbe37ee8bf894ae9b04b4a64cb44" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>_user</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1abfa1779f65a515eeef6e122d0ac6898a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>Identity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a8201498ac1f6a4794026398a0777f309" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>identity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1abaae998d43b52e23400604052780bfaf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>IsInRole</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a4728af019c3860655a57e92f78c5e54e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1aa6ab08d346fa11c2453a9f00da7bf76b" prot="private" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>roles</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a6f3038999c0b888ff42c6b019bfc173d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>ServiceCustomPrincipal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_service_custom_principal_1a2c2f3e08a644c93c47c0a848b93d8d68" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::ServiceCustomPrincipal</scope><name>User</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

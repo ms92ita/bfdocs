@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_simple" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::MerchantCategorySimple</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_simple_1a7de87b4d8ded13420220f32939014f7c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.MerchantCategorySimple.MerchantCategoryId</definition>
+        <argsstring></argsstring>
+        <name>MerchantCategoryId</name>
+        <briefdescription>
+<para>Identifier of the category. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" line="19" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_simple_1a58891a972f601183c9d3c69b668db21e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.MerchantCategorySimple.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+<para>Localized Name property based on request. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" line="23" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_simple_1aee56da2453bd1cac958eaf2fec55e65f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.MerchantCategorySimple.GroupOnSearch</definition>
+        <argsstring></argsstring>
+        <name>GroupOnSearch</name>
+        <briefdescription>
+<para>If true, on the search results the realted merchant has a grouped view of all his products list and the paging will be realted to the number of merchant, independently from the number of products. if false, on the search results all products have its own view and the paging will be realted to the number of single product. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" line="28" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Simplified informations of class <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category" kindref="compound">MerchantCategory</ref>. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/MerchantCategorySimple.cs" bodystart="14" bodyend="30"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_simple_1aee56da2453bd1cac958eaf2fec55e65f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantCategorySimple</scope><name>GroupOnSearch</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_simple_1a7de87b4d8ded13420220f32939014f7c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantCategorySimple</scope><name>MerchantCategoryId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_simple_1a58891a972f601183c9d3c69b668db21e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::MerchantCategorySimple</scope><name>Name</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

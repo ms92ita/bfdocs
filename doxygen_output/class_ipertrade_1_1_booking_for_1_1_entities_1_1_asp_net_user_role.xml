@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_role" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::AspNetUserRole</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IdentityUserRole&lt; string &gt;</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_role_1aef2b7613cb29d2276522011c90837c41" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user" kindref="compound">AspNetUser</ref></type>
+        <definition>AspNetUser Ipertrade.BookingFor.Entities.AspNetUserRole.User</definition>
+        <argsstring></argsstring>
+        <name>User</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserRole.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserRole.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_role_1a22d4da8a1a01c85496000c871b0bc167" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_role" kindref="compound">AspNetRole</ref></type>
+        <definition>AspNetRole Ipertrade.BookingFor.Entities.AspNetUserRole.Role</definition>
+        <argsstring></argsstring>
+        <name>Role</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserRole.cs" line="15" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserRole.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="46">
+        <label>Ipertrade.BookingFor.Entities.AspNetUserRole</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_role"/>
+        <childnode refid="47" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="47">
+        <label>IdentityUserRole&lt; string &gt;</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="48">
+        <label>Ipertrade.BookingFor.Entities.AspNetUserRole</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_role"/>
+        <childnode refid="49" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="49">
+        <label>IdentityUserRole&lt; string &gt;</label>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserRole.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/AspNetUserRole.cs" bodystart="11" bodyend="16"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_role_1a22d4da8a1a01c85496000c871b0bc167" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserRole</scope><name>Role</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_asp_net_user_role_1aef2b7613cb29d2276522011c90837c41" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::AspNetUserRole</scope><name>User</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

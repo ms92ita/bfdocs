@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1a9f6bc65444da8afebf40f61875061867" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.Authentication.Login</definition>
+        <argsstring></argsstring>
+        <name>Login</name>
+        <briefdescription>
+<para>Gets or sets the login. </para>        </briefdescription>
+        <detaileddescription>
+<para>The login.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2526" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2526" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1ab902a1f1ef16aa94b5a0c6b947a2d34c" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Admin.Modules.bookingfor.OTAServices.Authentication.Password</definition>
+        <argsstring></argsstring>
+        <name>Password</name>
+        <briefdescription>
+<para>Gets or sets the password. </para>        </briefdescription>
+        <detaileddescription>
+<para>The password.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2533" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2533" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="2520" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" bodystart="2519" bodyend="2534"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1a9f6bc65444da8afebf40f61875061867" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</scope><name>Login</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication_1ab902a1f1ef16aa94b5a0c6b947a2d34c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</scope><name>Password</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::Booking::SelectablePrice</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.Booking.Price</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price_1a2d4e54de54afa5939650408d15670f16" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Products.Booking.SelectablePrice.SelectablePrice</definition>
+        <argsstring>()</argsstring>
+        <name>SelectablePrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/Price.cs" line="294" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/Price.cs" bodystart="294" bodyend="301"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1868">
+        <label>Price</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price"/>
+        <childnode refid="1869" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1867">
+        <label>Ipertrade.BookingFor.Products.Booking.SelectablePrice</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price"/>
+        <childnode refid="1868" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1869">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1871">
+        <label>Price</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price"/>
+        <childnode refid="1872" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1870">
+        <label>Ipertrade.BookingFor.Products.Booking.SelectablePrice</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price"/>
+        <childnode refid="1871" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1872">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/Price.cs" line="293" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking/Price.cs" bodystart="292" bodyend="302"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a26eae0fbdeb1984c4d8f34866adccbfc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a842a105b1dc24d59240b4a13784b87c1" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Availabilities</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a39de72b92676a04e7d89568ca84ca80c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>CalculateValueType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1adea36f634943701f407f9f24681983bd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>CanQtComputePaxes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a00f89e7f67f572664419e52b98ebfbd8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>ChildPrices</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a53b9bf23482b9f331f4fa1df3f53072f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>DaySpan</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a84dfbdb1d48b4c14fd7a710a1a64ac09" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>DefaultImg</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a922cec0ab5b54aba95441efdd328f471" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>DefaultQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a4f5b510087db853e7f3ba5e4a264ea13" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a933861b5acd98b4cd2c9414097bd0f4c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Descriptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a9aa21c20b045d9e43fe5c77847bb9a78" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a52a5150a50d8aa208cc6b776c7d4d2ed" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>FixedPriceValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1af58158cd5ae0d548332f4bb6eaaccf2f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>FixedValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ac9a9db5bc02b996817447cedcfbdc699" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsComputable</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a182df8d1567063e9614c180e777d06be" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsForPaxes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aa6cd13d6f94099cd46e6dab8ccf6f98e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsGroup</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a17e6b4b0e1a8ac3ac048693c43214106" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsLimitedAge</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a9e1a614c81a5ff322760f85e75c0da6a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsLimitedAvailability</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aac703677ceadfb6b2247845e98225881" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsLimitedPax</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a31d0aeefa4ed081642aebbcc95f783dd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsLimitedProducts</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a17b4300d2b21cfccd9d045944633f9b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsLimitedQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1af287ec99bf51661bccf350f1be247851" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsLimitedStay</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a4e571cb6cf89bc8680aed4a7a7aecf10" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsRequired</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ab79d24aed725155b2b94b13417657ec4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>IsSelectable</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a7c2e4c16729a305ea7ea2421db93b14f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MaxAge</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a316586c4b3af43a331649ec9d74e7d83" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MaxPax</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a01f4cf3f6cef5d675d8e76b0e8641658" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MaxQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a4317fd40b8b636d810d8c36939bfcea2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MaxStay</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aaacce37efb06ed5b6ac190b87ae25374" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Merchant</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a2b5f918c5b8c0525792939114895ff6e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MerchantId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a7de92803f051e373f72dffd3bdc0a486" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MinAge</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ad50e0c7b36b7b385c72a7994f07dddc4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MinPax</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ae0d01036ba076186025cfdcf162da29d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MinQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a0374b78f185b4225aa7553a77543c186" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>MinStay</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1affaf15e4537498c2a64d6df9d56dfb26" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ac32a11304e3c881a0f509a34a0f0949d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Names</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ad2088d779638928b6a52d53337340be5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>OldId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a65435ee4df648ee917ef363b6c42bfdf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Order</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a03456e9c7bceb6e88ba7ce0f55f464dc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Packages</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ab29f3443822dd66b4aaa3bf8e4159799" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>ParentPrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aa46719e11277b7b98e6f678d55dc3fa9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>ParentPriceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1afb1412d0532dcb66508bb3294fdb950d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Photos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ae96efe05f2ee92b9797db57de4bc35f0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ab916a5b1385b10eb6565d61a1114ca76" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Price</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aa83a91010acaac1b1c4d30cc5a03e6c2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>PriceDetails</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ac772bf7d11dbdb3cdea9ca28912691cf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>PriceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1af455dd9c3753254dd959aacf6ddc14e6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>PriceTemplate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ae7a93ce7f42c1179159c3acc6528d7a2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>PriceTemplateId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a8ea25c7d9d4da93437b7e6f8868128d8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Products</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a11fed07377488b02df08a16dc6620e9c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>RatePlans</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aed8b82f4346c98dc29eeadcec5ad660a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>RefId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1ad10ee905e38ea4255fcaa1acb1f010c6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>ReplacedPriceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1aa6b15cd5ec3aaf343b83a32354559f9e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>ReplacementPrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a216d5ed8ae5b924ed19813af34d51e2f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>ReplacementPrices</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_selectable_price_1a2d4e54de54afa5939650408d15670f16" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>SelectablePrice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a7b9127a80fcb0bb82cdd2cd8d2385b79" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>StartDay</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a965747fcdde8d53f3934ee7d2de63f10" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>Tags</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a55771b527dd590d321e4f81ee7944272" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>TotalAvailableQt</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_price_1a9c28c008ad8c17611aa2a3d5685fc393" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::SelectablePrice</scope><name>VariationPlans</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

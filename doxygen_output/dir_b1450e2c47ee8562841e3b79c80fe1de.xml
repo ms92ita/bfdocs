@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="dir_b1450e2c47ee8562841e3b79c80fe1de" kind="dir">
+    <compoundname>D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes</compoundname>
+    <innerfile refid="_attribute_item_8cs">AttributeItem.cs</innerfile>
+    <innerfile refid="_dynamic_data_8cs">DynamicData.cs</innerfile>
+    <innerfile refid="_offer_8cs">Offer.cs</innerfile>
+    <innerfile refid="_search_data_8cs">SearchData.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin/CustomTypes/"/>
+  </compounddef>
+</doxygen>

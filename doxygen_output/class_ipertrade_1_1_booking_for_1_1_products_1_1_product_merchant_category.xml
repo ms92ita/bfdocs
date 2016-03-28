@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::ProductMerchantCategory</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.MerchantCategory</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a2caac1b9c8921e3aec999a4e7ceadf41" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.ViewPublicInfos</definition>
+        <argsstring></argsstring>
+        <name>ViewPublicInfos</name>
+        <briefdescription>
+<para>If set to true, the address and user informations are viewable in the public area. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae7235d74a8798c8dbb8ef045124d5b0f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.ViewBankingInfos</definition>
+        <argsstring></argsstring>
+        <name>ViewBankingInfos</name>
+        <briefdescription>
+<para>If set to true, the banking infos of the subscriptions manager are viewable in the backend e.g. for a merchant credit chargeing with a bank transfer. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="34" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a1e1efa5ed8a2207370ff9150d4b093e3" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.ViewPaymentInfos</definition>
+        <argsstring></argsstring>
+        <name>ViewPaymentInfos</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="35" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a6b3ecc9494d5cafacee3984cd18b5b50" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.EditImageInfos</definition>
+        <argsstring></argsstring>
+        <name>EditImageInfos</name>
+        <briefdescription>
+<para>If set to true, related merchant is allowed to insert its own logo. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="39" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a161508e216f7e16deb1b8b36b68886d5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.AllowImageGallery</definition>
+        <argsstring></argsstring>
+        <name>AllowImageGallery</name>
+        <briefdescription>
+<para>If set to true, related merchant is allowed to insert a photogallery. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a4f18b4f219aa70d1d3e96c5fe573d689" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.AllowMainPageChoice</definition>
+        <argsstring></argsstring>
+        <name>AllowMainPageChoice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="44" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae0d1cbc9ba39ed303d6007b267000298" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.AllowProductRating</definition>
+        <argsstring></argsstring>
+        <name>AllowProductRating</name>
+        <briefdescription>
+<para>If set to true, in the public area reviews for a product is allowed. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1afe68356c0d2f700b7848978b2a9817c5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.EditMapInfos</definition>
+        <argsstring></argsstring>
+        <name>EditMapInfos</name>
+        <briefdescription>
+<para>If set to true, the merchant can edit its own address and geographic infos. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="52" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1affd838ec02392e28a5408b09c129b3b4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.EditProductMapInfos</definition>
+        <argsstring></argsstring>
+        <name>EditProductMapInfos</name>
+        <briefdescription>
+<para>If set to true, in the backend area the merchant can insert address and geographic infos for a single product. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="56" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="56" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ad4c5aefa54a9daecf3e8622eb45134b4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.EditDetailedInfos</definition>
+        <argsstring></argsstring>
+        <name>EditDetailedInfos</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="57" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a9e2da6bbf96725dcfd40a0187084f23f" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.ProductMerchantCategory.ProductTypes</definition>
+        <argsstring></argsstring>
+        <name>ProductTypes</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="58" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ac030a9abcff836db73a92c055f3e6a86" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.HasRatings</definition>
+        <argsstring></argsstring>
+        <name>HasRatings</name>
+        <briefdescription>
+<para>If set to true, the merchant is allowed to receive ratings. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="62" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1aa731dd86bd4d23e421cd89398402a8b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.HasRequests</definition>
+        <argsstring></argsstring>
+        <name>HasRequests</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="63" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a29d486ba154e543fd310416fe71a8bf6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.IsForRequest</definition>
+        <argsstring></argsstring>
+        <name>IsForRequest</name>
+        <briefdescription>
+<para>If set to true, the merchant is allowed to receive scalar requests. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="67" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a701df79579335a66168296bac9d94357" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.HasOffers</definition>
+        <argsstring></argsstring>
+        <name>HasOffers</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="68" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a56a0ab8496d5218939ae49a1ca1023cf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Products.ProductMerchantCategory.GroupOnSearch</definition>
+        <argsstring></argsstring>
+        <name>GroupOnSearch</name>
+        <briefdescription>
+<para>If set to true, the search results for products are grouped in a single &quot;result&quot; with the owner merchant. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="72" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a0aec721e659cf0cd997d2a61a48dd0d7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ProductMerchantCategory.RatingsContext</definition>
+        <argsstring></argsstring>
+        <name>RatingsContext</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="73" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae8d277870ab542b7ea809357c1c68dae" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ProductMerchantCategory.RatingsType</definition>
+        <argsstring></argsstring>
+        <name>RatingsType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="74" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a23ac52f53bf65ae434b55ec85041a286" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.ProductMerchantCategory.RatingsModeration</definition>
+        <argsstring></argsstring>
+        <name>RatingsModeration</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="75" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a53cd1414bc1b377982265992dd251716" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Products.ProductMerchantCategory.Configuration</definition>
+        <argsstring></argsstring>
+        <name>Configuration</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="77" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a4abbf04c0cce80ddb8ddc70c4575c2a9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_merchant_category_limitation" kindref="compound">MerchantCategoryLimitation</ref> &gt;</type>
+        <definition>virtual ICollection&lt;MerchantCategoryLimitation&gt; Ipertrade.BookingFor.Products.ProductMerchantCategory.CategoryLimitations</definition>
+        <argsstring></argsstring>
+        <name>CategoryLimitations</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="78" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1aba148f053c3dc747b82a9ccce035bb8e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association" kindref="compound">PayableServiceMerchantCategoryAssociation</ref> &gt;</type>
+        <definition>virtual ICollection&lt;PayableServiceMerchantCategoryAssociation&gt; Ipertrade.BookingFor.Products.ProductMerchantCategory.PayableServiceAssociations</definition>
+        <argsstring></argsstring>
+        <name>PayableServiceAssociations</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="80" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae35a8c73c6c024a79998913f44a2f840" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_credit_acquire_option" kindref="compound">CreditAcquireOption</ref> &gt;</type>
+        <definition>virtual ICollection&lt;CreditAcquireOption&gt; Ipertrade.BookingFor.Products.ProductMerchantCategory.CreditAcquireOptions</definition>
+        <argsstring></argsstring>
+        <name>CreditAcquireOptions</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="81" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1aecc4e35424d594afa8a0dddde6b4f733" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_service" kindref="compound">Service</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Service&gt; Ipertrade.BookingFor.Products.ProductMerchantCategory.Services</definition>
+        <argsstring></argsstring>
+        <name>Services</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="82" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a6130cabf63ebefd8074c3c539812b4db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Products.ProductMerchantCategory.ProductMerchantCategory</definition>
+        <argsstring>()</argsstring>
+        <name>ProductMerchantCategory</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="17" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="17" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Extension for MerchantCategory class with some additional configurations. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1560">
+        <label>Ipertrade.BookingFor.Products.ProductMerchantCategory</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category"/>
+        <childnode refid="1561" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1561">
+        <label>MerchantCategory</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category"/>
+        <childnode refid="1562" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1562">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1563">
+        <label>Ipertrade.BookingFor.Products.ProductMerchantCategory</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category"/>
+        <childnode refid="1564" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1564">
+        <label>MerchantCategory</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category"/>
+        <childnode refid="1565" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1565">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/ProductMerchantCategory.cs" bodystart="15" bodyend="83"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a161508e216f7e16deb1b8b36b68886d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>AllowImageGallery</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a4f18b4f219aa70d1d3e96c5fe573d689" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>AllowMainPageChoice</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae0d1cbc9ba39ed303d6007b267000298" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>AllowProductRating</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a11495d48cf440ec6671886860eef8dbb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>AllTranslations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a4abbf04c0cce80ddb8ddc70c4575c2a9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>CategoryLimitations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a3b32ff6d7725bbc4a17cfc5d229228b3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ChildCategories</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a53cd1414bc1b377982265992dd251716" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Configuration</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae35a8c73c6c024a79998913f44a2f840" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>CreditAcquireOptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1ac2fb71b399dd4999a6ccbf53faa2585a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1af6140c588dea3547dc654be8dc3cc93d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Descriptions</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ad4c5aefa54a9daecf3e8622eb45134b4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>EditDetailedInfos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a6b3ecc9494d5cafacee3984cd18b5b50" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>EditImageInfos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1afe68356c0d2f700b7848978b2a9817c5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>EditMapInfos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1affd838ec02392e28a5408b09c129b3b4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>EditProductMapInfos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a66ac814c61ecfaa0a03a0f621185630d" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Enabled</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a56a0ab8496d5218939ae49a1ca1023cf" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>GroupOnSearch</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a701df79579335a66168296bac9d94357" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>HasOffers</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ac030a9abcff836db73a92c055f3e6a86" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>HasRatings</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1aa731dd86bd4d23e421cd89398402a8b8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>HasRequests</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a29d486ba154e543fd310416fe71a8bf6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>IsForRequest</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a30e8fe0404b56a12e5ed8312f2dae27a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>MainCategoryMerchants</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1adc062846c64eac1539d1dd800b7b54e2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>MerchantCategory</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a7cc1688e64ccacf678b65a34d00588dd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>MerchantCategoryId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1aafdcf71e3717a8cbe5a10eb359d66a35" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Merchants</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1afa2b8be6f643cf5a91e891659c4e9370" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a0e07a4ea80c57612f6c81c3f231431d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Names</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a47795a15622e5d8ddd26da80a3b9539f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Order</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a266789e5d5030deb79d3fd25a81d1642" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ParentCategory</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1ac5548e710dfde291031eb0faa762384a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ParentCategoryId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1aba148f053c3dc747b82a9ccce035bb8e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>PayableServiceAssociations</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a5f7e8a4dd671dbcea528be54d5765a16" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Portal</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a2099ab58a32de88b010ea3cd650161c5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a6130cabf63ebefd8074c3c539812b4db" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ProductMerchantCategory</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a9e2da6bbf96725dcfd40a0187084f23f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ProductTypes</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a0aec721e659cf0cd997d2a61a48dd0d7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>RatingsContext</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a23ac52f53bf65ae434b55ec85041a286" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>RatingsModeration</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae8d277870ab542b7ea809357c1c68dae" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>RatingsType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_merchant_category_1a98792f70d394a1579cbe6065cb0f64a6" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1aecc4e35424d594afa8a0dddde6b4f733" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>Services</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1ae7235d74a8798c8dbb8ef045124d5b0f" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ViewBankingInfos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a1e1efa5ed8a2207370ff9150d4b093e3" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ViewPaymentInfos</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category_1a2caac1b9c8921e3aec999a4e7ceadf41" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::ProductMerchantCategory</scope><name>ViewPublicInfos</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

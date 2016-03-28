@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="dir_075b78f0d7f3eb8f78be9d64395dc729" kind="dir">
+    <compoundname>C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor</compoundname>
+    <innerdir refid="dir_8da1fc917f59b0185b3cce2713bd2a09">C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel</innerdir>
+    <innerdir refid="dir_ef3e5926ec60f4962f5412db49ac8a42">C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products</innerdir>
+    <innerdir refid="dir_fafda09ce303deb509744eea664c1051">C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Admin</innerdir>
+    <innerdir refid="dir_932b0e5c86232ff33a93be12d914d698">C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking</innerdir>
+    <innerdir refid="dir_ffee66bf0df61d886bb25586f129eebc">C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin</innerdir>
+    <innerdir refid="dir_13a24e2f04c40edd080f022ad1cdb943">C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/"/>
+  </compounddef>
+</doxygen>

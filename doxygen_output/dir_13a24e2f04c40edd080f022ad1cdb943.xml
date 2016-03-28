@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="dir_13a24e2f04c40edd080f022ad1cdb943" kind="dir">
+    <compoundname>C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2</compoundname>
+    <innerdir refid="dir_308ea3864769098aa16a6986ec0e220a">C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/"/>
+  </compounddef>
+</doxygen>

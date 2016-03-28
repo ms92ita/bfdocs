@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Products.BaseEntity</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a6879026e79b8e604da8bfdf27a604538" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation.PayableServiceMerchantCategoryAssociationId</definition>
+        <argsstring></argsstring>
+        <name>PayableServiceMerchantCategoryAssociationId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="94" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a3273f86922d74947ad2cda34668f7229" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation.PortalId</definition>
+        <argsstring></argsstring>
+        <name>PortalId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="95" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1ace2d556ff0bc98e841bf298b1f676fd7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation.PayableServiceId</definition>
+        <argsstring></argsstring>
+        <name>PayableServiceId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="96" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a68be74912f66aa92dff4d3e55bbba644" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation.MerchantCategoryId</definition>
+        <argsstring></argsstring>
+        <name>MerchantCategoryId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="97" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a14f0bd2d9294a039b441349d97f68545" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service" kindref="compound">PayableService</ref></type>
+        <definition>PayableService Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation.PayableService</definition>
+        <argsstring></argsstring>
+        <name>PayableService</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="100" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1abd9b85ac0e06b880d1f6266f50790218" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_product_merchant_category" kindref="compound">ProductMerchantCategory</ref></type>
+        <definition>ProductMerchantCategory Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation.MerchantCategory</definition>
+        <argsstring></argsstring>
+        <name>MerchantCategory</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="101" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1034">
+        <label>Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association"/>
+        <childnode refid="1035" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1035">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1036">
+        <label>Ipertrade.BookingFor.Products.PayableServiceMerchantCategoryAssociation</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association"/>
+        <childnode refid="1037" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1037">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" line="92" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/PayableService.cs" bodystart="91" bodyend="102"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1af6eff930d95da5c29b79ae2342e1ca22" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a6a2f3d4e0bca0a211b887bac3618ce54" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a32f6c853b5e5506945d343235949ff7a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a29c37af82ff5fddd3a8bd86034c42b51" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1afb75bd350aa243a9a2877ab2b54e998b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a2f161aef8482d9ed86412384b85fab58" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a3a7b20e39272712b629cd4c4b4d01e32" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a236b9c3e985fffad541b5334f80c6d61" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1abd9b85ac0e06b880d1f6266f50790218" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>MerchantCategory</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a68be74912f66aa92dff4d3e55bbba644" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>MerchantCategoryId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a14f0bd2d9294a039b441349d97f68545" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>PayableService</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1ace2d556ff0bc98e841bf298b1f676fd7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>PayableServiceId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a6879026e79b8e604da8bfdf27a604538" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>PayableServiceMerchantCategoryAssociationId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_payable_service_merchant_category_association_1a3273f86922d74947ad2cda34668f7229" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>PortalId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1ae18b058e38973f92a26b9444f33ce150" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1acc32e5868b5b567d8053cfbcebbcb0b0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_base_entity_1a291a966e0f7c30721fde5eb861228697" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::PayableServiceMerchantCategoryAssociation</scope><name>UpdatedOn</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

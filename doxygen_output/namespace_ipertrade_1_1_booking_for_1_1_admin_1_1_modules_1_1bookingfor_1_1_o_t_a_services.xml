@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="namespace_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services" kind="namespace" language="C#">
+    <compoundname>Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices</compoundname>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_authentication" prot="public">Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::Authentication</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_web_service_o_t_a" prot="public">Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WebServiceOTA</innerclass>
+    <innerclass refid="class_ipertrade_1_1_booking_for_1_1_admin_1_1_modules_1_1bookingfor_1_1_o_t_a_services_1_1_week_day_application" prot="public">Ipertrade::BookingFor::Admin::Modules::bookingfor::OTAServices::WeekDayApplication</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/WebApplication2/Modules/bookingfor/Services/WebServiceOTA.cs" line="48" column="1"/>
+  </compounddef>
+</doxygen>

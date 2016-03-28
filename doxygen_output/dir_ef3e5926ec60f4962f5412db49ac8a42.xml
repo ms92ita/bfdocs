@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="dir_ef3e5926ec60f4962f5412db49ac8a42" kind="dir">
+    <compoundname>C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products</compoundname>
+    <innerfile refid="_attribute_8cs">Attribute.cs</innerfile>
+    <innerfile refid="_attribute_group_8cs">AttributeGroup.cs</innerfile>
+    <innerfile refid="_attribute_option_value_8cs">AttributeOptionValue.cs</innerfile>
+    <innerfile refid="_attribute_type_8cs">AttributeType.cs</innerfile>
+    <innerfile refid="_attribute_type_enum_8cs">AttributeTypeEnum.cs</innerfile>
+    <innerfile refid="_attribute_value_8cs">AttributeValue.cs</innerfile>
+    <innerfile refid="_attribute_value___boolean_8cs">AttributeValue_Boolean.cs</innerfile>
+    <innerfile refid="_attribute_value___date_8cs">AttributeValue_Date.cs</innerfile>
+    <innerfile refid="_attribute_value___decimal_8cs">AttributeValue_Decimal.cs</innerfile>
+    <innerfile refid="_attribute_value___image_8cs">AttributeValue_Image.cs</innerfile>
+    <innerfile refid="_attribute_value___int_8cs">AttributeValue_Int.cs</innerfile>
+    <innerfile refid="_attribute_value___string_8cs">AttributeValue_String.cs</innerfile>
+    <innerfile refid="_attribute_value___translation_8cs">AttributeValue_Translation.cs</innerfile>
+    <innerfile refid="_ipertrade_8_booking_for_8_products_2_base_entity_8cs">BaseEntity.cs</innerfile>
+    <innerfile refid="_ipertrade_8_booking_for_8_products_2_counter_8cs">Counter.cs</innerfile>
+    <innerfile refid="_credit_acquire_options_8cs">CreditAcquireOptions.cs</innerfile>
+    <innerfile refid="_crew_8cs">Crew.cs</innerfile>
+    <innerfile refid="_customer_crm_8cs">CustomerCrm.cs</innerfile>
+    <innerfile refid="_favorite_8cs">Favorite.cs</innerfile>
+    <innerfile refid="_generic_period_availability_8cs">GenericPeriodAvailability.cs</innerfile>
+    <innerfile refid="_ipertrade_8_booking_for_8_products_2_image_8cs">Image.cs</innerfile>
+    <innerfile refid="_master_typology_8cs">MasterTypology.cs</innerfile>
+    <innerfile refid="_merchant_category_limitation_8cs">MerchantCategoryLimitation.cs</innerfile>
+    <innerfile refid="_merchant_group_8cs">MerchantGroup.cs</innerfile>
+    <innerfile refid="_merchant_home_page_8cs">MerchantHomePage.cs</innerfile>
+    <innerfile refid="_ipertrade_8_booking_for_8_products_2_merchant_image_8cs">MerchantImage.cs</innerfile>
+    <innerfile refid="_merchant_limitation_8cs">MerchantLimitation.cs</innerfile>
+    <innerfile refid="_merchant_payment_8cs">MerchantPayment.cs</innerfile>
+    <innerfile refid="_on_sell_unit_price_history_8cs">OnSellUnitPriceHistory.cs</innerfile>
+    <innerfile refid="_order_8cs">Order.cs</innerfile>
+    <innerfile refid="_order_data_8cs">OrderData.cs</innerfile>
+    <innerfile refid="_order_status_8cs">OrderStatus.cs</innerfile>
+    <innerfile refid="_payable_service_8cs">PayableService.cs</innerfile>
+    <innerfile refid="_payment_system_8cs">PaymentSystem.cs</innerfile>
+    <innerfile refid="_policy_8cs">Policy.cs</innerfile>
+    <innerfile refid="_policy_template_8cs">PolicyTemplate.cs</innerfile>
+    <innerfile refid="_price_history_data_8cs">PriceHistoryData.cs</innerfile>
+    <innerfile refid="_product_8cs">Product.cs</innerfile>
+    <innerfile refid="_product_attribute_8cs">ProductAttribute.cs</innerfile>
+    <innerfile refid="_product_attribute_group_8cs">ProductAttributeGroup.cs</innerfile>
+    <innerfile refid="_product_attribute_type_8cs">ProductAttributeType.cs</innerfile>
+    <innerfile refid="_product_attribute_value_8cs">ProductAttributeValue.cs</innerfile>
+    <innerfile refid="_product_category_8cs">ProductCategory.cs</innerfile>
+    <innerfile refid="_product_merchant_category_8cs">ProductMerchantCategory.cs</innerfile>
+    <innerfile refid="_products_context_8cs">ProductsContext.cs</innerfile>
+    <innerfile refid="_product_service_expiration_8cs">ProductServiceExpiration.cs</innerfile>
+    <innerfile refid="_products_merchant_8cs">ProductsMerchant.cs</innerfile>
+    <innerfile refid="_products_portal_8cs">ProductsPortal.cs</innerfile>
+    <innerfile refid="_product_statistic_base_entity_8cs">ProductStatisticBaseEntity.cs</innerfile>
+    <innerfile refid="_product_translation_8cs">ProductTranslation.cs</innerfile>
+    <innerfile refid="_product_type_8cs">ProductType.cs</innerfile>
+    <innerfile refid="_product_type_validation_expression_8cs">ProductTypeValidationExpression.cs</innerfile>
+    <innerfile refid="_request_customer_8cs">RequestCustomer.cs</innerfile>
+    <innerfile refid="_request_type_8cs">RequestType.cs</innerfile>
+    <innerfile refid="_resource_8cs">Resource.cs</innerfile>
+    <innerfile refid="_resourceonsell_8cs">Resourceonsell.cs</innerfile>
+    <innerfile refid="_review_8cs">Review.cs</innerfile>
+    <innerfile refid="_review_info_8cs">ReviewInfo.cs</innerfile>
+    <innerfile refid="_service_8cs">Service.cs</innerfile>
+    <innerfile refid="_service_simple_8cs">ServiceSimple.cs</innerfile>
+    <innerfile refid="_service_type_8cs">ServiceType.cs</innerfile>
+    <innerfile refid="_user_alert_8cs">UserAlert.cs</innerfile>
+    <innerfile refid="_user_alert_search_8cs">UserAlertSearch.cs</innerfile>
+    <innerfile refid="_user_alert_search_filter_type_8cs">UserAlertSearchFilterType.cs</innerfile>
+    <innerfile refid="_user_alert_search_param_8cs">UserAlertSearchParam.cs</innerfile>
+    <innerfile refid="_user_alert_search_type_8cs">UserAlertSearchType.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Marco/Source/Workspaces/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products/"/>
+  </compounddef>
+</doxygen>

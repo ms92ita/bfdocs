@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Entities::PortalTypeFeature</compoundname>
+    <basecompoundref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity" prot="public" virt="non-virtual">Ipertrade.BookingFor.Entities.BaseEntity</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a74ef6740496aad7372642eb967fcacce" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.PortalTypeFeature.PortalTypeFeatureId</definition>
+        <argsstring></argsstring>
+        <name>PortalTypeFeatureId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="72" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a7de2f23d4ac4543ba5fcbef2cc03ee44" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.PortalTypeFeature.PortalTypeId</definition>
+        <argsstring></argsstring>
+        <name>PortalTypeId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="73" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1aeb50e16dd3b0cf2cf7a83f731b49574b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.PortalTypeFeature.RefName</definition>
+        <argsstring></argsstring>
+        <name>RefName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="74" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ab788c9a826f169be1a195cca22379146" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.PortalTypeFeature.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="75" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3b33b244b4890999c77f5f6600f3f56a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.PortalTypeFeature.Description</definition>
+        <argsstring></argsstring>
+        <name>Description</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="76" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a483ecbe7b28521b0e535b351ba9051d0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.PortalTypeFeature.ExpirationType</definition>
+        <argsstring></argsstring>
+        <name>ExpirationType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="77" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ac64b9f3a15b2ba44655967c49358f4eb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.PortalTypeFeature.FeatureType</definition>
+        <argsstring></argsstring>
+        <name>FeatureType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="78" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a9d40443d1d49ccc5e054ee7bdc636dcc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Entities.PortalTypeFeature.FixedValue</definition>
+        <argsstring></argsstring>
+        <name>FixedValue</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="79" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3fa83be1a2467903dc46dc2c37a9e0e5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Entities.PortalTypeFeature.MinValue</definition>
+        <argsstring></argsstring>
+        <name>MinValue</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="80" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3f84f41dc60846fa63123621e2bafb55" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>decimal</type>
+        <definition>decimal Ipertrade.BookingFor.Entities.PortalTypeFeature.MaxValue</definition>
+        <argsstring></argsstring>
+        <name>MaxValue</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="81" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a14b31c592bcff35ef6ac1f824331d3cd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.PortalTypeFeature.RequirePayment</definition>
+        <argsstring></argsstring>
+        <name>RequirePayment</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="82" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a5e1655e1181685015c96c5877b1d77b7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.PortalTypeFeature.FormulaType</definition>
+        <argsstring></argsstring>
+        <name>FormulaType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="83" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1aa33fc3eca86194167f9097941efa9cef" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.PortalTypeFeature.FieldEditFormula</definition>
+        <argsstring></argsstring>
+        <name>FieldEditFormula</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="84" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ac38e754cf833d790e5b90fb0e4027a04" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.PortalTypeFeature.FeeQtFormula</definition>
+        <argsstring></argsstring>
+        <name>FeeQtFormula</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="85" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a14e67acf30db27e4519095d968e9c166" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.PortalTypeFeature.CalculateFormula</definition>
+        <argsstring></argsstring>
+        <name>CalculateFormula</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="86" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3db5331fe53a52560171d53fe680d10a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Ipertrade.BookingFor.Entities.PortalTypeFeature.ConfigurationType</definition>
+        <argsstring></argsstring>
+        <name>ConfigurationType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="87" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a0f38ed60df4636e29c1e546bb70b4122" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Ipertrade.BookingFor.Entities.PortalTypeFeature.Configuration</definition>
+        <argsstring></argsstring>
+        <name>Configuration</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="88" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ad8b63405e8610a22d5a97d9b1a788f1e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.PortalTypeFeature.ViewOnCreate</definition>
+        <argsstring></argsstring>
+        <name>ViewOnCreate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="89" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3e22983603bcb79c3c8c6d55b437d646" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.PortalTypeFeature.ViewOnEdit</definition>
+        <argsstring></argsstring>
+        <name>ViewOnEdit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="90" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a6938e431cf526b7477f0c24357443d63" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>bool</type>
+        <definition>bool Ipertrade.BookingFor.Entities.PortalTypeFeature.ViewFirstCheckoutOnly</definition>
+        <argsstring></argsstring>
+        <name>ViewFirstCheckoutOnly</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="91" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="91" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ad61c8ff1ca3947b00dc35e7d639596bc" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>ICollection&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_item_fee" kindref="compound">PortalItemFee</ref> &gt;</type>
+        <definition>virtual ICollection&lt;PortalItemFee&gt; Ipertrade.BookingFor.Entities.PortalTypeFeature.PortalItemFees</definition>
+        <argsstring></argsstring>
+        <name>PortalItemFees</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="93" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a2cba43180ffb132bc0b8b0dc7a6d97fb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type" kindref="compound">PortalType</ref></type>
+        <definition>virtual PortalType Ipertrade.BookingFor.Entities.PortalTypeFeature.PortalType</definition>
+        <argsstring></argsstring>
+        <name>PortalType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="94" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a1ab64f899c1f533f61d4fbcf94bc8ec8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Entities.PortalTypeFeature.PortalTypeFeature</definition>
+        <argsstring>()</argsstring>
+        <name>PortalTypeFeature</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="66" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="66" bodyend="70"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1204">
+        <label>Ipertrade.BookingFor.Entities.PortalTypeFeature</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature"/>
+        <childnode refid="1205" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1205">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1206">
+        <label>Ipertrade.BookingFor.Entities.PortalTypeFeature</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature"/>
+        <childnode refid="1207" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1207">
+        <label>BaseEntity</label>
+        <link refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity"/>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" line="65" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/PortalType.cs" bodystart="64" bodyend="95"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a2c917f1a7af17fb7a07b505c90c59626" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>AddedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a8436a0d4b9ec879232af2e941302cd6c" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>AddedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa7ac8d0f2628eacbe66a6732a6d76f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>BaseEntity</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a14e67acf30db27e4519095d968e9c166" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>CalculateFormula</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a0f38ed60df4636e29c1e546bb70b4122" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>Configuration</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3db5331fe53a52560171d53fe680d10a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>ConfigurationType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a27dff776577f042378b786e15eea8db2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>DeletedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a7c18543ea2a8ae5d92dca407458c094e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>DeletedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3b33b244b4890999c77f5f6600f3f56a" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>Description</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a483ecbe7b28521b0e535b351ba9051d0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>ExpirationType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ac64b9f3a15b2ba44655967c49358f4eb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>FeatureType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ac38e754cf833d790e5b90fb0e4027a04" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>FeeQtFormula</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1aa33fc3eca86194167f9097941efa9cef" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>FieldEditFormula</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a9d40443d1d49ccc5e054ee7bdc636dcc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>FixedValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a5e1655e1181685015c96c5877b1d77b7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>FormulaType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1a4575c5c9635db5382296d8831ca6d837" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>IsActive</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1ae4b1e78c6652f9a2925381f44a6a2c93" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>IsDeleted</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa150146272f383b233e3f4e8f90ec3c4" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>IsModified</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3f84f41dc60846fa63123621e2bafb55" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>MaxValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3fa83be1a2467903dc46dc2c37a9e0e5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>MinValue</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ab788c9a826f169be1a195cca22379146" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>Name</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ad61c8ff1ca3947b00dc35e7d639596bc" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>PortalItemFees</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a2cba43180ffb132bc0b8b0dc7a6d97fb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>PortalType</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a1ab64f899c1f533f61d4fbcf94bc8ec8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>PortalTypeFeature</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a74ef6740496aad7372642eb967fcacce" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>PortalTypeFeatureId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a7de2f23d4ac4543ba5fcbef2cc03ee44" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>PortalTypeId</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1aeb50e16dd3b0cf2cf7a83f731b49574b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>RefName</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a14b31c592bcff35ef6ac1f824331d3cd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>RequirePayment</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaaaccf547b63b29a8c620a6d2342b0d5" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>RowVersion</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aaf2e9fe081cc33fb785785e7727040b9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>UpdatedBy</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_base_entity_1aa5a3451f5bc8c5ada688945d1cb46fa0" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>UpdatedOn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a6938e431cf526b7477f0c24357443d63" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>ViewFirstCheckoutOnly</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1ad8b63405e8610a22d5a97d9b1a788f1e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>ViewOnCreate</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_entities_1_1_portal_type_feature_1a3e22983603bcb79c3c8c6d55b437d646" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Entities::PortalTypeFeature</scope><name>ViewOnEdit</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

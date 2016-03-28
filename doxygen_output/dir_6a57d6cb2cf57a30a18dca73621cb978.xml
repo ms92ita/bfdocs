@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="dir_6a57d6cb2cf57a30a18dca73621cb978" kind="dir">
+    <compoundname>D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes</compoundname>
+    <innerfile refid="_credit_card_data_8cs">CreditCardData.cs</innerfile>
+    <innerfile refid="_extra_8cs">Extra.cs</innerfile>
+    <innerfile refid="_pax_8cs">Pax.cs</innerfile>
+    <innerfile refid="_price_calculated_result_8cs">PriceCalculatedResult.cs</innerfile>
+    <innerfile refid="_price_type_8cs">PriceType.cs</innerfile>
+    <innerfile refid="_product_stay_simple_8cs">ProductStaySimple.cs</innerfile>
+    <innerfile refid="_rate_plan_calculate_result_8cs">RatePlanCalculateResult.cs</innerfile>
+    <innerfile refid="_rate_plan_price_calculate_parameter_8cs">RatePlanPriceCalculateParameter.cs</innerfile>
+    <innerfile refid="_variation_calculated_result_8cs">VariationCalculatedResult.cs</innerfile>
+    <innerfile refid="_variation_detail_option_object_8cs">VariationDetailOptionObject.cs</innerfile>
+    <innerfile refid="_variation_plan_type_8cs">VariationPlanType.cs</innerfile>
+    <innerfile refid="_variation_price_calculated_result_8cs">VariationPriceCalculatedResult.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/"/>
+  </compounddef>
+</doxygen>

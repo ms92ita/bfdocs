@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="dir_8d20048a7e110268224d6e8101250561" kind="dir">
+    <compoundname>D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel</compoundname>
+    <innerfile refid="_address_data_8cs">AddressData.cs</innerfile>
+    <innerfile refid="_asp_net_role_8cs">AspNetRole.cs</innerfile>
+    <innerfile refid="_asp_net_user_8cs">AspNetUser.cs</innerfile>
+    <innerfile refid="_asp_net_user_claim_8cs">AspNetUserClaim.cs</innerfile>
+    <innerfile refid="_asp_net_user_login_8cs">AspNetUserLogin.cs</innerfile>
+    <innerfile refid="_asp_net_user_role_8cs">AspNetUserRole.cs</innerfile>
+    <innerfile refid="_entity_model_2_base_entity_8cs">BaseEntity.cs</innerfile>
+    <innerfile refid="_b_f6_context_8cs">BF6Context.cs</innerfile>
+    <innerfile refid="_city_8cs">City.cs</innerfile>
+    <innerfile refid="_entity_model_2_counter_8cs">Counter.cs</innerfile>
+    <innerfile refid="_currency_code_8cs">CurrencyCode.cs</innerfile>
+    <innerfile refid="_endpoint_8cs">Endpoint.cs</innerfile>
+    <innerfile refid="_event_calender_8cs">EventCalender.cs</innerfile>
+    <innerfile refid="_geographic_zone_8cs">GeographicZone.cs</innerfile>
+    <innerfile refid="_entity_model_2_image_8cs">Image.cs</innerfile>
+    <innerfile refid="_internal_task_8cs">InternalTask.cs</innerfile>
+    <innerfile refid="_language_code_8cs">LanguageCode.cs</innerfile>
+    <innerfile refid="_mail_8cs">Mail.cs</innerfile>
+    <innerfile refid="_mail_template_8cs">MailTemplate.cs</innerfile>
+    <innerfile refid="_menu_8cs">Menu.cs</innerfile>
+    <innerfile refid="_menu_item_8cs">MenuItem.cs</innerfile>
+    <innerfile refid="_menu_item_permission_8cs">MenuItemPermission.cs</innerfile>
+    <innerfile refid="_menu_permission_8cs">MenuPermission.cs</innerfile>
+    <innerfile refid="_merchant_8cs">Merchant.cs</innerfile>
+    <innerfile refid="_merchant_average_8cs">MerchantAverage.cs</innerfile>
+    <innerfile refid="_merchant_category_8cs">MerchantCategory.cs</innerfile>
+    <innerfile refid="_merchant_category_simple_8cs">MerchantCategorySimple.cs</innerfile>
+    <innerfile refid="_entity_model_2_merchant_image_8cs">MerchantImage.cs</innerfile>
+    <innerfile refid="_merchant_type_8cs">MerchantType.cs</innerfile>
+    <innerfile refid="_module_8cs">Module.cs</innerfile>
+    <innerfile refid="_module_group_8cs">ModuleGroup.cs</innerfile>
+    <innerfile refid="_module_permission_8cs">ModulePermission.cs</innerfile>
+    <innerfile refid="_notes_8cs">Notes.cs</innerfile>
+    <innerfile refid="_page_8cs">Page.cs</innerfile>
+    <innerfile refid="_page_permission_8cs">PagePermission.cs</innerfile>
+    <innerfile refid="_permission_8cs">Permission.cs</innerfile>
+    <innerfile refid="_photo_8cs">Photo.cs</innerfile>
+    <innerfile refid="_portal_8cs">Portal.cs</innerfile>
+    <innerfile refid="_portal_invoice_8cs">PortalInvoice.cs</innerfile>
+    <innerfile refid="_portal_item_fee_8cs">PortalItemFee.cs</innerfile>
+    <innerfile refid="_portal_manager_8cs">PortalManager.cs</innerfile>
+    <innerfile refid="_portal_setting_key_8cs">PortalSettingKey.cs</innerfile>
+    <innerfile refid="_portal_type_8cs">PortalType.cs</innerfile>
+    <innerfile refid="_region_8cs">Region.cs</innerfile>
+    <innerfile refid="_search_merchant_8cs">SearchMerchant.cs</innerfile>
+    <innerfile refid="_service_custom_principal_8cs">ServiceCustomPrincipal.cs</innerfile>
+    <innerfile refid="_setting_key_8cs">SettingKey.cs</innerfile>
+    <innerfile refid="_state_8cs">State.cs</innerfile>
+    <innerfile refid="_state_portal_assoc_type_8cs">StatePortalAssocType.cs</innerfile>
+    <innerfile refid="sysdiagram_8cs">sysdiagram.cs</innerfile>
+    <innerfile refid="_time_zone_8cs">TimeZone.cs</innerfile>
+    <innerfile refid="_translation_8cs">Translation.cs</innerfile>
+    <innerfile refid="_url_8cs">Url.cs</innerfile>
+    <innerfile refid="_user_access_url_8cs">UserAccessUrl.cs</innerfile>
+    <innerfile refid="_user_url_link_8cs">UserUrlLink.cs</innerfile>
+    <innerfile refid="_user_widget_8cs">UserWidget.cs</innerfile>
+    <innerfile refid="_user_widget_access_8cs">UserWidgetAccess.cs</innerfile>
+    <innerfile refid="_widget_8cs">Widget.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/EntityModel/"/>
+  </compounddef>
+</doxygen>

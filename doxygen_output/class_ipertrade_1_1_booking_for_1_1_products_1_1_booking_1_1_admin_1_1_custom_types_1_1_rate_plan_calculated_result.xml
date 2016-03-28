@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result" kind="class" language="C#" prot="public">
+    <compoundname>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a631a5d5c5a0f80a85fcd4f0ccd0dd0fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="yes" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter" kindref="compound">RatePlanPriceCalculateParameter</ref></type>
+        <definition>RatePlanPriceCalculateParameter Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.CalculateParameter</definition>
+        <argsstring></argsstring>
+        <name>CalculateParameter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="12" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1aff93925169025057c54b2ba8419da6cb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="yes" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan" kindref="compound">RatePlan</ref></type>
+        <definition>RatePlan Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.RatePlan</definition>
+        <argsstring></argsstring>
+        <name>RatePlan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="14" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a4096904410af0b22a10c5c4c40d0a7ec" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>Decimal</type>
+        <definition>Decimal Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.TotalAmount</definition>
+        <argsstring></argsstring>
+        <name>TotalAmount</name>
+        <briefdescription>
+<para>Gets or sets the total amount. </para>        </briefdescription>
+        <detaileddescription>
+<para>The total amount.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="30" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a750367c32096bee9d0a09faddc158e15" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>Decimal</type>
+        <definition>Decimal Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.TotalCalculatedAmount</definition>
+        <argsstring></argsstring>
+        <name>TotalCalculatedAmount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="32" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a64b3fd146d817f694d86bdea80e72c6b" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>Decimal</type>
+        <definition>Decimal Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.BestVariationAmount</definition>
+        <argsstring></argsstring>
+        <name>BestVariationAmount</name>
+        <briefdescription>
+<para>Gets or sets the best variation amount. </para>        </briefdescription>
+        <detaileddescription>
+<para>The best variation amount. This defines the best &quot;Discount&quot; esclusively applied </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="38" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a269ed9835137912051165dfdfdbecc81" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" kindref="compound">VariationPlan</ref></type>
+        <definition>VariationPlan Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.BestVariationPlan</definition>
+        <argsstring></argsstring>
+        <name>BestVariationPlan</name>
+        <briefdescription>
+<para>Gets or sets the best variation plan. </para>        </briefdescription>
+        <detaileddescription>
+<para>The best variation plan.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="43" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1abc989953cfefc8ecfe1e07c361e381e8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>Decimal</type>
+        <definition>Decimal Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.SupplementVariationAmount</definition>
+        <argsstring></argsstring>
+        <name>SupplementVariationAmount</name>
+        <briefdescription>
+<para>Gets or sets the supplement variation amount. </para>        </briefdescription>
+        <detaileddescription>
+<para>The supplement variation amount. This defines the cheapest &quot;Supplement&quot; esclusively applied </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="48" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a222a867f4f537ec1a90daad0945526a9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_variation_plan" kindref="compound">VariationPlan</ref></type>
+        <definition>VariationPlan Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.SupplementVariationPlan</definition>
+        <argsstring></argsstring>
+        <name>SupplementVariationPlan</name>
+        <briefdescription>
+<para>Gets or sets the supplement variation plan. </para>        </briefdescription>
+        <detaileddescription>
+<para>The supplement variation plan.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="53" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a1b466ef3fc71df37a84660500aeb7dc7" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.CheckIn</definition>
+        <argsstring></argsstring>
+        <name>CheckIn</name>
+        <briefdescription>
+<para>Gets or sets the check in. </para>        </briefdescription>
+        <detaileddescription>
+<para>The check in.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="58" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1ac67e3d725509a8904546d1ddf2d2fc95" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DateTime</type>
+        <definition>DateTime Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.CheckOut</definition>
+        <argsstring></argsstring>
+        <name>CheckOut</name>
+        <briefdescription>
+<para>Gets or sets the check out. </para>        </briefdescription>
+        <detaileddescription>
+<para>The check out.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="63" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1af21add0901adcebabac3326823ef132e" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>IList&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_price_calculated_result" kindref="compound">PriceCalculatedResult</ref> &gt;</type>
+        <definition>IList&lt;PriceCalculatedResult&gt; Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.Prices</definition>
+        <argsstring></argsstring>
+        <name>Prices</name>
+        <briefdescription>
+<para>Gets or sets the prices. </para>        </briefdescription>
+        <detaileddescription>
+<para>The prices.</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="68" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a110ffae1f8cd9b3acc7014a8f567bca2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>IList&lt; <ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_variation_calculated_result" kindref="compound">VariationCalculatedResult</ref> &gt;</type>
+        <definition>IList&lt;VariationCalculatedResult&gt; Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.Variations</definition>
+        <argsstring></argsstring>
+        <name>Variations</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="70" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1add03233f554754e5c8b7f8f39cf3d817" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanCalculatedResult.RatePlanCalculatedResult</definition>
+        <argsstring>(RatePlan ratePlan, RatePlanPriceCalculateParameter criteria)</argsstring>
+        <name>RatePlanCalculatedResult</name>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_rate_plan" kindref="compound">RatePlan</ref></type>
+          <declname>ratePlan</declname>
+        </param>
+        <param>
+          <type><ref refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter" kindref="compound">RatePlanPriceCalculateParameter</ref></type>
+          <declname>criteria</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="16" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="16" bodyend="24"/>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter_1a0c661e8b56a1471209aa0bf8d9eb7520" compoundref="_rate_plan_price_calculate_parameter_8cs" startline="31">Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanPriceCalculateParameter.CheckIn</references>
+        <references refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_price_calculate_parameter_1a79be02c98891f84bcb630c6da4cee601" compoundref="_rate_plan_price_calculate_parameter_8cs" startline="18">Ipertrade.BookingFor.Products.Booking.Admin.CustomTypes.RatePlanPriceCalculateParameter.CheckOut</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" line="11" column="1" bodyfile="D:/Source/BookingForAdminV6.0/Ipertrade.BookingFor/Ipertrade.BookingFor.Products.Booking.Admin/CustomTypes/RatePlanCalculateResult.cs" bodystart="10" bodyend="71"/>
+    <listofallmembers>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a64b3fd146d817f694d86bdea80e72c6b" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>BestVariationAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a269ed9835137912051165dfdfdbecc81" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>BestVariationPlan</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a631a5d5c5a0f80a85fcd4f0ccd0dd0fd" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>CalculateParameter</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a1b466ef3fc71df37a84660500aeb7dc7" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>CheckIn</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1ac67e3d725509a8904546d1ddf2d2fc95" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>CheckOut</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1af21add0901adcebabac3326823ef132e" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>Prices</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1aff93925169025057c54b2ba8419da6cb" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>RatePlan</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1add03233f554754e5c8b7f8f39cf3d817" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>RatePlanCalculatedResult</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1abc989953cfefc8ecfe1e07c361e381e8" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>SupplementVariationAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a222a867f4f537ec1a90daad0945526a9" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>SupplementVariationPlan</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a4096904410af0b22a10c5c4c40d0a7ec" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>TotalAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a750367c32096bee9d0a09faddc158e15" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>TotalCalculatedAmount</name></member>
+      <member refid="class_ipertrade_1_1_booking_for_1_1_products_1_1_booking_1_1_admin_1_1_custom_types_1_1_rate_plan_calculated_result_1a110ffae1f8cd9b3acc7014a8f567bca2" prot="public" virt="non-virtual"><scope>Ipertrade::BookingFor::Products::Booking::Admin::CustomTypes::RatePlanCalculatedResult</scope><name>Variations</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
