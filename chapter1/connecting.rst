@@ -1,5 +1,5 @@
 Connecting to the API
-===============
+=====================
 
 When you have created your account, by default you have a “development” subscription but no further costs for you, so you can test some of major cases of main feature of the BookingFor platform. Plerase note that an API key authentication is valid only for a single subscription, even if a customer has more BookingFor subscriptions.
 
