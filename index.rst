@@ -6,21 +6,15 @@
 Welcome to BookingFor's documentation!
 ======================================
 
+Introduction
+-------------
+The BookingFor API allows developers to expand and build on the BookingFor Platform. The API makes it easy to create web, desktop & mobile applications that directly integrate and interact with your BookingFor subscription.
+This API is built around open standards (OData, WCF) to streamline development and maintain the integrity of your data.
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
-   
-.. doxygenclass:: Ipertrade::BookingFor::Admin::Modules::bookingfor::Services::BookingService
-   :members:
-   
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+	chapter1/gettingstarted
+	chapter1/connecting
+	chapter1/rqformat
