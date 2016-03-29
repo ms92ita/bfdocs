@@ -1,7 +1,7 @@
 Connecting to the API
-=====================
+===========================
 
-When you have created your account, by default you have a “development” subscription but no further costs for you, so you can test some of major cases of main feature of the BookingFor platform. Plerase note that an API key authentication is valid only for a single subscription, even if a customer has more BookingFor subscriptions.
+When you have created your account, by default you have a "development" subscription but no further costs for you, so you can test some of major cases of main feature of the BookingFor platform. Plerase note that an API key authentication is valid only for a single subscription, even if a customer has more BookingFor subscriptions.
 
 Once you are able to switch on your implementation in production, you must make a request you your customer to obtain his API key authentication.
 
@@ -21,4 +21,4 @@ Authorization: Basic yourapikey
 
 Also you can append the Api key in HTTP query string as in this example:
 
-https://api.bookingfor.com/BookingService.svc/GetUsers?apikey=yourapikey
+https://yoursubscription.bookingfor.com/BookingService.svc/Method?apikey=yourapikey

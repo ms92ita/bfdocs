@@ -1,5 +1,5 @@
 Request formatting
-===============
+==================
 
 Our services supports the SSL encryption using standard HTTPS mwthods such as GET and POST.
 

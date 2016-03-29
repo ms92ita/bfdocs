@@ -13,9 +13,18 @@ This API is built around open standards (OData, WCF) to streamline development a
 
 Contents:
 
+Overview
+--------
 .. toctree::
 	:maxdepth: 2
 	
 	chapter1/gettingstarted
 	chapter1/connecting
 	chapter1/rqformat
+	
+External references
+-------------------
+.. toctree::
+	:maxdepth: 2
+	
+	external
